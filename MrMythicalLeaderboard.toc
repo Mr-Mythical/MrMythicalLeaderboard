@@ -1,0 +1,17 @@
+## Interface: 110107
+## Title: Mr. Mythical: Leaderboard
+## Notes: Shows the top Mythic+ runs from Raider.IO with keystone tooltips
+## Author: Braunerr
+## IconTexture: Interface\AddOns\MrMythicalLeaderboard\Logo.tga
+## Version: @project-version@
+## SavedVariables: MrMythicalLeaderboardDB
+
+Data\LeaderboardData.lua
+Data\ConfigData.lua
+Data\DungeonData.lua
+Data\GradientsData.lua
+Utils\KeystoneUtils.lua
+Utils\ColorUtils.lua
+Utils\TimeUtils.lua
+Options.lua
+Core.lua

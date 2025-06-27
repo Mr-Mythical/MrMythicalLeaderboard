@@ -1,0 +1,428 @@
+--[[
+LeaderboardData.lua - Mythic+ Leaderboard Data
+
+Purpose: Contains cached leaderboard data from Raider.IO for top runs
+Dependencies: None
+Author: Braunerr
+--]]
+
+local MrMythicalLeaderboardData = {
+  lastUpdated = 1750904513,
+  dungeons = {
+    ["operation-mechagon-workshop"] = {
+      name = "Mechagon Workshop",
+      runs = {
+        {
+          rank = 1,
+          score = 504.3,
+          level = 21,
+          time = 1701411,
+          keystoneTime = 1920999,
+          chests = 1,
+          completedAt = "2025-06-23T14:48:33.000Z",
+          roster = {
+            {
+              name = "Yarrgidudu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayije",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Kiradh",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["the-rookery"] = {
+      name = "The Rookery",
+      runs = {
+        {
+          rank = 1,
+          score = 502.6,
+          level = 21,
+          time = 1620417,
+          keystoneTime = 1740999,
+          chests = 1,
+          completedAt = "2025-06-24T11:18:59.000Z",
+          roster = {
+            {
+              name = "Yarrgidudu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayije",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Kiradh",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["operation-floodgate"] = {
+      name = "Operation: Floodgate",
+      runs = {
+        {
+          rank = 1,
+          score = 502.9,
+          level = 21,
+          time = 1830283,
+          keystoneTime = 1980999,
+          chests = 1,
+          completedAt = "2025-06-23T13:01:17.000Z",
+          roster = {
+            {
+              name = "Yarrgidudu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayije",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Kiradh",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["the-motherlode"] = {
+      name = "The MOTHERLODE!!",
+      runs = {
+        {
+          rank = 1,
+          score = 515.6,
+          level = 22,
+          time = 1949113,
+          keystoneTime = 1980999,
+          chests = 1,
+          completedAt = "2025-06-19T12:13:27.000Z",
+          roster = {
+            {
+              name = "Yarrgidudu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayije",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Kiradh",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["darkflame-cleft"] = {
+      name = "Darkflame Cleft",
+      runs = {
+        {
+          rank = 1,
+          score = 519.4,
+          level = 22,
+          time = 1643504,
+          keystoneTime = 1860999,
+          chests = 1,
+          completedAt = "2025-06-24T15:16:23.000Z",
+          roster = {
+            {
+              name = "Yarrgidudu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayije",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Kiradh",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["cinderbrew-meadery"] = {
+      name = "Cinderbrew Meadery",
+      runs = {
+        {
+          rank = 1,
+          score = 504.4,
+          level = 21,
+          time = 1747874,
+          keystoneTime = 1980999,
+          chests = 1,
+          completedAt = "2025-06-24T21:40:10.000Z",
+          roster = {
+            {
+              name = "Drjay",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Ragnaros",
+              level = 80,
+            },
+            {
+              name = "Sjelune",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Woiben",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Lazelmewmew",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Draenor",
+              level = 80,
+            },
+            {
+              name = "Casualdk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Kazzak",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["priory-of-the-sacred-flame"] = {
+      name = "Priory of the Sacred Flame",
+      runs = {
+        {
+          rank = 1,
+          score = 501,
+          level = 21,
+          time = 1898994,
+          keystoneTime = 1950999,
+          chests = 1,
+          completedAt = "2025-06-24T20:51:36.000Z",
+          roster = {
+            {
+              name = "Drjay",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Ragnaros",
+              level = 80,
+            },
+            {
+              name = "Sjelune",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Woiben",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Lazelmewmew",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Draenor",
+              level = 80,
+            },
+            {
+              name = "Casualdk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Kazzak",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["theater-of-pain"] = {
+      name = "Theater of Pain",
+      runs = {
+        {
+          rank = 1,
+          score = 502.9,
+          level = 21,
+          time = 1882323,
+          keystoneTime = 2040999,
+          chests = 1,
+          completedAt = "2025-06-18T16:41:08.000Z",
+          roster = {
+            {
+              name = "Yarrgidudu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayije",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Kiradh",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+  },
+}
+
+MrMythicalLeaderboard = MrMythicalLeaderboard or {}
+MrMythicalLeaderboard.Data = MrMythicalLeaderboardData
+
+-- Also create global variables for fallback access
+_G.MrMythicalLeaderboardData = MrMythicalLeaderboardData
+
