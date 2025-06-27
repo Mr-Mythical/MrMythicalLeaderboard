@@ -4,6 +4,8 @@
 ## Author: Braunerr
 ## IconTexture: Interface\AddOns\MrMythicalLeaderboard\Logo.tga
 ## Version: @project-version@
+## X-Curse-Project-ID: 1295509
+## X-Wago-ID: 4N2mZ4GL
 ## SavedVariables: MrMythicalLeaderboardDB
 
 Data\LeaderboardData.lua
