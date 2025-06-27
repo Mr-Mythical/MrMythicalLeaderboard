@@ -1,13 +1,5 @@
---[[
-LeaderboardData.lua - Mythic+ Leaderboard Data
-
-Purpose: Contains cached leaderboard data from Raider.IO for top runs
-Dependencies: None
-Author: Braunerr
---]]
-
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1750904513,
+  lastUpdated = 1750994045,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
@@ -425,4 +417,3 @@ MrMythicalLeaderboard.Data = MrMythicalLeaderboardData
 
 -- Also create global variables for fallback access
 _G.MrMythicalLeaderboardData = MrMythicalLeaderboardData
-
