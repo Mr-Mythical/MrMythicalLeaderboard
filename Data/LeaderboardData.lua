@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1751218523,
+  lastUpdated = 1751241829,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
