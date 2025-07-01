@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1751360626,
+  lastUpdated = 1751381039,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501,
+          score = 502.2,
           level = 21,
-          time = 1898994,
+          time = 1839023,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-06-24T20:51:36.000Z",
+          completedAt = "2025-07-01T13:48:28.000Z",
           roster = {
             {
-              name = "Drjay",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Ragnaros",
-              level = 80,
-            },
-            {
-              name = "Sjelune",
-              class = "Druid",
-              spec = "Balance",
-              realm = "Twisting Nether",
-              level = 80,
-            },
-            {
-              name = "Woiben",
-              class = "Priest",
-              spec = "Discipline",
-              realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Lazelmewmew",
+              name = "Anuored",
               class = "Demon Hunter",
               spec = "Vengeance",
-              realm = "Draenor",
+              realm = "Shadowmourne",
+              level = 60,
+            },
+            {
+              name = "风为",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Silvermoon",
               level = 80,
             },
             {
-              name = "Casualdk",
+              name = "冷冷如秋",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Rhonin",
+              level = 80,
+            },
+            {
+              name = "Annieguu",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Stormscale",
+              level = 80,
+            },
+            {
+              name = "波比大王丶",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Kazzak",
+              realm = "Rhonin",
               level = 80,
             },
           },
