@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1751522404,
+  lastUpdated = 1751554187,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
@@ -14,10 +14,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-06-23T14:48:33.000Z",
           roster = {
             {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Yarrgidudu",
               class = "Druid",
               spec = "Balance",
               realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
@@ -32,20 +46,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Tarren Mill",
               level = 80,
             },
           },
@@ -65,10 +65,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-06-24T11:18:59.000Z",
           roster = {
             {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Yarrgidudu",
               class = "Druid",
               spec = "Balance",
               realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
@@ -83,20 +97,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Tarren Mill",
               level = 80,
             },
           },
@@ -116,10 +116,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-06-23T13:01:17.000Z",
           roster = {
             {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Yarrgidudu",
               class = "Druid",
               spec = "Balance",
               realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
@@ -134,20 +148,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Tarren Mill",
               level = 80,
             },
           },
@@ -181,6 +181,13 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
+              name = "Casualdk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Woiben",
               class = "Priest",
               spec = "Discipline",
@@ -192,13 +199,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Casualdk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Kazzak",
               level = 80,
             },
           },
@@ -218,10 +218,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-06-24T15:16:23.000Z",
           roster = {
             {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Yarrgidudu",
               class = "Druid",
               spec = "Balance",
               realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
@@ -236,20 +250,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Tarren Mill",
               level = 80,
             },
           },
@@ -283,6 +283,13 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
+              name = "Casualdk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Woiben",
               class = "Priest",
               spec = "Discipline",
@@ -294,13 +301,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Casualdk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Kazzak",
               level = 80,
             },
           },
@@ -320,24 +320,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-07-01T13:48:28.000Z",
           roster = {
             {
-              name = "Anuored",
-              class = "Demon Hunter",
-              spec = "Vengeance",
-              realm = "Shadowmourne",
-              level = 60,
-            },
-            {
               name = "风为",
               class = "Mage",
               spec = "Arcane",
               realm = "Silvermoon",
-              level = 80,
-            },
-            {
-              name = "冷冷如秋",
-              class = "Priest",
-              spec = "Discipline",
-              realm = "Rhonin",
               level = 80,
             },
             {
@@ -353,6 +339,20 @@ local MrMythicalLeaderboardData = {
               spec = "Unholy",
               realm = "Rhonin",
               level = 80,
+            },
+            {
+              name = "冷冷如秋",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Rhonin",
+              level = 80,
+            },
+            {
+              name = "Anuored",
+              class = "Demon Hunter",
+              spec = "Vengeance",
+              realm = "Shadowmourne",
+              level = 60,
             },
           },
         },
@@ -371,10 +371,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-06-18T16:41:08.000Z",
           roster = {
             {
+              name = "Hearthjacks",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Yarrgidudu",
               class = "Druid",
               spec = "Balance",
               realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
@@ -389,20 +403,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Vengeance",
               realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Tarren Mill",
               level = 80,
             },
           },
