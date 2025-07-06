@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1751643163,
+  lastUpdated = 1751805234,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
@@ -363,12 +363,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502.9,
+          score = 503.4,
           level = 21,
-          time = 1882323,
+          time = 1856017,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2025-06-18T16:41:08.000Z",
+          completedAt = "2025-07-05T16:15:59.000Z",
           roster = {
             {
               name = "Hearthjacks",
