@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1751824805,
+  lastUpdated = 1751894776,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 504.4,
+          score = 504.5,
           level = 21,
-          time = 1747874,
+          time = 1741301,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2025-06-24T21:40:10.000Z",
+          completedAt = "2025-07-07T12:54:21.000Z",
           roster = {
             {
-              name = "Drjay",
+              name = "Críms",
               class = "Mage",
               spec = "Arcane",
-              realm = "Ragnaros",
+              realm = "Draenor",
               level = 80,
             },
             {
-              name = "Sjelune",
+              name = "Miragedruid",
               class = "Druid",
               spec = "Balance",
-              realm = "Twisting Nether",
+              realm = "Draenor",
               level = 80,
             },
             {
-              name = "Casualdk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Woiben",
+              name = "Arthypie",
               class = "Priest",
               spec = "Discipline",
-              realm = "Sylvanas",
+              realm = "Draenor",
               level = 80,
             },
             {
-              name = "Lazelmewmew",
+              name = "Aenia",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Draenor",
+              level = 80,
+            },
+            {
+              name = "Darkgoat",
               class = "Demon Hunter",
               spec = "Vengeance",
-              realm = "Draenor",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
