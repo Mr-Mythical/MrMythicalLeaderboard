@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1752429603,
+  lastUpdated = 1752493389,
   dungeons = {
     ["operation-mechagon-workshop"] = {
       name = "Mechagon Workshop",
@@ -159,12 +159,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 515.7,
+          score = 516.7,
           level = 22,
-          time = 1941627,
+          time = 1889018,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2025-06-30T16:17:10.000Z",
+          completedAt = "2025-07-13T23:16:24.000Z",
           roster = {
             {
               name = "Drjay",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502.2,
+          score = 503.8,
           level = 21,
-          time = 1838909,
+          time = 1752331,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-07-06T13:08:51.000Z",
+          completedAt = "2025-07-13T22:18:49.000Z",
           roster = {
             {
-              name = "Farover",
-              class = "Warrior",
-              spec = "Arms",
-              realm = "Ravencrest",
+              name = "Drjay",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Ragnaros",
               level = 80,
             },
             {
-              name = "Murtaz",
+              name = "Sjelune",
               class = "Druid",
-              spec = "Feral",
+              spec = "Balance",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Casualdk",
+              class = "Death Knight",
+              spec = "Unholy",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Tomelvis",
-              class = "Rogue",
-              spec = "Outlaw",
+              name = "Woiben",
+              class = "Priest",
+              spec = "Discipline",
+              realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Lazelmewmew",
+              class = "Demon Hunter",
+              spec = "Vengeance",
               realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Xhanon",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Monksea",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Ravencrest",
               level = 80,
             },
           },
