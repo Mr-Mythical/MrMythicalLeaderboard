@@ -10,14 +10,14 @@ local MrMythicalLeaderboard = MrMythicalLeaderboard or {}
 
 MrMythicalLeaderboard.DungeonData = {
     MYTHIC_MAPS = {
-        { id = 506, name = "Cinderbrew Meadery" },
-        { id = 504, name = "Darkflame Cleft" },
-        { id = 370, name = "Mechagon Workshop" },
+        { id = 503, name = "Ara-kara, City of Echoes" },
+        { id = 542, name = "Eco-Dome Al'dani" },
+        { id = 378, name = "Halls of Atonement" },
         { id = 525, name = "Operation: Floodgate" },
         { id = 499, name = "Priory of the Sacred Flame" },
-        { id = 247, name = "The MOTHERLODE!!" },
-        { id = 500, name = "The Rookery" },
-        { id = 382, name = "Theater of Pain" }
+        { id = 392, name = "Tazavesh: So'leah's Gambit" },
+        { id = 391, name = "Tazavesh: Streets of Wonder" },
+        { id = 505, name = "The Dawnbreaker" }
     }
 }
 
