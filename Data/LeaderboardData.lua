@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1755345603,
+  lastUpdated = 1755367203,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -79,7 +79,7 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Casualaddict",
+              name = "Casualaddict-238360102",
               class = "Rogue",
               spec = "Assassination",
               realm = "Kazzak",
@@ -159,12 +159,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 399.6,
-          level = 14,
-          time = 1686851,
+          score = 411.5,
+          level = 15,
+          time = 1846189,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-08-15T14:48:31.000Z",
+          completedAt = "2025-08-16T14:12:06.000Z",
           roster = {
             {
               name = "Farover",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 396.6,
-          level = 14,
-          time = 1839678,
-          keystoneTime = 1920999,
+          score = 413.7,
+          level = 15,
+          time = 1841912,
+          keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2025-08-14T21:48:37.000Z",
+          completedAt = "2025-08-16T16:54:57.000Z",
           roster = {
             {
-              name = "Melee",
-              class = "Paladin",
-              spec = "Retribution",
-              realm = "Nathrezim",
+              name = "林青霞丶",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Shadowmourne",
               level = 80,
             },
             {
-              name = "Gillick",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Tichondrius",
+              name = "逗逗德",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "The Master's Glaive",
               level = 80,
             },
             {
-              name = "Budheavygal",
+              name = "十年丷",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Illidan",
+              realm = "Burning Blade",
               level = 80,
             },
             {
-              name = "Shamrocked",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Zul'jin",
+              name = "不关小段的事",
+              class = "Rogue",
+              spec = "Subtlety",
+              realm = "Frostmourne",
               level = 80,
             },
             {
-              name = "Shadarek",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Bleeding Hollow",
+              name = "郑晚秋灬",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Chillwind Point",
               level = 80,
             },
           },
@@ -312,12 +312,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 413.2,
-          level = 15,
-          time = 1786018,
+          score = 425.2,
+          level = 16,
+          time = 1942921,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-08-15T13:25:36.000Z",
+          completedAt = "2025-08-16T16:28:21.000Z",
           roster = {
             {
               name = "Farover",
