@@ -1,51 +1,51 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1755626404,
+  lastUpdated = 1755648007,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
       runs = {
         {
           rank = 1,
-          score = 415.9,
-          level = 15,
-          time = 1516354,
+          score = 425.2,
+          level = 16,
+          time = 1553407,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-08-17T22:51:21.000Z",
+          completedAt = "2025-08-19T22:39:48.000Z",
           roster = {
             {
-              name = "Noxiv",
+              name = "Melee",
+              class = "Paladin",
+              spec = "Retribution",
+              realm = "Nathrezim",
+              level = 80,
+            },
+            {
+              name = "Gillick",
               class = "Warrior",
-              spec = "Fury",
-              realm = "Area 52",
+              spec = "Protection",
+              realm = "Tichondrius",
               level = 80,
             },
             {
-              name = "Vegansquish",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Area 52",
-              level = 80,
-            },
-            {
-              name = "Banshers",
-              class = "Hunter",
-              spec = "Survival",
-              realm = "Stormrage",
-              level = 80,
-            },
-            {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
+              name = "Budheavygal",
+              class = "Death Knight",
+              spec = "Frost",
               realm = "Illidan",
               level = 80,
             },
             {
-              name = "Ortemist",
-              class = "Monk",
-              spec = "Mistweaver",
+              name = "Shamrocked",
+              class = "Shaman",
+              spec = "Restoration",
               realm = "Zul'jin",
+              level = 80,
+            },
+            {
+              name = "Shadarek",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Bleeding Hollow",
               level = 80,
             },
           },
@@ -57,7 +57,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 431.5,
+          score = 426.5,
           level = 16,
           time = 1539412,
           keystoneTime = 1860999,
@@ -108,7 +108,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 426.7,
+          score = 421.7,
           level = 16,
           time = 1889845,
           keystoneTime = 1980999,
@@ -159,7 +159,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 425.3,
+          score = 420.3,
           level = 16,
           time = 1907396,
           keystoneTime = 1920999,
@@ -210,7 +210,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 441.4,
+          score = 436.4,
           level = 17,
           time = 1732170,
           keystoneTime = 1800999,
@@ -261,7 +261,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 427.5,
+          score = 422.5,
           level = 16,
           time = 1905101,
           keystoneTime = 2040999,
@@ -312,7 +312,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 425.2,
+          score = 420.2,
           level = 16,
           time = 1942921,
           keystoneTime = 1950999,
@@ -363,7 +363,7 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 426.2,
+          score = 421.2,
           level = 16,
           time = 1802084,
           keystoneTime = 1860999,
