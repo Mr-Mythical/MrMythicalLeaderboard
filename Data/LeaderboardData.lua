@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1755950405,
+  lastUpdated = 1755972006,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 436.2,
+          score = 438,
           level = 17,
-          time = 1861535,
+          time = 1769198,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-08-23T11:59:46.000Z",
+          completedAt = "2025-08-23T15:38:49.000Z",
           roster = {
             {
-              name = "Vickman",
+              name = "黑川茜",
+              class = "Mage",
+              spec = "Fire",
+              realm = "Silver Hand",
+              level = 80,
+            },
+            {
+              name = "阿诺防骑",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "冷如秋秋",
               class = "Druid",
               spec = "Restoration",
-              realm = "Tarren Mill",
+              realm = "Rhonin",
               level = 80,
             },
             {
-              name = "Myzouth",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Burning Legion",
+              name = "小雨煲煲",
+              class = "Priest",
+              spec = "Shadow",
+              realm = "Burning Blade",
               level = 80,
             },
             {
-              name = "Casualaddict",
+              name = "叶落小红手",
               class = "Rogue",
               spec = "Assassination",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Petkosham",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Stonedh",
-              class = "Demon Hunter",
-              spec = "Vengeance",
-              realm = "Laughing Skull",
+              realm = "Rhonin",
               level = 80,
             },
           },
@@ -210,12 +210,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 441.1,
-          level = 17,
-          time = 1508954,
+          score = 453.4,
+          level = 18,
+          time = 1635315,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-08-21T15:45:16.000Z",
+          completedAt = "2025-08-23T17:42:41.000Z",
           roster = {
             {
               name = "明日奈奈子",
