@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756036806,
+  lastUpdated = 1756058407,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 438.1,
+          score = 439.8,
           level = 17,
-          time = 1929234,
+          time = 1832687,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-08-22T19:10:11.000Z",
+          completedAt = "2025-08-24T13:28:09.000Z",
           roster = {
             {
-              name = "Vildie",
+              name = "一只小红瓜丶",
+              class = "Paladin",
+              spec = "Retribution",
+              realm = "Pandaren",
+              level = 80,
+            },
+            {
+              name = "倔强的小空空",
               class = "Warrior",
               spec = "Protection",
-              realm = "Crushridge",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Фесида",
+              name = "樣兒",
               class = "Druid",
               spec = "Feral",
-              realm = "Gordunni",
+              realm = "Burning Blade",
               level = 80,
             },
             {
-              name = "Jxps",
-              class = "Rogue",
-              spec = "Subtlety",
-              realm = "Twisting Nether",
+              name = "時光",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Doomwalker",
               level = 80,
             },
             {
-              name = "Héléna",
+              name = "烈焰之菜",
               class = "Shaman",
               spec = "Restoration",
-              realm = "Ravencrest",
-              level = 80,
-            },
-            {
-              name = "Suliva",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Antonidas",
+              realm = "Chillwind Point",
               level = 80,
             },
           },
