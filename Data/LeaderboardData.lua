@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756101607,
+  lastUpdated = 1756123205,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 435.9,
+          score = 437.5,
           level = 17,
-          time = 1906284,
+          time = 1822302,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-08-22T17:48:34.000Z",
+          completedAt = "2025-08-25T08:42:12.000Z",
           roster = {
             {
-              name = "Farover",
-              class = "Warrior",
-              spec = "Arms",
-              realm = "Ravencrest",
-              level = 80,
-            },
-            {
-              name = "Móonys",
+              name = "暴力丶",
               class = "Warrior",
               spec = "Protection",
-              realm = "Silvermoon",
+              realm = "The Master's Glaive",
               level = 80,
             },
             {
-              name = "Malegusdk",
+              name = "这不是猫德",
+              class = "Druid",
+              spec = "Feral",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "筱白丶",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Twisting Nether",
+              realm = "Burning Blade",
               level = 80,
             },
             {
-              name = "Салатикок",
-              class = "Rogue",
-              spec = "Subtlety",
-              realm = "Howling Fjord",
-              level = 80,
-            },
-            {
-              name = "Ennè",
+              name = "世一奶",
               class = "Shaman",
               spec = "Restoration",
-              realm = "Kazzak",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "止戈流呀",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Golden Plains",
               level = 80,
             },
           },
