@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756188005,
+  lastUpdated = 1756209605,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -363,43 +363,43 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 437.3,
+          score = 438.1,
           level = 17,
-          time = 1745393,
+          time = 1708481,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-08-23T23:16:54.000Z",
+          completedAt = "2025-08-26T10:33:24.000Z",
           roster = {
             {
-              name = "Pokimanesub",
-              class = "Mage",
-              spec = "Arcane",
+              name = "Tattman",
+              class = "Warrior",
+              spec = "Protection",
               realm = "Tarren Mill",
               level = 80,
             },
             {
-              name = "Uglygooner-237835607",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Waytoosick",
+              name = "Morós",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Kazzak",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
-              name = "Netaritide-229804237",
+              name = "Xethriel",
+              class = "Priest",
+              spec = "Shadow",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+            {
+              name = "Razhag",
               class = "Shaman",
               spec = "Restoration",
-              realm = "Silvermoon",
+              realm = "Sylvanas",
               level = 80,
             },
             {
-              name = "Jisoô",
+              name = "Civilsin",
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Twisting Nether",
