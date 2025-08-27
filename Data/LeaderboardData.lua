@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756296007,
+  lastUpdated = 1756317606,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,17 +159,17 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 438,
+          score = 441,
           level = 17,
-          time = 1769198,
+          time = 1611142,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-08-23T15:38:49.000Z",
+          completedAt = "2025-08-27T13:34:51.000Z",
           roster = {
             {
               name = "黑川茜",
               class = "Mage",
-              spec = "Fire",
+              spec = "Frost",
               realm = "Silver Hand",
               level = 80,
             },
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 453.4,
+          score = 455.1,
           level = 18,
-          time = 1635315,
+          time = 1554170,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-08-23T17:42:41.000Z",
+          completedAt = "2025-08-27T13:29:17.000Z",
           roster = {
             {
-              name = "明日奈奈子",
+              name = "Hearthjacks",
               class = "Mage",
               spec = "Arcane",
-              realm = "The Great Sea",
+              realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Shunpally",
-              class = "Paladin",
+              name = "Kirawarrior",
+              class = "Warrior",
               spec = "Protection",
-              realm = "The Great Sea",
+              realm = "Kazzak",
               level = 80,
             },
             {
-              name = "米一只",
+              name = "Kronahah",
               class = "Druid",
+              spec = "Feral",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+            {
+              name = "Yarrgi",
+              class = "Hunter",
+              spec = "Marksmanship",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayijexo",
+              class = "Shaman",
               spec = "Restoration",
-              realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "冷酷小莓",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "梟阿梟",
-              class = "Warlock",
-              spec = "Destruction",
-              realm = "Pandaren",
+              realm = "Draenor",
               level = 80,
             },
           },
