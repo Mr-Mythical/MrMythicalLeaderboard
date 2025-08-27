@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756274405,
+  lastUpdated = 1756296007,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -13,13 +13,6 @@ local MrMythicalLeaderboardData = {
           chests = 1,
           completedAt = "2025-08-26T17:36:28.000Z",
           roster = {
-            {
-              name = "梟阿梟",
-              class = "Warlock",
-              spec = "Destruction",
-              realm = "Pandaren",
-              level = 80,
-            },
             {
               name = "明日奈奈子",
               class = "Mage",
@@ -46,6 +39,13 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Frost",
               realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "梟阿梟",
+              class = "Warlock",
+              spec = "Destruction",
+              realm = "Pandaren",
               level = 80,
             },
           },
@@ -65,13 +65,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-08-26T16:20:42.000Z",
           roster = {
             {
-              name = "梟阿梟",
-              class = "Warlock",
-              spec = "Destruction",
-              realm = "Pandaren",
-              level = 80,
-            },
-            {
               name = "明日奈奈子",
               class = "Mage",
               spec = "Arcane",
@@ -99,6 +92,13 @@ local MrMythicalLeaderboardData = {
               realm = "Shadowmourne",
               level = 80,
             },
+            {
+              name = "梟阿梟",
+              class = "Warlock",
+              spec = "Destruction",
+              realm = "Pandaren",
+              level = 80,
+            },
           },
         },
       },
@@ -116,10 +116,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-08-26T23:25:47.000Z",
           roster = {
             {
-              name = "Ortemist",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Zul'jin",
+              name = "Noxiv",
+              class = "Warrior",
+              spec = "Fury",
+              realm = "Area 52",
               level = 80,
             },
             {
@@ -130,10 +130,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Noxiv",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Area 52",
+              name = "Banshers",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Stormrage",
+              level = 80,
+            },
+            {
+              name = "Ortemist",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Zul'jin",
               level = 80,
             },
             {
@@ -141,13 +148,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Hyjal",
-              level = 80,
-            },
-            {
-              name = "Banshers",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Stormrage",
               level = 80,
             },
           },
@@ -167,13 +167,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-08-23T15:38:49.000Z",
           roster = {
             {
-              name = "阿诺防骑",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
               name = "黑川茜",
               class = "Mage",
               spec = "Fire",
@@ -181,10 +174,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "小雨煲煲",
-              class = "Priest",
-              spec = "Shadow",
-              realm = "Burning Blade",
+              name = "阿诺防骑",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Shadowmourne",
               level = 80,
             },
             {
@@ -192,6 +185,13 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "Rhonin",
+              level = 80,
+            },
+            {
+              name = "小雨煲煲",
+              class = "Priest",
+              spec = "Shadow",
+              realm = "Burning Blade",
               level = 80,
             },
             {
@@ -218,12 +218,56 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-08-23T17:42:41.000Z",
           roster = {
             {
+              name = "明日奈奈子",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "Shunpally",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "米一只",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "冷酷小莓",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
               name = "梟阿梟",
               class = "Warlock",
               spec = "Destruction",
               realm = "Pandaren",
               level = 80,
             },
+          },
+        },
+      },
+    },
+    ["tazavesh-streets-of-wonder"] = {
+      name = "Tazavesh: Streets of Wonder",
+      runs = {
+        {
+          rank = 1,
+          score = 451.5,
+          level = 18,
+          time = 2014274,
+          keystoneTime = 2100999,
+          chests = 1,
+          completedAt = "2025-08-27T09:35:22.000Z",
+          roster = {
             {
               name = "明日奈奈子",
               class = "Mage",
@@ -252,55 +296,11 @@ local MrMythicalLeaderboardData = {
               realm = "Shadowmourne",
               level = 80,
             },
-          },
-        },
-      },
-    },
-    ["tazavesh-streets-of-wonder"] = {
-      name = "Tazavesh: Streets of Wonder",
-      runs = {
-        {
-          rank = 1,
-          score = 450.4,
-          level = 18,
-          time = 2079644,
-          keystoneTime = 2100999,
-          chests = 1,
-          completedAt = "2025-08-26T21:08:21.000Z",
-          roster = {
             {
-              name = "Loonystorm",
-              class = "Warlock",
-              spec = "Destruction",
-              realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Skyewarr",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Dandeekay",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Twisting Nether",
-              level = 80,
-            },
-            {
-              name = "Lairasham",
+              name = "乾坤脉涌",
               class = "Shaman",
-              spec = "Restoration",
-              realm = "Nemesis",
-              level = 80,
-            },
-            {
-              name = "Wildisaster-246868706",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Twisting Nether",
+              spec = "Elemental",
+              realm = "Al'ar",
               level = 80,
             },
           },
@@ -320,13 +320,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-08-26T16:59:57.000Z",
           roster = {
             {
-              name = "梟阿梟",
-              class = "Warlock",
-              spec = "Destruction",
-              realm = "Pandaren",
-              level = 80,
-            },
-            {
               name = "明日奈奈子",
               class = "Mage",
               spec = "Arcane",
@@ -352,6 +345,13 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Frost",
               realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "梟阿梟",
+              class = "Warlock",
+              spec = "Destruction",
+              realm = "Pandaren",
               level = 80,
             },
           },
@@ -378,13 +378,6 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Civilsin",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Twisting Nether",
-              level = 80,
-            },
-            {
               name = "Morós",
               class = "Death Knight",
               spec = "Frost",
@@ -403,6 +396,13 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Sylvanas",
+              level = 80,
+            },
+            {
+              name = "Civilsin",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
