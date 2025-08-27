@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756252804,
+  lastUpdated = 1756274405,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -297,7 +297,7 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Wildisaster",
+              name = "Wildisaster-246868706",
               class = "Mage",
               spec = "Arcane",
               realm = "Twisting Nether",
