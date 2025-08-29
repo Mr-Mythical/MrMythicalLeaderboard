@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756425605,
+  lastUpdated = 1756447209,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 452.8,
+          score = 453,
           level = 18,
-          time = 1942226,
+          time = 1935316,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-08-28T19:36:59.000Z",
+          completedAt = "2025-08-29T01:56:03.000Z",
           roster = {
             {
-              name = "Redeemfulx",
+              name = "Bbtbnw",
               class = "Mage",
               spec = "Arcane",
-              realm = "Illidan",
+              realm = "Blackrock",
               level = 80,
             },
             {
-              name = "Ellesmere",
-              class = "Paladin",
-              spec = "Holy",
-              realm = "Area 52",
-              level = 80,
-            },
-            {
-              name = "Yodafotm",
+              name = "Daijjuxd",
               class = "Paladin",
               spec = "Protection",
-              realm = "Illidan",
+              realm = "Stormreaver",
               level = 80,
             },
             {
-              name = "Dwilkz",
+              name = "Goltc",
               class = "Druid",
-              spec = "Balance",
-              realm = "Zul'jin",
+              spec = "Restoration",
+              realm = "Uldaman",
               level = 80,
             },
             {
-              name = "Selecttqt",
+              name = "Tartexd",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Tichondrius",
+              realm = "Pozzo dell'Eternità",
+              level = 80,
+            },
+            {
+              name = "Fauni",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Stormreaver",
               level = 80,
             },
           },
