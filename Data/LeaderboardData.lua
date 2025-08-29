@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756404009,
+  lastUpdated = 1756425605,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 452.5,
+          score = 452.8,
           level = 18,
-          time = 1962857,
+          time = 1942226,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-08-28T12:48:54.000Z",
+          completedAt = "2025-08-28T19:36:59.000Z",
           roster = {
             {
-              name = "Khaelt",
+              name = "Redeemfulx",
               class = "Mage",
               spec = "Arcane",
-              realm = "Sylvanas",
+              realm = "Illidan",
               level = 80,
             },
             {
-              name = "Vîvîlouf",
+              name = "Ellesmere",
+              class = "Paladin",
+              spec = "Holy",
+              realm = "Area 52",
+              level = 80,
+            },
+            {
+              name = "Yodafotm",
               class = "Paladin",
               spec = "Protection",
-              realm = "Tarren Mill",
+              realm = "Illidan",
               level = 80,
             },
             {
-              name = "Iceberck",
+              name = "Dwilkz",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Zul'jin",
+              level = 80,
+            },
+            {
+              name = "Selecttqt",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Sylvanas",
-              level = 80,
-            },
-            {
-              name = "Boreasxoxo",
-              class = "Priest",
-              spec = "Shadow",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Razhag",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Sylvanas",
+              realm = "Tichondrius",
               level = 80,
             },
           },
