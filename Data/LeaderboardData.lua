@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1756533651,
+  lastUpdated = 1756555207,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -287,6 +287,57 @@ local MrMythicalLeaderboardData = {
               class = "Rogue",
               spec = "Subtlety",
               realm = "Mal'Ganis",
+              level = 80,
+            },
+            {
+              name = "Xhanon",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Monksea",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Ravencrest",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["priory-of-the-sacred-flame"] = {
+      name = "Priory of the Sacred Flame",
+      runs = {
+        {
+          rank = 1,
+          score = 452.5,
+          level = 18,
+          time = 1823014,
+          keystoneTime = 1950999,
+          chests = 1,
+          completedAt = "2025-08-29T22:40:39.000Z",
+          roster = {
+            {
+              name = "Farover",
+              class = "Warrior",
+              spec = "Arms",
+              realm = "Ravencrest",
+              level = 80,
+            },
+            {
+              name = "Murtaz",
+              class = "Druid",
+              spec = "Feral",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Tomelvis",
+              class = "Rogue",
+              spec = "Outlaw",
+              realm = "Draenor",
               level = 80,
             },
             {
