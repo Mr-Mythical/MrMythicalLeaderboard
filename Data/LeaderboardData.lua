@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1757008810,
+  lastUpdated = 1757030405,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 452.5,
+          score = 453.7,
           level = 18,
-          time = 1794340,
+          time = 1729953,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-09-03T16:07:55.000Z",
+          completedAt = "2025-09-04T20:38:05.000Z",
           roster = {
             {
-              name = "Hearthjacks",
+              name = "Redeemfulx",
               class = "Mage",
               spec = "Arcane",
-              realm = "Kazzak",
+              realm = "Illidan",
               level = 80,
             },
             {
-              name = "Kirawarrior",
-              class = "Warrior",
+              name = "Yodafotm",
+              class = "Paladin",
               spec = "Protection",
-              realm = "Kazzak",
+              realm = "Illidan",
               level = 80,
             },
             {
-              name = "Verbraidbuff",
+              name = "Seraphinexd",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Ryanlockwood",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Tarren Mill",
+              realm = "Illidan",
               level = 80,
             },
             {
-              name = "Yarrgi",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Ayijexo",
+              name = "Bondd",
               class = "Shaman",
-              spec = "Restoration",
-              realm = "Draenor",
+              spec = "Elemental",
+              realm = "Illidan",
               level = 80,
             },
           },
