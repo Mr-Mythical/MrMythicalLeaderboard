@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1757332857,
+  lastUpdated = 1757354404,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,12 +159,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 466.7,
+          score = 467.3,
           level = 19,
-          time = 1836001,
+          time = 1804280,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-09-05T15:50:53.000Z",
+          completedAt = "2025-09-08T12:46:33.000Z",
           roster = {
             {
               name = "Hearthjacks",
@@ -195,7 +195,7 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Ayijexo-227706078",
+              name = "Ayijexo",
               class = "Shaman",
               spec = "Restoration",
               realm = "Draenor",
