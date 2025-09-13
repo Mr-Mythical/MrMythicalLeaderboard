@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1757764840,
+  lastUpdated = 1757786406,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 466,
+          score = 467.4,
           level = 19,
-          time = 1811120,
+          time = 1744008,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-09-06T20:53:45.000Z",
+          completedAt = "2025-09-13T15:36:12.000Z",
           roster = {
             {
-              name = "Imonthegcd",
+              name = "Hearthjacks",
               class = "Mage",
               spec = "Arcane",
-              realm = "Illidan",
+              realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Yodafotm",
-              class = "Paladin",
+              name = "Kirawarrior",
+              class = "Warrior",
               spec = "Protection",
-              realm = "Illidan",
+              realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Ryanlockwood",
+              name = "Verbraidbuff",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Illidan",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
-              name = "Bondd",
+              name = "Yarrgi",
+              class = "Hunter",
+              spec = "Marksmanship",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Ayijexo",
               class = "Shaman",
-              spec = "Elemental",
-              realm = "Illidan",
+              spec = "Restoration",
+              realm = "Draenor",
               level = 80,
             },
           },
