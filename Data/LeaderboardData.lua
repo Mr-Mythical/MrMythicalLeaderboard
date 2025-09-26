@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1758823204,
+  lastUpdated = 1758844808,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -108,18 +108,18 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 472.5,
+          score = 473.5,
           level = 19,
-          time = 1848581,
+          time = 1797774,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2025-09-18T18:54:41.000Z",
+          completedAt = "2025-09-25T18:32:37.000Z",
           roster = {
             {
-              name = "Críms",
+              name = "Wildi",
               class = "Mage",
               spec = "Arcane",
-              realm = "Draenor",
+              realm = "Twisting Nether",
               level = 80,
             },
             {
@@ -137,17 +137,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Myzouth",
+              name = "Kfccustomer",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Burning Legion",
+              realm = "Drak'thul",
               level = 80,
             },
             {
-              name = "Sjele",
-              class = "Warlock",
-              spec = "Destruction",
-              realm = "Twisting Nether",
+              name = "Yarrgi",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Kazzak",
               level = 80,
             },
           },
