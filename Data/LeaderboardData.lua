@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1758909607,
+  lastUpdated = 1758974404,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -13,6 +13,20 @@ local MrMythicalLeaderboardData = {
           chests = 1,
           completedAt = "2025-09-20T08:07:21.000Z",
           roster = {
+            {
+              name = "Tianzuicat",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "貓貓家的糖糖",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Master's Glaive",
+              level = 80,
+            },
             {
               name = "Cherrywar",
               class = "Warrior",
@@ -34,20 +48,6 @@ local MrMythicalLeaderboardData = {
               realm = "Al'ar",
               level = 80,
             },
-            {
-              name = "Tianzuicat",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "貓貓家的糖糖",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "The Master's Glaive",
-              level = 80,
-            },
           },
         },
       },
@@ -65,6 +65,20 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-24T20:38:11.000Z",
           roster = {
             {
+              name = "Bondd",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Seraphinexd",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
               name = "Imonthegcd",
               class = "Mage",
               spec = "Arcane",
@@ -79,23 +93,9 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
               name = "Ryanlockwood",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
               realm = "Illidan",
               level = 80,
             },
@@ -116,10 +116,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-25T18:32:37.000Z",
           roster = {
             {
-              name = "Wildi",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Twisting Nether",
+              name = "Yarrgi",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Kazzak",
               level = 80,
             },
             {
@@ -144,10 +144,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Yarrgi",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
+              name = "Wildi",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
@@ -166,6 +166,20 @@ local MrMythicalLeaderboardData = {
           chests = 1,
           completedAt = "2025-09-22T08:33:30.000Z",
           roster = {
+            {
+              name = "Tianzuicat",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "貓貓家的糖糖",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Master's Glaive",
+              level = 80,
+            },
             {
               name = "Cherrywar",
               class = "Warrior",
@@ -187,20 +201,6 @@ local MrMythicalLeaderboardData = {
               realm = "Al'ar",
               level = 80,
             },
-            {
-              name = "Tianzuicat",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "貓貓家的糖糖",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "The Master's Glaive",
-              level = 80,
-            },
           },
         },
       },
@@ -218,6 +218,20 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-19T20:36:40.000Z",
           roster = {
             {
+              name = "Bondd",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Seraphinexd",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
               name = "Imonthegcd",
               class = "Mage",
               spec = "Arcane",
@@ -232,23 +246,9 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
               name = "Ryanlockwood",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
               realm = "Illidan",
               level = 80,
             },
@@ -269,6 +269,13 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-22T14:08:20.000Z",
           roster = {
             {
+              name = "Yarrgi",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Hearthjacks",
               class = "Mage",
               spec = "Arcane",
@@ -287,13 +294,6 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Frost",
               realm = "Tarren Mill",
-              level = 80,
-            },
-            {
-              name = "Yarrgi",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
               level = 80,
             },
             {
@@ -314,44 +314,44 @@ local MrMythicalLeaderboardData = {
           rank = 1,
           score = 473.6,
           level = 19,
-          time = 1765559,
+          time = 1762598,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-09-26T13:39:36.000Z",
+          completedAt = "2025-09-26T22:05:59.000Z",
           roster = {
             {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Kirawarrior",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Tarren Mill",
-              level = 80,
-            },
-            {
-              name = "Yarrgi",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Ayijexo",
+              name = "Xhanon",
               class = "Shaman",
               spec = "Restoration",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Monksea",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Ravencrest",
+              level = 80,
+            },
+            {
+              name = "Farover",
+              class = "Warrior",
+              spec = "Fury",
+              realm = "Ravencrest",
+              level = 80,
+            },
+            {
+              name = "Tomelvis",
+              class = "Rogue",
+              spec = "Outlaw",
               realm = "Draenor",
+              level = 80,
+            },
+            {
+              name = "Murtaz",
+              class = "Druid",
+              spec = "Feral",
+              realm = "Kazzak",
               level = 80,
             },
           },
@@ -371,6 +371,13 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-25T16:32:34.000Z",
           roster = {
             {
+              name = "Yarrgi",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
               name = "Hearthjacks",
               class = "Mage",
               spec = "Arcane",
@@ -389,13 +396,6 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Frost",
               realm = "Tarren Mill",
-              level = 80,
-            },
-            {
-              name = "Yarrgi",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
               level = 80,
             },
             {
