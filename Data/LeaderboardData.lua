@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759060811,
+  lastUpdated = 1759082405,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.1,
+          score = 501.2,
           level = 21,
-          time = 1746083,
+          time = 1743965,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-09-19T20:36:40.000Z",
+          completedAt = "2025-09-28T16:10:32.000Z",
           roster = {
             {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Imonthegcd",
+              name = "明日奈奈子",
               class = "Mage",
               spec = "Arcane",
-              realm = "Illidan",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Yodafotm",
+              name = "Shunpally",
               class = "Paladin",
               spec = "Protection",
-              realm = "Illidan",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Ryanlockwood",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Illidan",
+              name = "米一只",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "笨蛋小莓",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "梟阿梟",
+              class = "Warlock",
+              spec = "Destruction",
+              realm = "The Great Sea",
               level = 80,
             },
           },
