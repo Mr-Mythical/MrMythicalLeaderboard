@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759039209,
+  lastUpdated = 1759060811,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
