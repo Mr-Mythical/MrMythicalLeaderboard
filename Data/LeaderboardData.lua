@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759320004,
+  lastUpdated = 1759341609,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 473.6,
+          score = 474.8,
           level = 19,
-          time = 1762598,
+          time = 1699416,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-09-26T22:05:59.000Z",
+          completedAt = "2025-10-01T14:18:55.000Z",
           roster = {
             {
-              name = "Xhanon",
+              name = "人間失格丶",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "在世真龙",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Rhonin",
+              level = 80,
+            },
+            {
+              name = "荷枪实氮",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "遵义瞎王",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Blanchard",
+              level = 80,
+            },
+            {
+              name = "我就要消费",
               class = "Shaman",
               spec = "Restoration",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Monksea",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Ravencrest",
-              level = 80,
-            },
-            {
-              name = "Farover",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Ravencrest",
-              level = 80,
-            },
-            {
-              name = "Tomelvis",
-              class = "Rogue",
-              spec = "Outlaw",
-              realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Murtaz",
-              class = "Druid",
-              spec = "Feral",
-              realm = "Kazzak",
+              realm = "Grim Batol",
               level = 80,
             },
           },
