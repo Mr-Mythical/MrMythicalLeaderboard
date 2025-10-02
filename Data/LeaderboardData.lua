@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759406408,
+  lastUpdated = 1759428008,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -352,6 +352,57 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Grim Batol",
+              level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["the-dawnbreaker"] = {
+      name = "The Dawnbreaker",
+      runs = {
+        {
+          rank = 1,
+          score = 486,
+          level = 20,
+          time = 1810885,
+          keystoneTime = 1860999,
+          chests = 1,
+          completedAt = "2025-09-27T13:07:39.000Z",
+          roster = {
+            {
+              name = "Supremezz",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "Anniecpt",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "丶将息",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "风为",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Silvermoon",
+              level = 80,
+            },
+            {
+              name = "大萨陛",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Thunderlord",
               level = 80,
             },
           },
