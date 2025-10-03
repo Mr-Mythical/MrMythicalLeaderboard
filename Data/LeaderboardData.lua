@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759471204,
+  lastUpdated = 1759492804,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -14,24 +14,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-29T15:27:17.000Z",
           roster = {
             {
-              name = "止戈流呀",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "The Golden Plains",
-              level = 80,
-            },
-            {
-              name = "Qiaolingovo",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Scarlet Crusade",
-              level = 80,
-            },
-            {
               name = "硬玩防战",
               class = "Warrior",
               spec = "Protection",
               realm = "Silver Hand",
+              level = 80,
+            },
+            {
+              name = "红手椎生零",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Isillien",
               level = 80,
             },
             {
@@ -42,10 +35,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "红手椎生零",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Isillien",
+              name = "Qiaolingovo",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Scarlet Crusade",
+              level = 80,
+            },
+            {
+              name = "止戈流呀",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Golden Plains",
               level = 80,
             },
           },
@@ -65,20 +65,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-01T21:26:43.000Z",
           roster = {
             {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
               name = "Imonthegcd",
               class = "Mage",
               spec = "Arcane",
@@ -93,9 +79,23 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
+              name = "Seraphinexd",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
               name = "Ryanlockwood",
               class = "Death Knight",
               spec = "Frost",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Bondd",
+              class = "Shaman",
+              spec = "Elemental",
               realm = "Illidan",
               level = 80,
             },
@@ -116,24 +116,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-29T12:44:40.000Z",
           roster = {
             {
-              name = "止戈流呀",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "The Golden Plains",
-              level = 80,
-            },
-            {
-              name = "Qiaolingovo",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Scarlet Crusade",
-              level = 80,
-            },
-            {
               name = "硬玩防战",
               class = "Warrior",
               spec = "Protection",
               realm = "Silver Hand",
+              level = 80,
+            },
+            {
+              name = "红手椎生零",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Isillien",
               level = 80,
             },
             {
@@ -144,10 +137,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "红手椎生零",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Isillien",
+              name = "Qiaolingovo",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Scarlet Crusade",
+              level = 80,
+            },
+            {
+              name = "止戈流呀",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Golden Plains",
               level = 80,
             },
           },
@@ -167,6 +167,20 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-28T18:11:32.000Z",
           roster = {
             {
+              name = "风为",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Silvermoon",
+              level = 80,
+            },
+            {
+              name = "丶将息",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
               name = "Supremezz",
               class = "Death Knight",
               spec = "Frost",
@@ -178,20 +192,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "丶将息",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "风为",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Silvermoon",
               level = 80,
             },
             {
@@ -239,17 +239,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "笨蛋小莓",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
               name = "梟阿梟",
               class = "Warlock",
               spec = "Destruction",
               realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "笨蛋小莓",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Shadowmourne",
               level = 80,
             },
           },
@@ -269,20 +269,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-30T03:55:06.000Z",
           roster = {
             {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
               name = "Imonthegcd",
               class = "Mage",
               spec = "Arcane",
@@ -297,9 +283,23 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
+              name = "Seraphinexd",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
               name = "Ryanlockwood",
               class = "Death Knight",
               spec = "Frost",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Bondd",
+              class = "Shaman",
+              spec = "Elemental",
               realm = "Illidan",
               level = 80,
             },
@@ -312,12 +312,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 474.8,
-          level = 19,
-          time = 1699416,
+          score = 486.7,
+          level = 20,
+          time = 1863725,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-10-01T14:18:55.000Z",
+          completedAt = "2025-10-03T08:37:47.000Z",
           roster = {
             {
               name = "人間失格丶",
@@ -334,17 +334,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "荷枪实氮",
+              name = "是东东吖",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "遵义瞎王",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Blanchard",
+              realm = "Silver Hand",
               level = 80,
             },
             {
@@ -352,6 +345,13 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Grim Batol",
+              level = 80,
+            },
+            {
+              name = "遵义瞎王",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Blanchard",
               level = 80,
             },
           },
@@ -371,6 +371,20 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-09-27T13:07:39.000Z",
           roster = {
             {
+              name = "风为",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Silvermoon",
+              level = 80,
+            },
+            {
+              name = "丶将息",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
               name = "Supremezz",
               class = "Death Knight",
               spec = "Frost",
@@ -382,20 +396,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "丶将息",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "风为",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Silvermoon",
               level = 80,
             },
             {
