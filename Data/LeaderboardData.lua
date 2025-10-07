@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759816808,
+  lastUpdated = 1759838404,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -108,20 +108,13 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 485.5,
+          score = 486.1,
           level = 20,
-          time = 1952207,
+          time = 1924220,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2025-10-04T13:52:29.000Z",
+          completedAt = "2025-10-07T11:08:54.000Z",
           roster = {
-            {
-              name = "明日奈奈子",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "The Great Sea",
-              level = 80,
-            },
             {
               name = "Shunpally",
               class = "Paladin",
@@ -134,6 +127,13 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "Eerli",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Pandaren",
               level = 80,
             },
             {
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.6,
+          score = 502,
           level = 21,
-          time = 2010659,
+          time = 1987697,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-09-30T03:55:06.000Z",
+          completedAt = "2025-10-07T07:47:36.000Z",
           roster = {
             {
-              name = "Imonthegcd",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Yodafotm",
-              class = "Paladin",
+              name = "人間失格丶",
+              class = "Warrior",
               spec = "Protection",
-              realm = "Illidan",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Ryanlockwood",
+              name = "在世真龙",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Illidan",
+              realm = "Rhonin",
               level = 80,
             },
             {
-              name = "Bondd",
+              name = "炮兵酱紫",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Isillien",
+              level = 80,
+            },
+            {
+              name = "我就要消费",
               class = "Shaman",
-              spec = "Elemental",
-              realm = "Illidan",
+              spec = "Restoration",
+              realm = "Grim Batol",
+              level = 80,
+            },
+            {
+              name = "遵义瞎王",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Blanchard",
               level = 80,
             },
           },
