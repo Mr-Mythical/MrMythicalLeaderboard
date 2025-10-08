@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1759924804,
+  lastUpdated = 1759946409,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,12 +261,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502,
+          score = 502.5,
           level = 21,
-          time = 1987697,
+          time = 1961788,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-10-07T07:47:36.000Z",
+          completedAt = "2025-10-08T15:12:50.000Z",
           roster = {
             {
               name = "人間失格丶",
@@ -283,10 +283,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "炮兵酱紫",
+              name = "Jeanneline",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Isillien",
+              realm = "Burning Blade",
               level = 80,
             },
             {
