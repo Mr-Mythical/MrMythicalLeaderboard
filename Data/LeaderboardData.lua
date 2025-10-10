@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760054407,
+  lastUpdated = 1760097605,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502.5,
+          score = 502.6,
           level = 21,
-          time = 1961788,
+          time = 1954077,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-10-08T15:12:50.000Z",
+          completedAt = "2025-10-10T08:53:38.000Z",
           roster = {
             {
-              name = "人間失格丶",
+              name = "猫猫家的糖糖",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "Cherrywar",
               class = "Warrior",
               spec = "Protection",
-              realm = "The Great Sea",
+              realm = "Isillien",
               level = 80,
             },
             {
-              name = "在世真龙",
+              name = "夏绵绵",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "水水喝奶茶",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Rhonin",
+              realm = "Silver Hand",
               level = 80,
             },
             {
-              name = "Jeanneline",
+              name = "小心月亮丷",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "我就要消费",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Grim Batol",
-              level = 80,
-            },
-            {
-              name = "遵义瞎王",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Blanchard",
+              realm = "Al'ar",
               level = 80,
             },
           },
