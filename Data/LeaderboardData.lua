@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760184006,
+  lastUpdated = 1760205606,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 486.8,
+          score = 487,
           level = 20,
-          time = 1858070,
+          time = 1847017,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-10-11T06:55:01.000Z",
+          completedAt = "2025-10-11T14:34:00.000Z",
           roster = {
             {
-              name = "裂风油",
+              name = "歇不热",
               class = "Warrior",
               spec = "Protection",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "黑锋二酱",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Anzu",
+              level = 80,
+            },
+            {
+              name = "游侠二酱",
+              class = "Hunter",
+              spec = "Beast Mastery",
               realm = "Scarlet Crusade",
               level = 80,
             },
             {
-              name = "Tchandk",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "黑川茜茜",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Silver Hand",
-              level = 80,
-            },
-            {
-              name = "深蓝月光",
+              name = "陈小北丷",
               class = "Shaman",
               spec = "Restoration",
               realm = "Al'ar",
               level = 80,
             },
             {
-              name = "Tchandh",
+              name = "笨蛋小莓",
               class = "Demon Hunter",
               spec = "Havoc",
-              realm = "Falathim",
+              realm = "Shadowmourne",
               level = 80,
             },
           },
@@ -363,12 +363,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 487.6,
+          score = 489.8,
           level = 20,
-          time = 1730948,
+          time = 1621773,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-10-10T13:17:33.000Z",
+          completedAt = "2025-10-11T13:01:46.000Z",
           roster = {
             {
               name = "Cherrywar",
