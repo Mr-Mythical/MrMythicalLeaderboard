@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760248808,
+  lastUpdated = 1760270408,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -14,10 +14,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-10T12:48:15.000Z",
           roster = {
             {
-              name = "风为",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Silvermoon",
+              name = "Supremezz",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "The Great Sea",
               level = 80,
             },
             {
@@ -28,17 +28,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Supremezz",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "Eerli",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Pandaren",
+              name = "风为",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Silvermoon",
               level = 80,
             },
             {
@@ -46,6 +39,13 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Thunderlord",
+              level = 80,
+            },
+            {
+              name = "Eerli",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Pandaren",
               level = 80,
             },
           },
@@ -65,10 +65,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-10T14:24:15.000Z",
           roster = {
             {
-              name = "Cherrywar",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Isillien",
+              name = "Mjtshaman",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Burning Blade",
               level = 80,
             },
             {
@@ -76,6 +76,13 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "Cherrywar",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Isillien",
               level = 80,
             },
             {
@@ -90,13 +97,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "Mjtshaman",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Burning Blade",
               level = 80,
             },
           },
@@ -116,10 +116,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-09T12:50:45.000Z",
           roster = {
             {
-              name = "Cherrywar",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Isillien",
+              name = "Mjtshaman",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Burning Blade",
               level = 80,
             },
             {
@@ -127,6 +127,13 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "Cherrywar",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Isillien",
               level = 80,
             },
             {
@@ -141,13 +148,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "Mjtshaman",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Burning Blade",
               level = 80,
             },
           },
@@ -167,20 +167,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-09T15:58:58.000Z",
           roster = {
             {
-              name = "风为",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Silvermoon",
-              level = 80,
-            },
-            {
-              name = "丶将息",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
               name = "Supremezz",
               class = "Death Knight",
               spec = "Frost",
@@ -192,6 +178,20 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "丶将息",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "风为",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Silvermoon",
               level = 80,
             },
             {
@@ -212,10 +212,10 @@ local MrMythicalLeaderboardData = {
           rank = 1,
           score = 516,
           level = 22,
-          time = 1754094,
+          time = 1752624,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-10-11T08:42:04.000Z",
+          completedAt = "2025-10-12T10:39:03.000Z",
           roster = {
             {
               name = "裂风油",
@@ -232,10 +232,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "黑川茜茜",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Silver Hand",
+              name = "Tchandh",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Falathim",
               level = 80,
             },
             {
@@ -246,10 +246,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Tchandh",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Falathim",
+              name = "Milkhunter",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Silver Hand",
               level = 80,
             },
           },
@@ -269,6 +269,20 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-10T21:02:28.000Z",
           roster = {
             {
+              name = "Bondd",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Seraphinexd",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Illidan",
+              level = 80,
+            },
+            {
               name = "Imonthegcd",
               class = "Mage",
               spec = "Arcane",
@@ -283,23 +297,9 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Seraphinexd",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
               name = "Ryanlockwood",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Bondd",
-              class = "Shaman",
-              spec = "Elemental",
               realm = "Illidan",
               level = 80,
             },
@@ -327,20 +327,6 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "黑锋二酱",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Anzu",
-              level = 80,
-            },
-            {
-              name = "游侠二酱",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Scarlet Crusade",
-              level = 80,
-            },
-            {
               name = "陈小北丷",
               class = "Shaman",
               spec = "Restoration",
@@ -348,10 +334,24 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
+              name = "黑锋二酱",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Anzu",
+              level = 80,
+            },
+            {
               name = "笨蛋小莓",
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "游侠二酱",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Scarlet Crusade",
               level = 80,
             },
           },
@@ -371,10 +371,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-11T13:01:46.000Z",
           roster = {
             {
-              name = "Cherrywar",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Isillien",
+              name = "Mjtshaman",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Burning Blade",
               level = 80,
             },
             {
@@ -382,6 +382,13 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "Cherrywar",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Isillien",
               level = 80,
             },
             {
@@ -396,13 +403,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "Mjtshaman",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Burning Blade",
               level = 80,
             },
           },
