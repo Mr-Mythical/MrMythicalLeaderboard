@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760443206,
+  lastUpdated = 1760464804,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.7,
+          score = 502.8,
           level = 21,
-          time = 1836292,
+          time = 1777149,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-10-09T15:58:58.000Z",
+          completedAt = "2025-10-14T14:58:49.000Z",
           roster = {
             {
-              name = "Supremezz",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "Anniecpt",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "丶将息",
+              name = "裂风油",
               class = "Warrior",
               spec = "Protection",
-              realm = "Shadowmourne",
+              realm = "Scarlet Crusade",
               level = 80,
             },
             {
-              name = "风为",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Silvermoon",
+              name = "Tchandk",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Burning Blade",
               level = 80,
             },
             {
-              name = "大萨陛",
+              name = "Tchandh",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Falathim",
+              level = 80,
+            },
+            {
+              name = "深蓝月光",
               class = "Shaman",
               spec = "Restoration",
-              realm = "Thunderlord",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "Milkhunter",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Silver Hand",
               level = 80,
             },
           },
