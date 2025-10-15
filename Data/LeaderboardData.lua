@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760508008,
+  lastUpdated = 1760529609,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502.8,
+          score = 505.3,
           level = 21,
-          time = 1777149,
+          time = 1651596,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-10-14T14:58:49.000Z",
+          completedAt = "2025-10-15T08:13:27.000Z",
           roster = {
             {
-              name = "裂风油",
+              name = "戰临",
               class = "Warrior",
               spec = "Protection",
-              realm = "Scarlet Crusade",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Tchandk",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "Tchandh",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Falathim",
-              level = 80,
-            },
-            {
-              name = "深蓝月光",
+              name = "Rjzdshaman",
               class = "Shaman",
               spec = "Restoration",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "奶黑卡球",
+              class = "Hunter",
+              spec = "Beast Mastery",
               realm = "Al'ar",
               level = 80,
             },
             {
-              name = "Milkhunter",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Silver Hand",
+              name = "哆啦壹梦丶",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Deathwing",
+              level = 80,
+            },
+            {
+              name = "芙瞎瞎",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Great Sea",
               level = 80,
             },
           },
