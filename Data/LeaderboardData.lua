@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760551206,
+  lastUpdated = 1760572806,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 503.5,
+          score = 504.7,
           level = 21,
-          time = 1906262,
+          time = 1837338,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-10-14T10:00:33.000Z",
+          completedAt = "2025-10-15T18:45:46.000Z",
           roster = {
             {
-              name = "丶神奇的阿诺",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "冷如秋秋",
+              name = "Lairas",
               class = "Druid",
               spec = "Restoration",
-              realm = "Rhonin",
+              realm = "Nemesis",
               level = 80,
             },
             {
-              name = "黑川茜茜",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Silver Hand",
-              level = 80,
-            },
-            {
-              name = "叶落东东",
+              name = "Nnoggie",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Rhonin",
+              realm = "Twisting Nether",
               level = 80,
             },
             {
-              name = "草莓招了",
+              name = "Tmy",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Dentarg",
+              level = 80,
+            },
+            {
+              name = "Fauni",
               class = "Shaman",
               spec = "Elemental",
-              realm = "Burning Blade",
+              realm = "Stormreaver",
+              level = 80,
+            },
+            {
+              name = "Wildi",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
