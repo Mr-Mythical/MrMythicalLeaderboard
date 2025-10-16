@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760616005,
+  lastUpdated = 1760637608,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -108,46 +108,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 487.2,
+          score = 488.8,
           level = 20,
-          time = 1862285,
+          time = 1781851,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2025-10-09T12:50:45.000Z",
+          completedAt = "2025-10-16T16:39:57.000Z",
           roster = {
             {
-              name = "Mjtshaman",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "夏绵绵",
+              name = "Roiiben",
               class = "Druid",
               spec = "Restoration",
-              realm = "Al'ar",
+              realm = "Blackhand",
               level = 80,
             },
             {
-              name = "Cherrywar",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "水水喝奶茶",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Silver Hand",
-              level = 80,
-            },
-            {
-              name = "小心月亮丷",
+              name = "Cazualaddict",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Al'ar",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Crimsu",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Draenor",
+              level = 80,
+            },
+            {
+              name = "Megingjörð",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+            {
+              name = "Sjelemental",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
@@ -312,12 +312,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 487.9,
+          score = 489.6,
           level = 20,
-          time = 1802110,
+          time = 1711130,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-10-15T12:52:40.000Z",
+          completedAt = "2025-10-16T15:52:53.000Z",
           roster = {
             {
               name = "戰临",
