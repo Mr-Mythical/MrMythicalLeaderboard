@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1760961601,
+  lastUpdated = 1760983202,
   dungeons = {
   },
 }
