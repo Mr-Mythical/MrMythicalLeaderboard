@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761285605,
+  lastUpdated = 1761307250,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -250,57 +250,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Al'ar",
-              level = 80,
-            },
-          },
-        },
-      },
-    },
-    ["tazavesh-streets-of-wonder"] = {
-      name = "Tazavesh: Streets of Wonder",
-      runs = {
-        {
-          rank = 1,
-          score = 515.7,
-          level = 22,
-          time = 2060480,
-          keystoneTime = 2100999,
-          chests = 1,
-          completedAt = "2025-10-23T13:50:19.000Z",
-          roster = {
-            {
-              name = "Roiiben",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blackhand",
-              level = 80,
-            },
-            {
-              name = "Cazualaddict",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Megingjörð",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Tarren Mill",
-              level = 80,
-            },
-            {
-              name = "Sjelemental",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Twisting Nether",
-              level = 80,
-            },
-            {
-              name = "Crimsif",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Draenor",
               level = 80,
             },
           },
