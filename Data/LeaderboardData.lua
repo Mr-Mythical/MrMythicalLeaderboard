@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761480005,
+  lastUpdated = 1761501605,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.2,
+          score = 501.5,
           level = 21,
-          time = 1890799,
+          time = 1875092,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-10-23T15:06:00.000Z",
+          completedAt = "2025-10-26T17:10:40.000Z",
           roster = {
             {
-              name = "歇不热",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "陈小北丷",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "黑锋二酱",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Anzu",
-              level = 80,
-            },
-            {
-              name = "Sehunter",
+              name = "奶黑卡球",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Isillien",
+              realm = "Al'ar",
               level = 80,
             },
             {
-              name = "末诚丶",
+              name = "小猛软",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "飛丿飛",
               class = "Demon Hunter",
               spec = "Havoc",
-              realm = "Silver Hand",
+              realm = "Rhonin",
+              level = 80,
+            },
+            {
+              name = "毛病不小",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Grim Batol",
+              level = 80,
+            },
+            {
+              name = "大萨陛丶",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Thunderlord",
               level = 80,
             },
           },
