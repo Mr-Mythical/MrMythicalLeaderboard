@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761566409,
+  lastUpdated = 1761588009,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.2,
+          score = 501.9,
           level = 21,
-          time = 1801517,
+          time = 1767967,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-10-20T08:09:46.000Z",
+          completedAt = "2025-10-27T14:35:49.000Z",
           roster = {
             {
-              name = "Mjtshaman",
+              name = "冷如秋秋",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Rhonin",
+              level = 80,
+            },
+            {
+              name = "黑川茜茜",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Silver Hand",
+              level = 80,
+            },
+            {
+              name = "草莓招了",
               class = "Shaman",
               spec = "Elemental",
               realm = "Burning Blade",
               level = 80,
             },
             {
-              name = "夏绵绵",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "Cherrywar",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "水水喝奶茶",
+              name = "红高达",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Silver Hand",
+              realm = "Deathwing",
               level = 80,
             },
             {
-              name = "小心月亮丷",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Al'ar",
+              name = "神奇诺诺",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Shadowmourne",
               level = 80,
             },
           },
