@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761717622,
+  lastUpdated = 1761739206,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 515.4,
+          score = 515.7,
           level = 22,
-          time = 1839897,
+          time = 1825644,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-10-28T17:07:01.000Z",
+          completedAt = "2025-10-29T10:39:46.000Z",
           roster = {
             {
-              name = "Supremezz",
-              class = "Death Knight",
-              spec = "Frost",
+              name = "戰临",
+              class = "Warrior",
+              spec = "Protection",
               realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "丶将息",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "Eerli",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Pandaren",
-              level = 80,
-            },
-            {
-              name = "风为为",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "The Master's Glaive",
-              level = 80,
-            },
-            {
-              name = "大萨陛丶",
+              name = "Rjzdshaman",
               class = "Shaman",
               spec = "Restoration",
-              realm = "Thunderlord",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "奶黑卡球",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "小猛软",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "芙瞎瞎",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "The Great Sea",
               level = 80,
             },
           },
