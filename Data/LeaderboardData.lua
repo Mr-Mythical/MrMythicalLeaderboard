@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761825615,
+  lastUpdated = 1761847204,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 516.2,
+          score = 517.8,
           level = 22,
-          time = 1860593,
+          time = 1776319,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-10-30T07:31:21.000Z",
+          completedAt = "2025-10-30T14:36:54.000Z",
           roster = {
             {
-              name = "戰临",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "Rjzdshaman",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "The Great Sea",
-              level = 80,
-            },
-            {
-              name = "奶黑卡球",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "哆啦壹梦丶",
+              name = "Sjeledk",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Deathwing",
+              realm = "Twisting Nether",
               level = 80,
             },
             {
-              name = "芙瞎瞎",
+              name = "Crìms",
               class = "Demon Hunter",
               spec = "Havoc",
-              realm = "The Great Sea",
+              realm = "Draenor",
+              level = 80,
+            },
+            {
+              name = "Roiiben",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blackhand",
+              level = 80,
+            },
+            {
+              name = "Cazualaddict",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Megingjörð",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Tarren Mill",
               level = 80,
             },
           },
@@ -363,12 +363,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502.5,
+          score = 502.8,
           level = 21,
-          time = 1738070,
+          time = 1721352,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-10-28T16:23:37.000Z",
+          completedAt = "2025-10-30T17:41:15.000Z",
           roster = {
             {
               name = "Roiiben",
