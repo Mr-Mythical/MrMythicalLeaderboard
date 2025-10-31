@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761912013,
+  lastUpdated = 1761933609,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 516.6,
+          score = 516.9,
           level = 22,
-          time = 2011690,
+          time = 1992081,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-10-29T12:45:55.000Z",
+          completedAt = "2025-10-31T17:09:49.000Z",
           roster = {
             {
-              name = "Roiiben",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blackhand",
-              level = 80,
-            },
-            {
-              name = "Cazualaddict",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Megingjörð",
+              name = "歇不热",
               class = "Warrior",
               spec = "Protection",
-              realm = "Tarren Mill",
+              realm = "Al'ar",
               level = 80,
             },
             {
-              name = "Sjelemental",
+              name = "陈小北丷",
               class = "Shaman",
-              spec = "Elemental",
-              realm = "Twisting Nether",
+              spec = "Restoration",
+              realm = "Al'ar",
               level = 80,
             },
             {
-              name = "Crimsif",
+              name = "黑锋二酱",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Draenor",
+              realm = "Anzu",
+              level = 80,
+            },
+            {
+              name = "Sehunter",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Isillien",
+              level = 80,
+            },
+            {
+              name = "末诚丶",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Silver Hand",
               level = 80,
             },
           },
