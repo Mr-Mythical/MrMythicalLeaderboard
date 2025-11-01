@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761933609,
+  lastUpdated = 1761955205,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -167,7 +167,7 @@ local MrMythicalLeaderboardData = {
           completedAt = "2025-10-30T14:36:54.000Z",
           roster = {
             {
-              name = "Sjeledk",
+              name = "Sjeledk-89313214",
               class = "Death Knight",
               spec = "Frost",
               realm = "Twisting Nether",
