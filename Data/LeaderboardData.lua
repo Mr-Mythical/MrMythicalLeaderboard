@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1761998404,
+  lastUpdated = 1762020008,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -8,10 +8,10 @@ local MrMythicalLeaderboardData = {
           rank = 1,
           score = 516,
           level = 22,
-          time = 1753855,
+          time = 1750783,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-10-30T09:10:37.000Z",
+          completedAt = "2025-11-01T14:48:48.000Z",
           roster = {
             {
               name = "戰临",
@@ -28,17 +28,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "奶黑卡球",
-              class = "Hunter",
-              spec = "Beast Mastery",
+              name = "小猛软",
+              class = "Death Knight",
+              spec = "Frost",
               realm = "Al'ar",
               level = 80,
             },
             {
-              name = "哆啦壹梦丶",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Deathwing",
+              name = "Retrievhuntr",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Isillien",
               level = 80,
             },
             {
