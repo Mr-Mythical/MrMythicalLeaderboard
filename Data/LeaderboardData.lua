@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1762214411,
+  lastUpdated = 1762236010,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 515.8,
+          score = 516.3,
           level = 22,
-          time = 1819202,
+          time = 1798680,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-10-29T15:13:52.000Z",
+          completedAt = "2025-11-03T16:36:03.000Z",
           roster = {
             {
-              name = "裂风油",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Scarlet Crusade",
-              level = 80,
-            },
-            {
-              name = "Tchandk",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "Tchandh",
+              name = "该说再见了丶",
               class = "Demon Hunter",
               spec = "Havoc",
-              realm = "Falathim",
+              realm = "Al'ar",
               level = 80,
             },
             {
-              name = "深蓝月光",
+              name = "歇不热",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "陈小北丷",
               class = "Shaman",
               spec = "Restoration",
               realm = "Al'ar",
               level = 80,
             },
             {
-              name = "Milkhunter",
+              name = "黑锋二酱",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Anzu",
+              level = 80,
+            },
+            {
+              name = "Sehunter",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Silver Hand",
+              realm = "Isillien",
               level = 80,
             },
           },
