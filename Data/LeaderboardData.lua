@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1762257609,
+  lastUpdated = 1762279207,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 516.3,
+          score = 517.6,
           level = 22,
-          time = 1798680,
+          time = 1732439,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-11-03T16:36:03.000Z",
+          completedAt = "2025-11-04T13:55:08.000Z",
           roster = {
             {
-              name = "该说再见了丶",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "歇不热",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Al'ar",
-              level = 80,
-            },
-            {
-              name = "陈小北丷",
-              class = "Shaman",
+              name = "Roiiben",
+              class = "Druid",
               spec = "Restoration",
-              realm = "Al'ar",
+              realm = "Blackhand",
               level = 80,
             },
             {
-              name = "黑锋二酱",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Anzu",
-              level = 80,
-            },
-            {
-              name = "Sehunter",
+              name = "Cazualaddict",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Isillien",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Megingjörð",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+            {
+              name = "Sjelemental",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Crimsif",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Draenor",
               level = 80,
             },
           },
