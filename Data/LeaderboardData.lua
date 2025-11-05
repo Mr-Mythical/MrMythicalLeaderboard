@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1762344030,
+  lastUpdated = 1762365620,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 518.8,
+          score = 519.2,
           level = 22,
-          time = 1620588,
+          time = 1600344,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-10-19T15:32:38.000Z",
+          completedAt = "2025-11-05T13:15:16.000Z",
           roster = {
             {
-              name = "Mjtshaman",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "夏绵绵",
+              name = "Mortishead",
               class = "Druid",
               spec = "Restoration",
-              realm = "Al'ar",
+              realm = "Silvermoon",
               level = 80,
             },
             {
-              name = "Cherrywar",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "水水喝奶茶",
+              name = "Butaneanzx",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Silver Hand",
+              realm = "Archimonde",
               level = 80,
             },
             {
-              name = "小心月亮丷",
+              name = "Vadanwarr",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Hawkeh",
               class = "Hunter",
               spec = "Beast Mastery",
-              realm = "Al'ar",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Freaksh",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Kazzak",
               level = 80,
             },
           },
