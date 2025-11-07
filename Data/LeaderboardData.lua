@@ -1,30 +1,30 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1762516806,
+  lastUpdated = 1762538406,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
       runs = {
         {
           rank = 1,
-          score = 516,
+          score = 516.3,
           level = 22,
-          time = 1750783,
+          time = 1736416,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-11-01T14:48:48.000Z",
+          completedAt = "2025-11-07T17:59:28.000Z",
           roster = {
-            {
-              name = "戰临",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "The Great Sea",
-              level = 80,
-            },
             {
               name = "Rjzdshaman",
               class = "Shaman",
               spec = "Restoration",
               realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "奶黑卡球",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Al'ar",
               level = 80,
             },
             {
@@ -35,17 +35,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Retrievhuntr",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Isillien",
+              name = "飛丿飛",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Rhonin",
               level = 80,
             },
             {
-              name = "芙瞎瞎",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "The Great Sea",
+              name = "毛病不小",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Grim Batol",
               level = 80,
             },
           },
