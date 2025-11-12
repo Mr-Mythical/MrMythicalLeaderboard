@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1762905606,
+  lastUpdated = 1762927204,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -86,7 +86,7 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Sjelemental",
+              name = "Sjelemental-250843919",
               class = "Shaman",
               spec = "Elemental",
               realm = "Twisting Nether",
@@ -137,7 +137,7 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Sjelemental",
+              name = "Sjelemental-250843919",
               class = "Shaman",
               spec = "Elemental",
               realm = "Twisting Nether",
@@ -392,7 +392,7 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Sjelemental",
+              name = "Sjelemental-250843919",
               class = "Shaman",
               spec = "Elemental",
               realm = "Twisting Nether",
