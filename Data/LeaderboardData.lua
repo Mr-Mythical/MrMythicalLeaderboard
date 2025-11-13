@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1762970406,
+  lastUpdated = 1762992004,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -210,45 +210,45 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 519.2,
+          score = 519.3,
           level = 22,
-          time = 1600344,
+          time = 1593195,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-11-05T13:15:16.000Z",
+          completedAt = "2025-11-12T23:34:03.000Z",
           roster = {
             {
-              name = "Mortishead",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Silvermoon",
-              level = 80,
-            },
-            {
-              name = "Butaneanzx",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Archimonde",
-              level = 80,
-            },
-            {
-              name = "Vadanwarr",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Hawkeh",
+              name = "Lonelyhunt",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Freaksh",
-              class = "Shaman",
-              spec = "Elemental",
+              name = "Теомаатрр",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Howling Fjord",
+              level = 80,
+            },
+            {
+              name = "Tmy",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Dentarg",
+              level = 80,
+            },
+            {
+              name = "Kfccustomer",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Drak'thul",
+              level = 80,
+            },
+            {
+              name = "Fanalol",
+              class = "Demon Hunter",
+              spec = "Havoc",
               realm = "Kazzak",
               level = 80,
             },
