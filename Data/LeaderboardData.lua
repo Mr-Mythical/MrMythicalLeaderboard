@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1763121605,
+  lastUpdated = 1763143204,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -210,12 +210,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 520.8,
+          score = 521,
           level = 22,
-          time = 1523072,
+          time = 1511684,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-11-13T13:08:44.000Z",
+          completedAt = "2025-11-14T16:15:45.000Z",
           roster = {
             {
               name = "Roiiben",
