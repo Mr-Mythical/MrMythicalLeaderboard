@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1763553605,
+  lastUpdated = 1763575206,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 517.9,
+          score = 518.8,
           level = 22,
-          time = 1935817,
+          time = 1887179,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-11-13T16:25:33.000Z",
+          completedAt = "2025-11-19T12:01:13.000Z",
           roster = {
             {
-              name = "Críms",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Roiiben",
+              name = "Mortishead",
               class = "Druid",
               spec = "Restoration",
-              realm = "Blackhand",
+              realm = "Silvermoon",
               level = 80,
             },
             {
-              name = "Cazualaddict",
+              name = "Butaneanzx",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Archimonde",
+              level = 80,
+            },
+            {
+              name = "Vadanwarr",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Hawkeh",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Megingjörð",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Tarren Mill",
-              level = 80,
-            },
-            {
-              name = "Sjeledk",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Twisting Nether",
+              name = "Freaksh",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Kazzak",
               level = 80,
             },
           },
