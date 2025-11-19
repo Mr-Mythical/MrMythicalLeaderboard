@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1763488806,
+  lastUpdated = 1763510405,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 503.1,
+          score = 503.7,
           level = 21,
-          time = 1709071,
+          time = 1678535,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-11-18T00:33:13.000Z",
+          completedAt = "2025-11-18T20:26:49.000Z",
           roster = {
             {
-              name = "Lonelyhunt",
+              name = "Kyomã",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Burning Legion",
+              level = 80,
+            },
+            {
+              name = "Nexoshunter",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Теомаатрр",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Howling Fjord",
-              level = 80,
-            },
-            {
-              name = "Tmy",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Dentarg",
-              level = 80,
-            },
-            {
-              name = "Fauni",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Stormreaver",
-              level = 80,
-            },
-            {
-              name = "Kfccustomer",
+              name = "Rafliskodk",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Drak'thul",
+              realm = "Burning Legion",
+              level = 80,
+            },
+            {
+              name = "Freemyrt",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Burning Legion",
+              level = 80,
+            },
+            {
+              name = "Mocpapiezash",
+              class = "Shaman",
+              spec = "Elemental",
+              realm = "Burning Legion",
               level = 80,
             },
           },
