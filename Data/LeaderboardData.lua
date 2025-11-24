@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1763985605,
+  lastUpdated = 1764007205,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,45 +312,45 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 503.1,
+          score = 503.3,
           level = 21,
-          time = 1787195,
+          time = 1778327,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2025-11-06T20:45:20.000Z",
+          completedAt = "2025-11-24T14:04:30.000Z",
           roster = {
             {
-              name = "Xhanon",
-              class = "Shaman",
+              name = "Mortishead",
+              class = "Druid",
               spec = "Restoration",
+              realm = "Silvermoon",
+              level = 80,
+            },
+            {
+              name = "Butaneanzx",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Archimonde",
+              level = 80,
+            },
+            {
+              name = "Vadanwarr",
+              class = "Warrior",
+              spec = "Protection",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Monksea",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Ravencrest",
+              name = "Hawkeh",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Farover",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Ravencrest",
-              level = 80,
-            },
-            {
-              name = "Tomelvis",
-              class = "Rogue",
-              spec = "Outlaw",
-              realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Murtaz",
-              class = "Druid",
-              spec = "Feral",
+              name = "Freaksh",
+              class = "Shaman",
+              spec = "Elemental",
               realm = "Kazzak",
               level = 80,
             },
