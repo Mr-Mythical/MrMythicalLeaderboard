@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1764007205,
+  lastUpdated = 1764028805,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 517.6,
+          score = 518.8,
           level = 22,
-          time = 1732439,
+          time = 1671445,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-11-04T13:55:08.000Z",
+          completedAt = "2025-11-24T20:22:48.000Z",
           roster = {
             {
-              name = "Roiiben",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blackhand",
-              level = 80,
-            },
-            {
-              name = "Cazualaddict",
+              name = "Lonelyhunt",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Megingjörð",
+              name = "Теомаатрр",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Howling Fjord",
+              level = 80,
+            },
+            {
+              name = "Tmy",
               class = "Warrior",
               spec = "Protection",
-              realm = "Tarren Mill",
+              realm = "Dentarg",
               level = 80,
             },
             {
-              name = "Sjelemental-250843919",
+              name = "Mandur",
               class = "Shaman",
               spec = "Elemental",
-              realm = "Twisting Nether",
+              realm = "Hyjal",
               level = 80,
             },
             {
-              name = "Crimsif",
+              name = "Kfccustomer",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Draenor",
+              realm = "Drak'thul",
               level = 80,
             },
           },
