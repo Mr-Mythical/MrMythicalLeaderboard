@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1764460805,
+  lastUpdated = 1764482406,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -216,57 +216,6 @@ local MrMythicalLeaderboardData = {
           keystoneTime = 1800999,
           chests = 1,
           completedAt = "2025-11-25T13:43:45.000Z",
-          roster = {
-            {
-              name = "Mortishead",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Silvermoon",
-              level = 80,
-            },
-            {
-              name = "Butaneanzx",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Archimonde",
-              level = 80,
-            },
-            {
-              name = "Vadanwarr",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Hawkeh",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Freaksh",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Kazzak",
-              level = 80,
-            },
-          },
-        },
-      },
-    },
-    ["tazavesh-streets-of-wonder"] = {
-      name = "Tazavesh: Streets of Wonder",
-      runs = {
-        {
-          rank = 1,
-          score = 518.8,
-          level = 22,
-          time = 1887179,
-          keystoneTime = 2100999,
-          chests = 1,
-          completedAt = "2025-11-19T12:01:13.000Z",
           roster = {
             {
               name = "Mortishead",
