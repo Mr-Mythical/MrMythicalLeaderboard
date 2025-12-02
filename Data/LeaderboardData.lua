@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1764655205,
+  lastUpdated = 1764676805,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 517.9,
+          score = 518.3,
           level = 22,
-          time = 1772739,
+          time = 1751505,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-11-19T00:37:25.000Z",
+          completedAt = "2025-12-02T06:45:15.000Z",
           roster = {
             {
-              name = "Lonelyhunt",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Теомаатрр",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Howling Fjord",
-              level = 80,
-            },
-            {
-              name = "Tmy",
+              name = "戰临",
               class = "Warrior",
               spec = "Protection",
-              realm = "Dentarg",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Kfccustomer",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Drak'thul",
+              name = "Rjzdshaman",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "The Great Sea",
               level = 80,
             },
             {
-              name = "Fanalol",
+              name = "奶黑卡球",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Al'ar",
+              level = 80,
+            },
+            {
+              name = "芙瞎瞎",
               class = "Demon Hunter",
               spec = "Havoc",
-              realm = "Kazzak",
+              realm = "The Great Sea",
+              level = 80,
+            },
+            {
+              name = "Shurrip",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Burning Blade",
               level = 80,
             },
           },
