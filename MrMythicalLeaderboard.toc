@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 110207, 110205
 ## Title: Mr. Mythical: Leaderboard
 ## Notes: Shows the top Mythic+ runs from Raider.IO with keystone tooltips
 ## Author: Braunerr

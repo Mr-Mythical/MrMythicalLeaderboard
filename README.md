@@ -28,13 +28,19 @@ Get the latest version from your preferred addon manager:
 
 ##  Related Addons
 
-Looking for more Mythic+ tools? Check out our companion addon:
+Looking for more Mythic+ tools? Check out our companion addons:
 
 **[Mr. Mythical: Mythic+ Rewards and Score Tooltips](https://github.com/Mr-Mythical/MrMythicalAddon)** - Enhanced keystone tooltips with detailed reward info, score calculations, and personal progress tracking.
 
 [Download on CurseForge](https://www.curseforge.com/wow/addons/mr-mythical)
 
 [Download on Wago](https://addons.wago.io/addons/mrmythical)
+
+**[Mr. Mythical: Gear Check](https://github.com/Mr-Mythical/MrMythicalGearCheck)** - Comprehensive gear validation tool for detecting common gear issues and preparation problems.
+
+[Download on CurseForge](https://www.curseforge.com/wow/addons/mr-mythical-gear-check)
+
+[Download on Wago](https://addons.wago.io/addons/mrmythicalgearcheck)
 
 ## More Tools & Resources
 

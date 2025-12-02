@@ -1,0 +1,32 @@
+# Release automation scripts
+release.sh
+setup-git-aliases.sh
+
+# VS Code workspace settings (optional - remove if you want to share tasks)
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# IDE files
+*.swp
+*.swo
+.idea/
+*.sublime-project
+*.sublime-workspace
