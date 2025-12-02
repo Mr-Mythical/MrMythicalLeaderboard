@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1764676805,
+  lastUpdated = 1764698405,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 504,
+          score = 504.5,
           level = 21,
-          time = 1661349,
+          time = 1638396,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-11-26T21:34:41.000Z",
+          completedAt = "2025-12-02T15:10:53.000Z",
           roster = {
             {
-              name = "Lonelyhunt",
+              name = "Mortishead",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Silvermoon",
+              level = 80,
+            },
+            {
+              name = "Butaneanzx",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Archimonde",
+              level = 80,
+            },
+            {
+              name = "Vadanwarr",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Hawkeh",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Теомаатрр",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Howling Fjord",
-              level = 80,
-            },
-            {
-              name = "Tmy",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Dentarg",
-              level = 80,
-            },
-            {
-              name = "Mandur",
+              name = "Freaksh",
               class = "Shaman",
               spec = "Elemental",
-              realm = "Hyjal",
-              level = 80,
-            },
-            {
-              name = "Kfccustomer",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Drak'thul",
+              realm = "Kazzak",
               level = 80,
             },
           },
