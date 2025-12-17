@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1765972804,
+  lastUpdated = 1765994404,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -57,12 +57,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 519.5,
+          score = 521.9,
           level = 22,
-          time = 1638676,
+          time = 1516252,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-12-15T14:15:42.000Z",
+          completedAt = "2025-12-17T15:32:30.000Z",
           roster = {
             {
               name = "Roiiben",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 519.3,
+          score = 519.6,
           level = 22,
-          time = 1699486,
+          time = 1684737,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-12-15T17:22:55.000Z",
+          completedAt = "2025-12-17T12:33:10.000Z",
           roster = {
             {
-              name = "Crìms",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Draenor",
-              level = 80,
-            },
-            {
-              name = "Roiiben",
+              name = "Hotdogsuzy",
               class = "Druid",
               spec = "Restoration",
-              realm = "Blackhand",
+              realm = "Twisting Nether",
               level = 80,
             },
             {
-              name = "Cazualaddict",
+              name = "Yarrgi",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Lazelini",
+              name = "Kirawarrior",
               class = "Warrior",
               spec = "Protection",
+              realm = "Kazzak",
+              level = 80,
+            },
+            {
+              name = "Verbraidbuff",
+              class = "Death Knight",
+              spec = "Frost",
               realm = "Tarren Mill",
               level = 80,
             },
             {
-              name = "Sjeledk",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Twisting Nether",
+              name = "Hearthjackss",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Kazzak",
               level = 80,
             },
           },
