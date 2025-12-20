@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1766232004,
+  lastUpdated = 1766253604,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 519.6,
+          score = 520.6,
           level = 22,
-          time = 1684737,
+          time = 1634924,
           keystoneTime = 1920999,
           chests = 1,
-          completedAt = "2025-12-17T12:33:10.000Z",
+          completedAt = "2025-12-20T17:23:09.000Z",
           roster = {
             {
-              name = "Hotdogsuzy",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Twisting Nether",
+              name = "Crìms",
+              class = "Demon Hunter",
+              spec = "Havoc",
+              realm = "Draenor",
               level = 80,
             },
             {
-              name = "Yarrgi",
+              name = "Roiiben",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blackhand",
+              level = 80,
+            },
+            {
+              name = "Cazualaddict",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Kirawarrior",
+              name = "Lazelini",
               class = "Warrior",
               spec = "Protection",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Verbraidbuff",
-              class = "Death Knight",
-              spec = "Frost",
               realm = "Tarren Mill",
               level = 80,
             },
             {
-              name = "Hearthjackss",
-              class = "Demon Hunter",
-              spec = "Havoc",
-              realm = "Kazzak",
+              name = "Sjeledk",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
