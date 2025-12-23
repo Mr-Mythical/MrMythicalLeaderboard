@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1766426405,
+  lastUpdated = 1766448005,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 531.9,
+          score = 534.2,
           level = 23,
-          time = 1711817,
+          time = 1601084,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2025-12-22T14:48:56.000Z",
+          completedAt = "2025-12-22T18:57:48.000Z",
           roster = {
             {
-              name = "Mortishead",
+              name = "Roiiben",
               class = "Druid",
               spec = "Restoration",
-              realm = "Silvermoon",
+              realm = "Blackhand",
               level = 80,
             },
             {
-              name = "Butaneanzx",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Archimonde",
-              level = 80,
-            },
-            {
-              name = "Vadanwarr",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Hawkeh",
+              name = "Cazualaddict",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Freaksh",
+              name = "Lazelini",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+            {
+              name = "Sjeledk",
+              class = "Death Knight",
+              spec = "Frost",
+              realm = "Twisting Nether",
+              level = 80,
+            },
+            {
+              name = "Crimsf",
               class = "Shaman",
               spec = "Elemental",
-              realm = "Kazzak",
+              realm = "Draenor",
               level = 80,
             },
           },
