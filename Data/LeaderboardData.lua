@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1767441603,
+  lastUpdated = 1767463203,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 515.4,
+          score = 515.6,
           level = 22,
-          time = 1841605,
+          time = 1831876,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2025-12-11T19:53:54.000Z",
+          completedAt = "2026-01-03T17:14:00.000Z",
           roster = {
             {
-              name = "Roiiben",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blackhand",
-              level = 80,
-            },
-            {
-              name = "Cazualaddict",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Lazelini",
+              name = "破晓之傲",
               class = "Warrior",
-              spec = "Protection",
-              realm = "Tarren Mill",
+              spec = "Fury",
+              realm = "Valley of Kings",
               level = 80,
             },
             {
-              name = "Sjeledk",
-              class = "Death Knight",
-              spec = "Frost",
-              realm = "Twisting Nether",
-              level = 80,
-            },
-            {
-              name = "Crimsf",
+              name = "Mjtshaman",
               class = "Shaman",
               spec = "Elemental",
-              realm = "Draenor",
+              realm = "Burning Blade",
+              level = 80,
+            },
+            {
+              name = "超级月光",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Isillien",
+              level = 80,
+            },
+            {
+              name = "指尖丶",
+              class = "Hunter",
+              spec = "Beast Mastery",
+              realm = "Burning Blade",
+              level = 80,
+            },
+            {
+              name = "炼气一段",
+              class = "Warrior",
+              spec = "Protection",
+              realm = "Burning Blade",
               level = 80,
             },
           },
