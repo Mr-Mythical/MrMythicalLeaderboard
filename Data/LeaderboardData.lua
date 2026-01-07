@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1767787204,
+  lastUpdated = 1767808804,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 520.1,
-          level = 22,
-          time = 1816340,
+          score = 531.3,
+          level = 23,
+          time = 2030901,
           keystoneTime = 2100999,
           chests = 1,
-          completedAt = "2025-12-16T14:25:57.000Z",
+          completedAt = "2026-01-07T14:50:32.000Z",
           roster = {
             {
-              name = "Hotdogsuzy",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Twisting Nether",
+              name = "Críms",
+              class = "Mage",
+              spec = "Arcane",
+              realm = "Draenor",
               level = 80,
             },
             {
-              name = "Yarrgi",
+              name = "Roiiben",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blackhand",
+              level = 80,
+            },
+            {
+              name = "Cazualaddict",
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Kazzak",
               level = 80,
             },
             {
-              name = "Hearthjacks",
-              class = "Mage",
-              spec = "Arcane",
-              realm = "Kazzak",
-              level = 80,
-            },
-            {
-              name = "Kirawarrior",
+              name = "Lazelini",
               class = "Warrior",
               spec = "Protection",
-              realm = "Kazzak",
+              realm = "Tarren Mill",
               level = 80,
             },
             {
-              name = "Verbraidbuff",
+              name = "Sjeledk",
               class = "Death Knight",
               spec = "Frost",
-              realm = "Tarren Mill",
+              realm = "Twisting Nether",
               level = 80,
             },
           },
