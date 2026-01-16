@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1768521604,
+  lastUpdated = 1768543215,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -352,57 +352,6 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Elemental",
               realm = "Draenor",
-              level = 80,
-            },
-          },
-        },
-      },
-    },
-    ["the-dawnbreaker"] = {
-      name = "The Dawnbreaker",
-      runs = {
-        {
-          rank = 1,
-          score = 515.6,
-          level = 22,
-          time = 1831876,
-          keystoneTime = 1860999,
-          chests = 1,
-          completedAt = "2026-01-03T17:14:00.000Z",
-          roster = {
-            {
-              name = "破晓之傲",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Valley of Kings",
-              level = 80,
-            },
-            {
-              name = "Mjtshaman",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "超级月光",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "指尖丶",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Burning Blade",
-              level = 80,
-            },
-            {
-              name = "炼气一段",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Burning Blade",
               level = 80,
             },
           },
