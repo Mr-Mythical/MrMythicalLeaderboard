@@ -1,95 +1,99 @@
 --[[
 Mr. Mythical Leaderboard Options Panel
 
-This module handles the creation and management of the settings panel for the 
+This module handles the creation and management of the settings panel for the
 Mr. Mythical Leaderboard addon. It uses a global registry pattern to coordinate
 with other Mr. Mythical addons to avoid duplicate category creation.
-
-Global Registry Pattern:
-- Uses _G.MrMythicalSettingsRegistry to coordinate between sibling addons
-- Prevents duplicate "Mr. Mythical" parent categories
-- Allows any addon to create the parent category first
-- Other addons create their own subcategories under the shared parent
-
-Sibling Integration:
-Both Mr. Mythical addons are siblings and follow the same pattern:
-1. Check if _G.MrMythicalSettingsRegistry.parentCategory exists
-2. If not, create the parent category and store it in the registry
-3. If yes, use the existing parent category
-4. Create own subcategory under the parent
-5. Always mark registry.createdBy to track which addon created the parent
-
-This ensures a clean "Mr. Mythical" -> "Keystone Tooltips"/"Leaderboard" hierarchy 
-regardless of addon load order.
 
 Author: Braunerr
 --]]
 
-local MrMythicalLeaderboard = MrMythicalLeaderboard or {}
-local ConfigData = MrMythicalLeaderboard.ConfigData
+_G.MrMythicalLeaderboard = _G.MrMythicalLeaderboard or {}
 
 local Options = {}
 
---- Creates a boolean setting with a checkbox
+-- Export the Options module immediately so it's available to other files
+_G.MrMythicalLeaderboard.Options = Options
+
+-- Configuration data
+local DEFAULTS = {
+    enabled = true,
+    showScore = true,
+    rosterDisplay = "off"
+}
+
+-- Expose defaults
+Options.DEFAULTS = DEFAULTS
+
+local DROPDOWN_OPTIONS = {
+    rosterDisplay = {
+        { text = "Off", value = "off" },
+        { text = "Names Only", value = "names" },
+        { text = "Names + Realm", value = "names_realm" }
+    }
+}
+
+local TOOLTIPS = {
+    enabled = "Enable or disable the Mr. Mythical Leaderboard addon functionality.",
+    showScore = "Display the Mythic+ score in keystone tooltips.",
+    rosterDisplay = "Choose how to display the roster in keystone tooltips:\n\n" ..
+        "|cffffffffOff:|r Don't show roster information\n\n" ..
+        "|cffffffffNames Only:|r Show player names and classes only\n\n" ..
+        "|cffffffffNames + Realm:|r Show player names, classes, and realm names"
+}
+
+--- Creates a setting with appropriate UI element
 --- @param category table The settings category
 --- @param name string Display name for the setting
 --- @param key string Database key for the setting
---- @param defaultValue boolean Default value
+--- @param settingType string "boolean", "string", or "number"
 --- @param tooltip string Tooltip text
---- @return table Setting object with setting and checkbox
-local function createSetting(category, name, key, defaultValue, tooltip)
-    local setting = Settings.RegisterAddOnSetting(category, name, key, MrMythicalLeaderboardDB, "boolean", name, defaultValue)
+--- @param options? table For dropdown settings only
+--- @return table Setting object with setting and initializer
+local function createSetting(category, name, key, settingType, tooltip, options)
+    local defaultValue = DEFAULTS[key]
+    local setting = Settings.RegisterAddOnSetting(category, name, key, MrMythicalLeaderboardDB, settingType, name,
+        defaultValue)
     setting:SetValueChangedCallback(function(_, value)
         MrMythicalLeaderboardDB[key] = value
     end)
 
-    local initializer = Settings.CreateCheckbox(category, setting, tooltip)
-    initializer:SetSetting(setting)
-
-    return { setting = setting, checkbox = initializer }
-end
-
---- Creates a dropdown setting
---- @param category table The settings category
---- @param name string Display name for the setting
---- @param key string Database key for the setting
---- @param defaultValue string Default value
---- @param tooltip string Tooltip text
---- @param options table Array of options with text and value
---- @return table Setting object with setting and dropdown
-local function createDropdownSetting(category, name, key, defaultValue, tooltip, options)
-    local setting = Settings.RegisterAddOnSetting(category, name, key, MrMythicalLeaderboardDB, "string", name, defaultValue)
-    setting:SetValueChangedCallback(function(_, value)
-        MrMythicalLeaderboardDB[key] = value
-    end)
-
-    local function getOptions()
-        local dropdownOptions = {}
-        for _, option in ipairs(options) do
-            table.insert(dropdownOptions, {
-                text = option.text,
-                label = option.text,
-                value = option.value,
-            })
+    local initializer
+    if settingType == "boolean" then
+        initializer = Settings.CreateCheckbox(category, setting, tooltip)
+    else -- dropdown for string/number
+        local function getOptions()
+            -- Fallback: build menu entries compatible with Blizzard_Menu on older clients.
+            local dropdownOptions = {}
+            local menuRadio = (_G.MenuButtonType and _G.MenuButtonType.Radio)
+                or (_G.Enum and Enum.MenuItemType and Enum.MenuItemType.Radio)
+                or 1                    -- numeric fallback commonly used for Radio
+            for _, option in ipairs(options) do
+                table.insert(dropdownOptions, {
+                    text = option.text,
+                    label = option.text,
+                    value = option.value,
+                    controlType = menuRadio,
+                    -- Mark selected state and provide a handler to update the setting.
+                    checked = function() return setting:GetValue() == option.value end,
+                    func = function() setting:SetValue(option.value) end,
+                })
+            end
+            return dropdownOptions
         end
-        return dropdownOptions
+        initializer = Settings.CreateDropdown(category, setting, getOptions, tooltip)
     end
 
-    local initializer = Settings.CreateDropdown(category, setting, getOptions, tooltip)
-
-    return { setting = setting, dropdown = initializer }
+    initializer:SetSetting(setting)
+    return { setting = setting, initializer = initializer }
 end
 
 --- Initialize the addon settings panel
 function Options.initializeSettings()
-    local defaults = {
-        enabled = true,
-        showScore = true,
-        rosterDisplay = "off",
-    }
-
     MrMythicalLeaderboardDB = MrMythicalLeaderboardDB or {}
-    for key, default in pairs(defaults) do
+
+    -- Set defaults for any missing values
+    for key, default in pairs(DEFAULTS) do
         if MrMythicalLeaderboardDB[key] == nil then
             MrMythicalLeaderboardDB[key] = default
         end
@@ -112,146 +116,88 @@ function Options.initializeSettings()
         MrMythicalLeaderboardDB.showRealm = nil
     end
 
-    if not Settings or not Settings.RegisterVerticalLayoutCategory then
-        return
-    end
-
-    local success = pcall(Options.createSettingsPanel)
-    if not success then
-        C_Timer.After(0.1, function()
-            pcall(Options.createSettingsPanel)
-        end)
-    end
+    -- Call settings panel creation directly
+    Options.createSettingsPanel()
 end
 
 function Options.createSettingsPanel()
-    if not Settings or not Settings.RegisterVerticalLayoutCategory then
-        return
-    end
-    
     -- Use a global registry to coordinate with the sibling Mr. Mythical addon
     if not _G.MrMythicalSettingsRegistry then
         _G.MrMythicalSettingsRegistry = {}
     end
-    
+
     local registry = _G.MrMythicalSettingsRegistry
     local parentCategory = nil
-    
+
     -- Check if the sibling addon already created the parent category
     if registry.parentCategory then
         parentCategory = registry.parentCategory
     else
-        -- We need to create the parent category
-        local success, result = pcall(function()
-            return Settings.RegisterVerticalLayoutCategory("Mr. Mythical")
-        end)
-        
-        if success and result then
-            parentCategory = result
-            registry.parentCategory = parentCategory
-            registry.createdBy = "MrMythicalLeaderboard"
-            
-            local regSuccess = pcall(function()
-                Settings.RegisterAddOnCategory(parentCategory)
-            end)
-        else
-            -- Fallback: create a unique parent just for the leaderboard
-            parentCategory = Settings.RegisterVerticalLayoutCategory("Mr. Mythical Leaderboard")
-            Settings.RegisterAddOnCategory(parentCategory)
-        end
+        -- Create the parent category
+        parentCategory = Settings.RegisterVerticalLayoutCategory("Mr. Mythical")
+        registry.parentCategory = parentCategory
+        registry.createdBy = "MrMythicalLeaderboard"
+        Settings.RegisterAddOnCategory(parentCategory)
     end
-    
-    if not parentCategory then
-        return
-    end
-    
-    -- Create our subcategory under the parent (using WoW-native subcategory method)
-    local category
-    
-    -- Try the native subcategory registration method first
-    local subcategorySuccess, subcategoryResult = pcall(function()
-        return Settings.RegisterVerticalLayoutSubcategory(parentCategory, "Leaderboard")
-    end)
-    
-    if subcategorySuccess and subcategoryResult then
-        category = subcategoryResult
-        
-        registry.subCategories = registry.subCategories or {}
-        registry.subCategories["Leaderboard"] = category
-    else
-        -- Fallback to the manual SetParentCategory method
-        local altSuccess, altResult = pcall(function()
-            local subCat = Settings.RegisterVerticalLayoutCategory("Leaderboard")
-            subCat:SetParentCategory(parentCategory)
-            return subCat
-        end)
-        
-        if altSuccess and altResult then
-            category = altResult
-            registry.subCategories = registry.subCategories or {}
-            registry.subCategories["Leaderboard"] = category
-        else
-            category = parentCategory
-        end
-    end
-    
+
+    -- Create our subcategory under the parent
+    local category = Settings.RegisterVerticalLayoutSubcategory(parentCategory, "Leaderboard")
+
+    registry.subCategories = registry.subCategories or {}
+    registry.subCategories["Leaderboard"] = category
+
     local layout = SettingsPanel:GetLayout(category)
-    if not layout then
-        return
+
+    -- Helper function to add section header
+    local function addHeader(name, tooltip)
+        local headerData = { name = name, tooltip = tooltip }
+        local headerInitializer = Settings.CreateElementInitializer("SettingsListSectionHeaderTemplate", headerData)
+        layout:AddInitializer(headerInitializer)
     end
 
-    -- General Settings Header
-    local generalHeaderData = {
-        name = "General Settings",
-        tooltip = "Main leaderboard functionality settings"
-    }
-    local generalHeaderInitializer = Settings.CreateElementInitializer("SettingsListSectionHeaderTemplate", generalHeaderData)
-    layout:AddInitializer(generalHeaderInitializer)
-
-    -- Enable/Disable addon
-    createSetting(
-        category,
-        "Enable Leaderboard",
-        "enabled",
-        true,
-        "Enable or disable the Mr. Mythical Leaderboard addon functionality."
-    )
-
-    -- Tooltip Display Settings Header
-    local tooltipHeaderData = {
-        name = "Tooltip Display Options",
-        tooltip = "Settings that control what information is shown in keystone tooltips"
-    }
-    local tooltipHeaderInitializer = Settings.CreateElementInitializer("SettingsListSectionHeaderTemplate", tooltipHeaderData)
-    layout:AddInitializer(tooltipHeaderInitializer)
-
-    -- Show score in tooltips
-    createSetting(
-        category,
-        "Show Score",
-        "showScore",
-        true,
-        "Display the Mythic+ score in keystone tooltips."
-    )
-
-    -- Roster Display Mode
-    local rosterDisplayOptions = {
-        { text = "Off", value = "off" },
-        { text = "Names Only", value = "names" },
-        { text = "Names + Realm", value = "names_realm" }
+    -- Define all settings in a table-driven way
+    local settingsConfig = {
+        {
+            header = { name = "General Settings", tooltip = "Main leaderboard functionality settings" },
+            settings = {
+                {
+                    name = "Enable Leaderboard",
+                    key = "enabled",
+                    type = "boolean",
+                    tooltip = TOOLTIPS.enabled
+                }
+            }
+        },
+        {
+            header = { name = "Tooltip Display Options", tooltip = "Settings that control what information is shown in keystone tooltips" },
+            settings = {
+                {
+                    name = "Show Score",
+                    key = "showScore",
+                    type = "boolean",
+                    tooltip = TOOLTIPS.showScore
+                },
+                {
+                    name = "Roster Display",
+                    key = "rosterDisplay",
+                    type = "string",
+                    tooltip = TOOLTIPS.rosterDisplay,
+                    options = DROPDOWN_OPTIONS.rosterDisplay
+                }
+            }
+        }
     }
 
-    createDropdownSetting(
-        category,
-        "Roster Display",
-        "rosterDisplay",
-        "off",
-        "Choose how to display the roster in keystone tooltips:\n\n" ..
-        "|cffffffffOff:|r Don't show roster information\n\n" ..
-        "|cffffffffNames Only:|r Show player names and classes only\n\n" ..
-        "|cffffffffNames + Realm:|r Show player names, classes, and realm names",
-        rosterDisplayOptions
-    )
+    -- Create all settings
+    for _, section in ipairs(settingsConfig) do
+        if section.header then
+            addHeader(section.header.name, section.header.tooltip)
+        end
+
+        for _, setting in ipairs(section.settings) do
+            createSetting(category, setting.name, setting.key, setting.type, setting.tooltip, setting.options)
+        end
+    end
 end
 
 -- Utility function for other addons to check integration status
@@ -263,7 +209,7 @@ function Options.getIntegrationInfo()
             reason = "No global registry found"
         }
     end
-    
+
     return {
         integrated = registry.parentCategory ~= nil,
         parentExists = registry.parentCategory ~= nil,
@@ -272,6 +218,3 @@ function Options.getIntegrationInfo()
         parentName = registry.parentCategory and registry.parentCategory.GetName and registry.parentCategory:GetName() or nil
     }
 end
-
--- Export the Options module
-MrMythicalLeaderboard.Options = Options
