@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1769018405,
+  lastUpdated = 1769040004,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -110,46 +110,18 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 770,
-          level = 38,
-          time = 468116,
+          score = 800,
+          level = 40,
+          time = 540729,
           keystoneTime = 1920999,
           chests = 3,
-          completedAt = "2026-01-21T10:03:46.000Z",
+          completedAt = "2026-01-21T22:13:16.000Z",
           roster = {
             {
-              name = "Riå",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Deardra",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Lightbringer",
-              level = 80,
-            },
-            {
-              name = "Cairnus",
-              class = "Death Knight",
-              spec = "Blood",
-              realm = "Wyrmrest Accord",
-              level = 80,
-            },
-            {
-              name = "Dirtdonut",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Sargeras",
-              level = 80,
-            },
-            {
-              name = "Macamar",
+              name = "Jashror",
               class = "Demon Hunter",
               spec = "Havoc",
-              realm = "Sargeras",
+              realm = "Stormrage",
               level = 80,
             },
           },
