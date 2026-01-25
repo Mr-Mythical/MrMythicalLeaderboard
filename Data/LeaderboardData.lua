@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1769299206,
+  lastUpdated = 1769320874,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -37,10 +37,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-01-22T00:38:46.000Z",
           roster = {
             {
-              name = "Eyjes",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Stormrage",
+              name = "Trajann",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Ravenholdt",
               level = 80,
             },
             {
@@ -48,13 +48,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Stormrage",
-              level = 80,
-            },
-            {
-              name = "Trajann",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Ravenholdt",
               level = 80,
             },
             {
@@ -69,6 +62,13 @@ local MrMythicalLeaderboardData = {
               class = "Evoker",
               spec = "Augmentation",
               realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Eyjes",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Stormrage",
               level = 80,
             },
           },
@@ -162,17 +162,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-01-22T00:57:57.000Z",
           roster = {
             {
+              name = "Trajann",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Ravenholdt",
+              level = 80,
+            },
+            {
               name = "Rzy",
               class = "Paladin",
               spec = "Retribution",
               realm = "Area 52",
-              level = 80,
-            },
-            {
-              name = "Eyjes",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Stormrage",
               level = 80,
             },
             {
@@ -183,17 +183,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Trajann",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Ravenholdt",
-              level = 80,
-            },
-            {
               name = "Kîllêr",
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Runetotem",
+              level = 80,
+            },
+            {
+              name = "Eyjes",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Stormrage",
               level = 80,
             },
           },
@@ -301,10 +301,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Eyjes",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Stormrage",
+              name = "Trajann",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Ravenholdt",
               level = 80,
             },
             {
@@ -315,17 +315,17 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "Trajann",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Ravenholdt",
-              level = 80,
-            },
-            {
               name = "Kîllêr",
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Runetotem",
+              level = 80,
+            },
+            {
+              name = "Eyjes",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Stormrage",
               level = 80,
             },
           },
