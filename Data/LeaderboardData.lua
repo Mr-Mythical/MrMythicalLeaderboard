@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1769493604,
+  lastUpdated = 1769515204,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -37,10 +37,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-01-22T00:38:46.000Z",
           roster = {
             {
-              name = "Eyjes",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Stormrage",
+              name = "Trajann",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Ravenholdt",
               level = 80,
             },
             {
@@ -48,13 +48,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Stormrage",
-              level = 80,
-            },
-            {
-              name = "Trajann",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Ravenholdt",
               level = 80,
             },
             {
@@ -69,6 +62,13 @@ local MrMythicalLeaderboardData = {
               class = "Evoker",
               spec = "Augmentation",
               realm = "Illidan",
+              level = 80,
+            },
+            {
+              name = "Eyjes",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Stormrage",
               level = 80,
             },
           },
@@ -88,6 +88,13 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-01-21T11:34:10.000Z",
           roster = {
             {
+              name = "Dirtdonut",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Sargeras",
+              level = 80,
+            },
+            {
               name = "Riå",
               class = "Warrior",
               spec = "Fury",
@@ -99,13 +106,6 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "Lightbringer",
-              level = 80,
-            },
-            {
-              name = "Dirtdonut",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Sargeras",
               level = 80,
             },
             {
