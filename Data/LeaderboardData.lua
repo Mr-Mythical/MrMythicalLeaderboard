@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1769688005,
+  lastUpdated = 1769709604,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -37,10 +37,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-01-22T00:38:46.000Z",
           roster = {
             {
-              name = "Trajann",
-              class = "Paladin",
-              spec = "Protection",
-              realm = "Ravenholdt",
+              name = "Eyjes",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Stormrage",
               level = 80,
             },
             {
@@ -48,6 +48,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Havoc",
               realm = "Stormrage",
+              level = 80,
+            },
+            {
+              name = "Trajann",
+              class = "Paladin",
+              spec = "Protection",
+              realm = "Ravenholdt",
               level = 80,
             },
             {
@@ -62,13 +69,6 @@ local MrMythicalLeaderboardData = {
               class = "Evoker",
               spec = "Augmentation",
               realm = "Illidan",
-              level = 80,
-            },
-            {
-              name = "Eyjes",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Stormrage",
               level = 80,
             },
           },
