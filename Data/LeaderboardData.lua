@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1770638404,
+  lastUpdated = 1770660004,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,32 +312,32 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 546.2,
+          score = 546.4,
           level = 24,
-          time = 1887790,
+          time = 1876556,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2026-01-31T15:17:15.000Z",
+          completedAt = "2026-02-09T12:51:49.000Z",
           roster = {
             {
-              name = "番茄骑士",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Suramar",
-              level = 80,
-            },
-            {
-              name = "别断我盾反",
+              name = "斩舞",
               class = "Warrior",
               spec = "Protection",
-              realm = "Scarlet Crusade",
+              realm = "Blanchard",
               level = 80,
             },
             {
-              name = "Castiel",
+              name = "飛牛在天",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Shadowmourne",
+              level = 80,
+            },
+            {
+              name = "Gkurfvrst",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Grim Batol",
+              realm = "Khadgar",
               level = 80,
             },
             {
@@ -348,10 +348,10 @@ local MrMythicalLeaderboardData = {
               level = 80,
             },
             {
-              name = "戚家军",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "The Great Sea",
+              name = "Vannecs",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Burning Blade",
               level = 80,
             },
           },
