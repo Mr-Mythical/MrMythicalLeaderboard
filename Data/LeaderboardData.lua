@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1770789605,
+  lastUpdated = 1770811205,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 546.4,
+          score = 547.6,
           level = 24,
-          time = 1876556,
+          time = 1817863,
           keystoneTime = 1950999,
           chests = 1,
-          completedAt = "2026-02-09T12:51:49.000Z",
+          completedAt = "2026-02-11T08:39:37.000Z",
           roster = {
             {
-              name = "斩舞",
+              name = "团子大家族",
+              class = "Warrior",
+              spec = "Fury",
+              realm = "Li Li",
+              level = 80,
+            },
+            {
+              name = "别断我盾反",
               class = "Warrior",
               spec = "Protection",
-              realm = "Blanchard",
+              realm = "Scarlet Crusade",
               level = 80,
             },
             {
-              name = "飛牛在天",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Shadowmourne",
-              level = 80,
-            },
-            {
-              name = "Gkurfvrst",
+              name = "Castiel",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Khadgar",
+              realm = "Grim Batol",
               level = 80,
             },
             {
-              name = "迟仙丶",
+              name = "陈茵丷",
               class = "Hunter",
               spec = "Survival",
-              realm = "Burning Blade",
+              realm = "Scarlet Crusade",
               level = 80,
             },
             {
-              name = "Vannecs",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Burning Blade",
+              name = "戚家军",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "The Great Sea",
               level = 80,
             },
           },
