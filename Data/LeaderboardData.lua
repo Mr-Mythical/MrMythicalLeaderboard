@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772172004,
+  lastUpdated = 1772193605,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -32,7 +32,7 @@ local MrMythicalLeaderboardData = {
               class = "Rogue",
               spec = "Subtlety",
               realm = "Silvermoon",
-              level = 80,
+              level = 90,
             },
             {
               name = "Mazzblue",
@@ -97,7 +97,7 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Survival",
               realm = "Quel'dorei",
-              level = 80,
+              level = 81,
             },
           },
         },
@@ -127,7 +127,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Blood",
               realm = "Tarren Mill",
-              level = 80,
+              level = 87,
             },
             {
               name = "Storcken",
@@ -148,7 +148,7 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Sylvanas",
-              level = 80,
+              level = 90,
             },
           },
         },
@@ -192,7 +192,7 @@ local MrMythicalLeaderboardData = {
               class = "Rogue",
               spec = "Subtlety",
               realm = "Blackhand",
-              level = 80,
+              level = 82,
             },
             {
               name = "Таристаз",
@@ -229,7 +229,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Blood",
               realm = "Tarren Mill",
-              level = 80,
+              level = 87,
             },
             {
               name = "Qenjua",
@@ -243,7 +243,7 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Sylvanas",
-              level = 80,
+              level = 90,
             },
             {
               name = "Seongjinwu",
@@ -294,14 +294,14 @@ local MrMythicalLeaderboardData = {
               class = "Rogue",
               spec = "Assassination",
               realm = "Blackhand",
-              level = 80,
+              level = 82,
             },
             {
               name = "Аганит",
               class = "Evoker",
               spec = "Preservation",
               realm = "Howling Fjord",
-              level = 80,
+              level = 83,
             },
           },
         },
@@ -382,7 +382,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Blood",
               realm = "Tarren Mill",
-              level = 80,
+              level = 87,
             },
             {
               name = "Solanis",
@@ -396,7 +396,7 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Restoration",
               realm = "Sylvanas",
-              level = 80,
+              level = 90,
             },
             {
               name = "Manfredini",
