@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772193605,
+  lastUpdated = 1772215203,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -141,7 +141,7 @@ local MrMythicalLeaderboardData = {
               class = "Priest",
               spec = "Shadow",
               realm = "Sylvanas",
-              level = 82,
+              level = 90,
             },
             {
               name = "Meowtide",
@@ -185,14 +185,14 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Howling Fjord",
-              level = 80,
+              level = 82,
             },
             {
               name = "Spacee",
               class = "Rogue",
               spec = "Subtlety",
               realm = "Blackhand",
-              level = 82,
+              level = 83,
             },
             {
               name = "Таристаз",
@@ -287,14 +287,14 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Howling Fjord",
-              level = 80,
+              level = 82,
             },
             {
               name = "Spacee",
               class = "Rogue",
               spec = "Assassination",
               realm = "Blackhand",
-              level = 82,
+              level = 83,
             },
             {
               name = "Аганит",
@@ -389,7 +389,7 @@ local MrMythicalLeaderboardData = {
               class = "Priest",
               spec = "Shadow",
               realm = "Sylvanas",
-              level = 82,
+              level = 90,
             },
             {
               name = "Meowtide",
