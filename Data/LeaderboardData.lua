@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772215203,
+  lastUpdated = 1772236805,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -97,7 +97,7 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Survival",
               realm = "Quel'dorei",
-              level = 81,
+              level = 90,
             },
           },
         },
@@ -120,7 +120,7 @@ local MrMythicalLeaderboardData = {
               class = "Paladin",
               spec = "Retribution",
               realm = "Sylvanas",
-              level = 80,
+              level = 90,
             },
             {
               name = "Meowfreak",
@@ -192,7 +192,7 @@ local MrMythicalLeaderboardData = {
               class = "Rogue",
               spec = "Subtlety",
               realm = "Blackhand",
-              level = 83,
+              level = 84,
             },
             {
               name = "Таристаз",
@@ -222,7 +222,7 @@ local MrMythicalLeaderboardData = {
               class = "Paladin",
               spec = "Retribution",
               realm = "Sylvanas",
-              level = 80,
+              level = 90,
             },
             {
               name = "Meowfreak",
@@ -294,7 +294,7 @@ local MrMythicalLeaderboardData = {
               class = "Rogue",
               spec = "Assassination",
               realm = "Blackhand",
-              level = 83,
+              level = 84,
             },
             {
               name = "Аганит",
@@ -403,7 +403,7 @@ local MrMythicalLeaderboardData = {
               class = "Warlock",
               spec = "Affliction",
               realm = "Tarren Mill",
-              level = 80,
+              level = 87,
             },
           },
         },
