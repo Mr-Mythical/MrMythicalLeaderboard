@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772236805,
+  lastUpdated = 1772258404,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -185,14 +185,14 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Howling Fjord",
-              level = 82,
+              level = 87,
             },
             {
               name = "Spacee",
               class = "Rogue",
               spec = "Subtlety",
               realm = "Blackhand",
-              level = 84,
+              level = 85,
             },
             {
               name = "Таристаз",
@@ -287,14 +287,14 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Howling Fjord",
-              level = 82,
+              level = 87,
             },
             {
               name = "Spacee",
               class = "Rogue",
               spec = "Assassination",
               realm = "Blackhand",
-              level = 84,
+              level = 85,
             },
             {
               name = "Аганит",
