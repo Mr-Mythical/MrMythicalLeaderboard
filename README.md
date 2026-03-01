@@ -6,6 +6,12 @@
 
 This addon integrates leaderboard data from Raider.IO into your keystone tooltips. When you hover over any Mythic+ keystone, you'll see information about the current top run for that dungeon.
 
+---
+
+**❤️ Support development on [Patreon](https://www.patreon.com/c/mrmythical)** - Help keep Mr. Mythical and all our addons updated and feature-rich!
+
+---
+
 ## Key Features
 
 ### **Leaderboard Data Integration**
@@ -42,11 +48,15 @@ Looking for more Mythic+ tools? Check out our companion addons:
 
 [Download on Wago](https://addons.wago.io/addons/mrmythicalgearcheck)
 
+**[Mr. Mythical: Assistant](https://github.com/Mr-Mythical/MrMythicalAssistant)** - A sophisticated unicorn companion who provides witty commentary and helpful automation for your adventures.
+
+[Download on CurseForge](https://www.curseforge.com/wow/addons/mr-mythical-assistant)
+
+[Download on Wago](https://addons.wago.io/addons/mrmythicalassistant)
+
 ## More Tools & Resources
 
 Visit **[MrMythical.com](https://mrmythical.com)** for additional Mythic+ & Raid tools.
-
-Support development on **[Patreon](https://www.patreon.com/c/mrmythical)** 
 
 ### **Want to report a bug or suggest a feature?**
 Visit our [GitHub Issues](https://github.com/Mr-Mythical/MrMythicalLeaderboard/issues) page for bug reports and feature requests.
