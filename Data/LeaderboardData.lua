@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772431204,
+  lastUpdated = 1772452804,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -353,6 +353,57 @@ local MrMythicalLeaderboardData = {
               spec = "Mistweaver",
               realm = "The Great Sea",
               level = 80,
+            },
+          },
+        },
+      },
+    },
+    ["the-dawnbreaker"] = {
+      name = "The Dawnbreaker",
+      runs = {
+        {
+          rank = 1,
+          score = 581.5,
+          level = 26,
+          time = 1537890,
+          keystoneTime = 1860999,
+          chests = 1,
+          completedAt = "2026-01-21T18:27:09.000Z",
+          roster = {
+            {
+              name = "Cotti",
+              class = "Druid",
+              spec = "Balance",
+              realm = "Tarren Mill",
+              level = 80,
+            },
+            {
+              name = "Meowfreak",
+              class = "Death Knight",
+              spec = "Blood",
+              realm = "Tarren Mill",
+              level = 87,
+            },
+            {
+              name = "Solanis",
+              class = "Priest",
+              spec = "Shadow",
+              realm = "Sylvanas",
+              level = 90,
+            },
+            {
+              name = "Meowtide",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Sylvanas",
+              level = 90,
+            },
+            {
+              name = "Manfredini",
+              class = "Warlock",
+              spec = "Affliction",
+              realm = "Tarren Mill",
+              level = 90,
             },
           },
         },
