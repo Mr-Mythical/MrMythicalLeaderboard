@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772409605,
+  lastUpdated = 1772431204,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -39,7 +39,7 @@ local MrMythicalLeaderboardData = {
               class = "Shaman",
               spec = "Elemental",
               realm = "Draenor",
-              level = 80,
+              level = 81,
             },
             {
               name = "Shiivax",
@@ -236,7 +236,7 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Sylvanas",
-              level = 80,
+              level = 90,
             },
             {
               name = "Meowtide",
@@ -353,57 +353,6 @@ local MrMythicalLeaderboardData = {
               spec = "Mistweaver",
               realm = "The Great Sea",
               level = 80,
-            },
-          },
-        },
-      },
-    },
-    ["the-dawnbreaker"] = {
-      name = "The Dawnbreaker",
-      runs = {
-        {
-          rank = 1,
-          score = 581.5,
-          level = 26,
-          time = 1537890,
-          keystoneTime = 1860999,
-          chests = 1,
-          completedAt = "2026-01-21T18:27:09.000Z",
-          roster = {
-            {
-              name = "Cotti",
-              class = "Druid",
-              spec = "Balance",
-              realm = "Tarren Mill",
-              level = 80,
-            },
-            {
-              name = "Meowfreak",
-              class = "Death Knight",
-              spec = "Blood",
-              realm = "Tarren Mill",
-              level = 87,
-            },
-            {
-              name = "Solanis",
-              class = "Priest",
-              spec = "Shadow",
-              realm = "Sylvanas",
-              level = 90,
-            },
-            {
-              name = "Meowtide",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Sylvanas",
-              level = 90,
-            },
-            {
-              name = "Manfredini",
-              class = "Warlock",
-              spec = "Affliction",
-              realm = "Tarren Mill",
-              level = 90,
             },
           },
         },
