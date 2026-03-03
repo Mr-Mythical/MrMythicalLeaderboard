@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772496005,
+  lastUpdated = 1772517605,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -178,7 +178,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Howling Fjord",
-              level = 80,
+              level = 82,
             },
             {
               name = "Фриволкер",
@@ -280,7 +280,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Howling Fjord",
-              level = 80,
+              level = 82,
             },
             {
               name = "Фриволкер",
@@ -375,7 +375,7 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Balance",
               realm = "Tarren Mill",
-              level = 80,
+              level = 82,
             },
             {
               name = "Meowfreak",
