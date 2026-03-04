@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772625604,
+  lastUpdated = 1772647203,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -134,7 +134,7 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Sylvanas",
-              level = 88,
+              level = 90,
             },
             {
               name = "Solanis",
@@ -149,57 +149,6 @@ local MrMythicalLeaderboardData = {
               spec = "Restoration",
               realm = "Sylvanas",
               level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["halls-of-atonement"] = {
-      name = "Halls of Atonement",
-      runs = {
-        {
-          rank = 1,
-          score = 559,
-          level = 24,
-          time = 1203637,
-          keystoneTime = 1920999,
-          chests = 2,
-          completedAt = "2026-01-22T00:34:21.000Z",
-          roster = {
-            {
-              name = "Плоскоземеля",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Lich King",
-              level = 80,
-            },
-            {
-              name = "Мангусли",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Howling Fjord",
-              level = 82,
-            },
-            {
-              name = "Фриволкер",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Howling Fjord",
-              level = 90,
-            },
-            {
-              name = "Spacee",
-              class = "Rogue",
-              spec = "Subtlety",
-              realm = "Blackhand",
-              level = 90,
-            },
-            {
-              name = "Таристаз",
-              class = "Evoker",
-              spec = "Preservation",
-              realm = "Howling Fjord",
-              level = 80,
             },
           },
         },
@@ -375,7 +324,7 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Balance",
               realm = "Tarren Mill",
-              level = 88,
+              level = 90,
             },
             {
               name = "Meowfreak",
