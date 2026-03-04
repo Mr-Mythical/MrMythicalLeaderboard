@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772604004,
+  lastUpdated = 1772625604,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -134,7 +134,7 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Beast Mastery",
               realm = "Sylvanas",
-              level = 80,
+              level = 88,
             },
             {
               name = "Solanis",
@@ -246,7 +246,7 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Seongjinwu",
+              name = "Seongjinwu-224600845",
               class = "Evoker",
               spec = "Devastation",
               realm = "Silvermoon",
