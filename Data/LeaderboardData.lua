@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772690404,
+  lastUpdated = 1772712004,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -83,7 +83,7 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Restoration",
               realm = "Shadowmoon",
-              level = 80,
+              level = 90,
             },
             {
               name = "Vicdk",
