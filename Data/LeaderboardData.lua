@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1772841603,
+  lastUpdated = 1772863206,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -127,7 +127,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Blood",
               realm = "Tarren Mill",
-              level = 87,
+              level = 90,
             },
             {
               name = "Storcken",
@@ -229,7 +229,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Blood",
               realm = "Tarren Mill",
-              level = 87,
+              level = 90,
             },
             {
               name = "Qenjua",
@@ -382,7 +382,7 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Blood",
               realm = "Tarren Mill",
-              level = 87,
+              level = 90,
             },
             {
               name = "Solanis",
