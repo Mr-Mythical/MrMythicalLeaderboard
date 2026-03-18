@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1773813604,
+  lastUpdated = 1773835213,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -46,57 +46,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Blackrock",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["ecodome-aldani"] = {
-      name = "Eco-Dome Al'dani",
-      runs = {
-        {
-          rank = 1,
-          score = 561.9,
-          level = 25,
-          time = 1767815,
-          keystoneTime = 1860999,
-          chests = 1,
-          completedAt = "2026-02-11T14:16:26.000Z",
-          roster = {
-            {
-              name = "Elmog",
-              class = "Mage",
-              spec = "Frost",
-              realm = "Arygos",
-              level = 90,
-            },
-            {
-              name = "Chinglin",
-              class = "Warrior",
-              spec = "Protection",
-              realm = "Shadowmoon",
-              level = 90,
-            },
-            {
-              name = "Martinie",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Shadowmoon",
-              level = 90,
-            },
-            {
-              name = "Vicdk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Shadowmoon",
-              level = 90,
-            },
-            {
-              name = "夏夜神話",
-              class = "Hunter",
-              spec = "Survival",
-              realm = "Quel'dorei",
               level = 90,
             },
           },
