@@ -10,14 +10,14 @@ local MrMythicalLeaderboard = MrMythicalLeaderboard or {}
 
 MrMythicalLeaderboard.DungeonData = {
     MYTHIC_MAPS = {
-        { id = 503, name = "Ara-kara, City of Echoes" },
-        { id = 542, name = "Eco-Dome Al'dani" },
-        { id = 378, name = "Halls of Atonement" },
-        { id = 525, name = "Operation: Floodgate" },
-        { id = 499, name = "Priory of the Sacred Flame" },
-        { id = 392, name = "Tazavesh: So'leah's Gambit" },
-        { id = 391, name = "Tazavesh: Streets of Wonder" },
-        { id = 505, name = "The Dawnbreaker" }
+        { id = 402, name = "Algeth'ar Academy" },
+        { id = 558, name = "Magisters' Terrace" },
+        { id = 560, name = "Maisara Caverns" },
+        { id = 559, name = "Nexus-Point Xenas" },
+        { id = 556, name = "Pit of Saron" },
+        { id = 239, name = "Seat of the Triumvirate" },
+        { id = 161, name = "Skyreach" },
+        { id = 557, name = "Windrunner Spire" }
     }
 }
 

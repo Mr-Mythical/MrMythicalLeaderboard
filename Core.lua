@@ -44,23 +44,6 @@ local function initializeDungeonMapping()
     DUNGEONS = {}
     for _, dungeon in ipairs(MrMythicalLeaderboard.DungeonData.MYTHIC_MAPS) do
         local slug = dungeon.name:lower():gsub("[^%w ]", ""):gsub(" ", "-")
-        if dungeon.name == "Mechagon Workshop" then
-            slug = "operation-mechagon-workshop"
-        elseif dungeon.name == "Operation: Floodgate" then
-            slug = "operation-floodgate" 
-        elseif dungeon.name == "Priory of the Sacred Flame" then
-            slug = "priory-of-the-sacred-flame"
-        elseif dungeon.name == "The MOTHERLODE!!" then
-            slug = "the-motherlode"
-        elseif dungeon.name == "The Rookery" then
-            slug = "the-rookery"
-        elseif dungeon.name == "Theater of Pain" then
-            slug = "theater-of-pain"
-        elseif dungeon.name == "Cinderbrew Meadery" then
-            slug = "cinderbrew-meadery"
-        elseif dungeon.name == "Darkflame Cleft" then
-            slug = "darkflame-cleft"
-        end
         
         DUNGEONS[dungeon.id] = {
             name = dungeon.name,
