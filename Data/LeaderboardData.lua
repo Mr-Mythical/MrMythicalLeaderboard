@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1774332005,
+  lastUpdated = 1774353604,
   dungeons = {
     ["arakara-city-of-echoes"] = {
       name = "Ara-Kara, City of Echoes",
@@ -97,57 +97,6 @@ local MrMythicalLeaderboardData = {
               class = "Hunter",
               spec = "Survival",
               realm = "Quel'dorei",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["operation-floodgate"] = {
-      name = "Operation: Floodgate",
-      runs = {
-        {
-          rank = 1,
-          score = 580.3,
-          level = 26,
-          time = 1702720,
-          keystoneTime = 1980999,
-          chests = 1,
-          completedAt = "2026-01-21T20:38:15.000Z",
-          roster = {
-            {
-              name = "Xatihr",
-              class = "Paladin",
-              spec = "Retribution",
-              realm = "Sylvanas",
-              level = 90,
-            },
-            {
-              name = "Meowfreak",
-              class = "Death Knight",
-              spec = "Blood",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Storcken",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "Sylvanas",
-              level = 90,
-            },
-            {
-              name = "Solanis",
-              class = "Priest",
-              spec = "Shadow",
-              realm = "Sylvanas",
-              level = 90,
-            },
-            {
-              name = "Meowtide",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Sylvanas",
               level = 90,
             },
           },
