@@ -134,7 +134,12 @@ function MrMythicalLeaderboard.setupTooltipHooks()
         MrMythicalLeaderboard.handleKeystoneTooltip(self, link)
     end
     
-    TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, function(tooltip)
+    TooltipDataProcessor.AddTooltipPostCall(Enum.TooltipDataType.Item, function(tooltip, data)
+        if data and data.hyperlink then
+            MrMythicalLeaderboard.handleKeystoneTooltip(tooltip, data.hyperlink)
+            return
+        end
+
         if tooltip.GetItem then
             local _, link = tooltip:GetItem()
             if link then
@@ -147,14 +152,8 @@ end
 function MrMythicalLeaderboard.handleKeystoneTooltip(tooltip, link)
     if not MrMythicalLeaderboardDB.enabled or not LeaderboardData then return end
     
-    local challengeID = nil
-    
     local keystoneData = MrMythicalLeaderboard.KeystoneUtils.parseKeystoneData(link)
-    if keystoneData then
-        challengeID = keystoneData.mapID
-    else
-        challengeID = MrMythicalLeaderboard.extractChallengeIDFromTooltip(tooltip)
-    end
+    local challengeID = keystoneData and keystoneData.mapID or nil
     
     if challengeID then
         MrMythicalLeaderboard.addLeaderboardToTooltip(tooltip, challengeID)
@@ -162,22 +161,8 @@ function MrMythicalLeaderboard.handleKeystoneTooltip(tooltip, link)
 end
 
 function MrMythicalLeaderboard.extractChallengeIDFromTooltip(tooltip)
-    if not tooltip or not tooltip.GetName then return nil end
-    
-    for i = 1, tooltip:NumLines() do
-        local line = _G[tooltip:GetName() .. "TextLeft" .. i]
-        if line then
-            local text = line:GetText()
-            if text then
-                for challengeID, dungeonInfo in pairs(DUNGEONS) do
-                    if string.find(text, dungeonInfo.name, 1, true) then
-                        return challengeID
-                    end
-                end
-            end
-        end
-    end
-    
+    -- Tooltip line text can be a protected secret string in combat-sensitive code.
+    -- Keep this function for compatibility, but do not inspect tooltip text.
     return nil
 end
 

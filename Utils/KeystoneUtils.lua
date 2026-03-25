@@ -44,7 +44,7 @@ end
 --- @param link string The link to validate
 --- @return boolean True if the link is a valid keystone link
 function KeystoneUtils.isKeystoneLink(link)
-    return link and link:find("keystone:") ~= nil
+    return type(link) == "string" and string.find(link, "keystone:", 1, true) ~= nil
 end
 
 --- Parses all keystone data from a link in one call
