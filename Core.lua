@@ -170,7 +170,7 @@ function MrMythicalLeaderboard.extractChallengeIDFromTooltip(tooltip)
             local text = line:GetText()
             if text then
                 for challengeID, dungeonInfo in pairs(DUNGEONS) do
-                    if text:find(dungeonInfo.name, 1, true) then
+                    if string.find(text, dungeonInfo.name, 1, true) then
                         return challengeID
                     end
                 end
