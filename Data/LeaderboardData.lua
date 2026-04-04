@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1775282404,
+  lastUpdated = 1775304006,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -159,45 +159,45 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 472.8,
+          score = 473.7,
           level = 19,
-          time = 1668199,
+          time = 1621175,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-04-02T12:45:42.000Z",
+          completedAt = "2026-04-04T11:10:36.000Z",
           roster = {
             {
-              name = "Anniecpt",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "The Great Sea",
+              name = "Xiaoe",
+              class = "Paladin",
+              spec = "Retribution",
+              realm = "Blanchard",
               level = 90,
             },
             {
-              name = "丶将息",
+              name = "烈焰之菜",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Chillwind Point",
+              level = 90,
+            },
+            {
+              name = "收心的老渣男",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "Soulzz",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "软的抗不了",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Rhonin",
-              level = 90,
-            },
-            {
-              name = "牛天师",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "风为龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "The Great Sea",
-              level = 90,
-            },
-            {
-              name = "我真的好低迷",
-              class = "Death Knight",
-              spec = "Unholy",
               realm = "The Great Sea",
               level = 90,
             },
