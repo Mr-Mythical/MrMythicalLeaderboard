@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1775455206,
+  lastUpdated = 1775476804,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -210,45 +210,45 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 487.2,
+          score = 488.1,
           level = 20,
-          time = 1697072,
+          time = 1649979,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-04-05T14:43:37.000Z",
+          completedAt = "2026-04-06T09:27:05.000Z",
           roster = {
             {
-              name = "牛天师",
+              name = "冷如秋秋",
               class = "Druid",
               spec = "Restoration",
+              realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "末诚灬",
+              class = "Death Knight",
+              spec = "Unholy",
               realm = "Al'ar",
               level = 90,
             },
             {
-              name = "我真的好低迷",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "The Great Sea",
-              level = 90,
-            },
-            {
-              name = "Anniecpt",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "The Great Sea",
-              level = 90,
-            },
-            {
-              name = "丶将息",
+              name = "Zimengmonk",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Rhonin",
               level = 90,
             },
             {
-              name = "风为龙龙",
+              name = "小奈龙龙",
               class = "Evoker",
               spec = "Augmentation",
+              realm = "The Great Sea",
+              level = 90,
+            },
+            {
+              name = "Supremedh",
+              class = "Demon Hunter",
+              spec = "Devourer",
               realm = "The Great Sea",
               level = 90,
             },
