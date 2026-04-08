@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1775649606,
+  lastUpdated = 1775671205,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 488.1,
+          score = 489.2,
           level = 20,
-          time = 1649979,
+          time = 1598204,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-04-06T09:27:05.000Z",
+          completedAt = "2026-04-08T09:02:52.000Z",
           roster = {
             {
-              name = "冷如秋秋",
+              name = "愿闻将军之志",
               class = "Druid",
               spec = "Restoration",
-              realm = "Rhonin",
+              realm = "Blanchard",
               level = 90,
             },
             {
-              name = "末诚灬",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Al'ar",
+              name = "小雨爆爆",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Burning Blade",
               level = 90,
             },
             {
-              name = "Zimengmonk",
+              name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Rhonin",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
-              name = "小奈龙龙",
+              name = "孤独龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "The Great Sea",
+              realm = "Isillien",
               level = 90,
             },
             {
-              name = "Supremedh",
+              name = "阿布夏会变身",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "The Great Sea",
+              realm = "Al'ar",
               level = 90,
             },
           },
