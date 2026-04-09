@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1775736006,
+  lastUpdated = 1775757607,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -159,43 +159,43 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 486.3,
+          score = 487.6,
           level = 20,
-          time = 1739053,
+          time = 1676363,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-04-07T18:51:40.000Z",
+          completedAt = "2026-04-09T16:36:28.000Z",
           roster = {
             {
-              name = "牛天师",
+              name = "冷如秋秋",
               class = "Druid",
               spec = "Restoration",
+              realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "末诚灬",
+              class = "Death Knight",
+              spec = "Unholy",
               realm = "Al'ar",
               level = 90,
             },
             {
-              name = "我真的好低迷",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "The Great Sea",
+              name = "乐火术",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Deathwing",
               level = 90,
             },
             {
-              name = "Anniecpt",
-              class = "Hunter",
-              spec = "Beast Mastery",
-              realm = "The Great Sea",
-              level = 90,
-            },
-            {
-              name = "丶将息",
+              name = "Zimengmonk",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Rhonin",
               level = 90,
             },
             {
-              name = "风为龙龙",
+              name = "小奈龙龙",
               class = "Evoker",
               spec = "Augmentation",
               realm = "The Great Sea",
@@ -261,12 +261,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 485.3,
+          score = 486.8,
           level = 20,
-          time = 2026554,
+          time = 1941198,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-04-06T14:57:40.000Z",
+          completedAt = "2026-04-09T15:04:42.000Z",
           roster = {
             {
               name = "牛天师",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 487.2,
+          score = 487.4,
           level = 20,
-          time = 1581335,
+          time = 1573105,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-04-05T17:44:48.000Z",
+          completedAt = "2026-04-09T15:57:19.000Z",
           roster = {
             {
-              name = "你又没了是吧",
+              name = "冷如秋秋",
               class = "Druid",
               spec = "Restoration",
-              realm = "Burning Blade",
+              realm = "Rhonin",
               level = 90,
             },
             {
-              name = "遵义巫妖王",
+              name = "末诚灬",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Blanchard",
+              realm = "Al'ar",
               level = 90,
             },
             {
-              name = "小人间失格",
+              name = "乐火术",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Deathwing",
+              level = 90,
+            },
+            {
+              name = "Zimengmonk",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Scarlet Crusade",
+              realm = "Rhonin",
               level = 90,
             },
             {
-              name = "Pptdrangon",
+              name = "小奈龙龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
-              name = "伍伯丶",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Rhonin",
+              realm = "The Great Sea",
               level = 90,
             },
           },
