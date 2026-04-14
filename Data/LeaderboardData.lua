@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776146405,
+  lastUpdated = 1776168004,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -14,24 +14,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-13T16:13:37.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
               name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blanchard",
               level = 90,
             },
             {
@@ -46,6 +39,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
           },
@@ -65,24 +65,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-13T10:40:31.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
               name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blanchard",
               level = 90,
             },
             {
@@ -97,6 +90,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
           },
@@ -123,10 +123,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "末诚灬",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Al'ar",
+              name = "Dylanwells",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "The Master's Glaive",
               level = 90,
             },
             {
@@ -144,10 +144,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Dylanwells",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "The Master's Glaive",
+              name = "末诚灬",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Al'ar",
               level = 90,
             },
           },
@@ -167,24 +167,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-13T08:48:49.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
               name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blanchard",
               level = 90,
             },
             {
@@ -199,6 +192,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
           },
@@ -225,17 +225,17 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "末诚灬",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
               name = "Zimengmonk",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "Supremedh",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "The Great Sea",
               level = 90,
             },
             {
@@ -246,10 +246,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Supremedh",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "The Great Sea",
+              name = "末诚灬",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Al'ar",
               level = 90,
             },
           },
@@ -269,24 +269,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-13T13:46:14.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
               name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blanchard",
               level = 90,
             },
             {
@@ -301,6 +294,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
           },
@@ -320,24 +320,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-13T18:37:09.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
               name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blanchard",
               level = 90,
             },
             {
@@ -352,6 +345,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
           },
@@ -371,24 +371,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-13T17:22:58.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
               name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
               realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Blanchard",
               level = 90,
             },
             {
@@ -403,6 +396,13 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
           },
