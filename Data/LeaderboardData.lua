@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776168004,
+  lastUpdated = 1776189604,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -108,25 +108,18 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 489.5,
-          level = 20,
-          time = 1743078,
+          score = 502.3,
+          level = 21,
+          time = 1859714,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-04-12T09:31:58.000Z",
+          completedAt = "2026-04-14T12:42:13.000Z",
           roster = {
             {
               name = "冷如秋秋",
               class = "Druid",
               spec = "Restoration",
               realm = "Rhonin",
-              level = 90,
-            },
-            {
-              name = "Dylanwells",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "The Master's Glaive",
               level = 90,
             },
             {
@@ -148,6 +141,13 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "Eerliyt",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Burning Blade",
               level = 90,
             },
           },
