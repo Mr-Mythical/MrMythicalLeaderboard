@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776254407,
+  lastUpdated = 1776276006,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 489.1,
+          score = 489.2,
           level = 20,
-          time = 1819837,
+          time = 1811576,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-04-13T13:46:14.000Z",
+          completedAt = "2026-04-15T13:01:46.000Z",
           roster = {
             {
-              name = "阿诺武僧",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
-              name = "愿闻将军之志",
+              name = "冷如秋秋",
               class = "Druid",
               spec = "Restoration",
-              realm = "Blanchard",
+              realm = "Rhonin",
               level = 90,
             },
             {
-              name = "孤独龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Isillien",
-              level = 90,
-            },
-            {
-              name = "阿布夏会变身",
+              name = "Dylanwells",
               class = "Demon Hunter",
               spec = "Devourer",
+              realm = "The Master's Glaive",
+              level = 90,
+            },
+            {
+              name = "Zimengmonk",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "末诚灬",
+              class = "Death Knight",
+              spec = "Unholy",
               realm = "Al'ar",
               level = 90,
             },
             {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
+              name = "小丶闲",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Al'ar",
               level = 90,
             },
           },
