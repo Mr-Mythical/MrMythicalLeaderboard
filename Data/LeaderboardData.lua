@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776319204,
+  lastUpdated = 1776340804,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 490.8,
+          score = 491,
           level = 20,
-          time = 1726950,
+          time = 1712965,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-04-13T10:40:31.000Z",
+          completedAt = "2026-04-16T07:43:37.000Z",
           roster = {
             {
-              name = "阿诺武僧",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
-              name = "愿闻将军之志",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "孤独龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Isillien",
-              level = 90,
-            },
-            {
-              name = "阿布夏会变身",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "鲜血大王子",
+              name = "筱白丶",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Silver Hand",
+              realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "Zjbb",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Deathwing",
+              level = 90,
+            },
+            {
+              name = "Rare",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Dark Iron",
+              level = 90,
+            },
+            {
+              name = "应欢欢",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Zul'jin",
+              level = 90,
+            },
+            {
+              name = "灰色原本哀殇",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Burning Blade",
               level = 90,
             },
           },
