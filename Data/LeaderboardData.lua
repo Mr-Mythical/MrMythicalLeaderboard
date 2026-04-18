@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776513605,
+  lastUpdated = 1776535205,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,12 +312,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 489.3,
-          level = 20,
-          time = 1490115,
+          score = 501.1,
+          level = 21,
+          time = 1633891,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-04-13T18:37:09.000Z",
+          completedAt = "2026-04-18T16:19:35.000Z",
           roster = {
             {
               name = "阿诺武僧",
@@ -348,10 +348,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "鲜血大王子",
+              name = "小雨饱饱",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Silver Hand",
+              realm = "Burning Blade",
               level = 90,
             },
           },
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 500.7,
+          score = 501,
           level = 21,
-          time = 1945341,
+          time = 1926942,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-04-18T09:58:50.000Z",
+          completedAt = "2026-04-18T17:05:46.000Z",
           roster = {
             {
-              name = "伍伯丶",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Rhonin",
+              name = "阿诺武僧",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
-              name = "遵义巫妖王",
-              class = "Death Knight",
-              spec = "Unholy",
+              name = "愿闻将军之志",
+              class = "Druid",
+              spec = "Restoration",
               realm = "Blanchard",
               level = 90,
             },
             {
-              name = "超级丶蔡蔡",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "你又没了是吧",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Burning Blade",
-              level = 90,
-            },
-            {
-              name = "花钱看训练吗",
+              name = "孤独龙",
               class = "Evoker",
               spec = "Augmentation",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "阿布夏会变身",
+              class = "Demon Hunter",
+              spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "小雨饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Burning Blade",
               level = 90,
             },
           },
