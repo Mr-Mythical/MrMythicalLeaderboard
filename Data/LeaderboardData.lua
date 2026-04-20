@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776621605,
+  lastUpdated = 1776643205,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -14,17 +14,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-17T07:36:50.000Z",
           roster = {
             {
-              name = "阿诺武僧",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
               name = "愿闻将军之志",
               class = "Druid",
               spec = "Restoration",
               realm = "Blanchard",
+              level = 90,
+            },
+            {
+              name = "小雨饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "阿诺武僧",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
@@ -39,13 +46,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "小雨饱饱",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Burning Blade",
               level = 90,
             },
           },
@@ -65,24 +65,17 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-19T14:03:42.000Z",
           roster = {
             {
-              name = "Xmdw",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Preacherman",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Grim Batol",
-              level = 90,
-            },
-            {
               name = "逆水寒丶",
               class = "Druid",
               spec = "Restoration",
               realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "Xmdw",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
               level = 90,
             },
             {
@@ -91,6 +84,13 @@ local MrMythicalLeaderboardData = {
               spec = "Brewmaster",
               realm = "Frostmourne",
               level = 80,
+            },
+            {
+              name = "Preacherman",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Grim Batol",
+              level = 90,
             },
             {
               name = "夜雨小梦",
@@ -116,16 +116,9 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-18T20:46:26.000Z",
           roster = {
             {
-              name = "Xhanon",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Monksea",
-              class = "Monk",
-              spec = "Brewmaster",
+              name = "Farover",
+              class = "Warrior",
+              spec = "Arms",
               realm = "Ravencrest",
               level = 90,
             },
@@ -137,17 +130,24 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Farover",
-              class = "Warrior",
-              spec = "Arms",
-              realm = "Ravencrest",
-              level = 90,
-            },
-            {
               name = "Tomelvis",
               class = "Rogue",
               spec = "Outlaw",
               realm = "Draenor",
+              level = 90,
+            },
+            {
+              name = "Xhanon",
+              class = "Shaman",
+              spec = "Restoration",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Monksea",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Ravencrest",
               level = 90,
             },
           },
@@ -167,24 +167,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-16T15:53:28.000Z",
           roster = {
             {
-              name = "東洋雪莲",
-              class = "Warlock",
-              spec = "Demonology",
-              realm = "Burning Blade",
-              level = 90,
-            },
-            {
-              name = "Selong",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Isillien",
-              level = 90,
-            },
-            {
               name = "大废止者晚星",
               class = "Druid",
               spec = "Restoration",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "鲜血大王子",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
+              level = 90,
+            },
+            {
+              name = "東洋雪莲",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "Burning Blade",
               level = 90,
             },
             {
@@ -195,10 +195,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "鲜血大王子",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
+              name = "Selong",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Isillien",
               level = 90,
             },
           },
@@ -218,10 +218,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-19T14:27:38.000Z",
           roster = {
             {
-              name = "伍伯丶",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Rhonin",
+              name = "你又没了是吧",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Burning Blade",
               level = 90,
             },
             {
@@ -239,17 +239,17 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "你又没了是吧",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Burning Blade",
-              level = 90,
-            },
-            {
               name = "花钱看训练吗",
               class = "Evoker",
               spec = "Augmentation",
               realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "伍伯丶",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Rhonin",
               level = 90,
             },
           },
@@ -269,17 +269,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-18T19:05:37.000Z",
           roster = {
             {
-              name = "阿诺武僧",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
               name = "愿闻将军之志",
               class = "Druid",
               spec = "Restoration",
               realm = "Blanchard",
+              level = 90,
+            },
+            {
+              name = "小雨饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "阿诺武僧",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
@@ -294,13 +301,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "小雨饱饱",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Burning Blade",
               level = 90,
             },
           },
@@ -320,17 +320,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-18T16:19:35.000Z",
           roster = {
             {
-              name = "阿诺武僧",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
               name = "愿闻将军之志",
               class = "Druid",
               spec = "Restoration",
               realm = "Blanchard",
+              level = 90,
+            },
+            {
+              name = "小雨饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "阿诺武僧",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
@@ -345,13 +352,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "小雨饱饱",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Burning Blade",
               level = 90,
             },
           },
@@ -371,17 +371,24 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-04-18T17:05:46.000Z",
           roster = {
             {
-              name = "阿诺武僧",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
               name = "愿闻将军之志",
               class = "Druid",
               spec = "Restoration",
               realm = "Blanchard",
+              level = 90,
+            },
+            {
+              name = "小雨饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "阿诺武僧",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
@@ -396,13 +403,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "小雨饱饱",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Burning Blade",
               level = 90,
             },
           },
