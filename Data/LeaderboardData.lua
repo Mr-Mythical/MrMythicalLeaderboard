@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776859206,
+  lastUpdated = 1776880805,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.1,
+          score = 502.8,
           level = 21,
-          time = 1633891,
+          time = 1553295,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-04-18T16:19:35.000Z",
+          completedAt = "2026-04-22T17:13:40.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
+              name = "Lota",
               class = "Druid",
               spec = "Restoration",
-              realm = "Blanchard",
+              realm = "World Tree",
               level = 90,
             },
             {
-              name = "小雨饱饱",
+              name = "人艰不拆死骑",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Burning Blade",
+              realm = "Bronze Dragonflight",
               level = 90,
             },
             {
-              name = "阿诺武僧",
+              name = "梟阿梟",
+              class = "Warlock",
+              spec = "Demonology",
+              realm = "The Great Sea",
+              level = 90,
+            },
+            {
+              name = "Shunmonk",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Shadowmourne",
+              realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "孤独龙",
+              name = "心碎小莓",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Isillien",
-              level = 90,
-            },
-            {
-              name = "阿布夏会变身",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Al'ar",
+              realm = "Shadowmourne",
               level = 90,
             },
           },
