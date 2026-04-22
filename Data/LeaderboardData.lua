@@ -1,17 +1,17 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776794404,
+  lastUpdated = 1776816005,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
       runs = {
         {
           rank = 1,
-          score = 487.8,
+          score = 488.1,
           level = 20,
-          time = 1666395,
+          time = 1650729,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-04-17T07:36:50.000Z",
+          completedAt = "2026-04-21T09:23:35.000Z",
           roster = {
             {
               name = "愿闻将军之志",
@@ -21,10 +21,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "小雨饱饱",
+              name = "迷你幸运转盘",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Burning Blade",
+              realm = "Argus",
               level = 90,
             },
             {
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.3,
+          score = 502,
           level = 21,
-          time = 1911415,
+          time = 1873524,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-04-21T13:00:13.000Z",
+          completedAt = "2026-04-21T08:28:10.000Z",
           roster = {
             {
-              name = "Lota",
+              name = "愿闻将军之志",
               class = "Druid",
               spec = "Restoration",
-              realm = "World Tree",
+              realm = "Blanchard",
               level = 90,
             },
             {
-              name = "人艰不拆死骑",
+              name = "迷你幸运转盘",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Bronze Dragonflight",
+              realm = "Argus",
               level = 90,
             },
             {
-              name = "小凋零大王",
-              class = "Warlock",
-              spec = "Demonology",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Shunmonk",
+              name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "The Great Sea",
+              realm = "Shadowmourne",
               level = 90,
             },
             {
-              name = "月朔宝宝",
+              name = "孤独龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Holy Chanter",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "阿布夏会变身",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Al'ar",
               level = 90,
             },
           },
