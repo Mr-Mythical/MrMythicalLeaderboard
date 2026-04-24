@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1776988805,
+  lastUpdated = 1777010404,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 502.1,
+          score = 503.1,
           level = 21,
-          time = 1700598,
+          time = 1653830,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-04-23T09:27:42.000Z",
+          completedAt = "2026-04-23T23:53:55.000Z",
           roster = {
             {
-              name = "Erxicn",
-              class = "Paladin",
-              spec = "Retribution",
-              realm = "Shadowmourne",
-              level = 90,
-            },
-            {
-              name = "烈焰之菜",
-              class = "Shaman",
-              spec = "Restoration",
-              realm = "Chillwind Point",
-              level = 90,
-            },
-            {
-              name = "Goodwl",
+              name = "Lexó",
               class = "Warlock",
               spec = "Demonology",
-              realm = "Frostmourne",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
-              name = "三百酒仙",
+              name = "Knowmehappy",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Chillwind Point",
+              realm = "Blackhand",
               level = 90,
             },
             {
-              name = "Laladh",
+              name = "Spingødxx",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Draenor",
+              level = 90,
+            },
+            {
+              name = "Shirodrache",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Blackhand",
+              level = 90,
+            },
+            {
+              name = "Speculation",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Blanchard",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
