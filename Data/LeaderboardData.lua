@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1777010404,
+  lastUpdated = 1777032005,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -108,46 +108,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 503.5,
+          score = 504.3,
           level = 21,
-          time = 1795094,
+          time = 1752461,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-04-18T20:46:26.000Z",
+          completedAt = "2026-04-24T08:41:39.000Z",
           roster = {
             {
-              name = "Farover",
-              class = "Warrior",
-              spec = "Arms",
-              realm = "Ravencrest",
-              level = 90,
-            },
-            {
-              name = "Turbogronil",
+              name = "愿闻将军之志",
               class = "Druid",
-              spec = "Feral",
-              realm = "Archimonde",
-              level = 90,
-            },
-            {
-              name = "Tomelvis",
-              class = "Rogue",
-              spec = "Outlaw",
-              realm = "Draenor",
-              level = 90,
-            },
-            {
-              name = "Xhanon",
-              class = "Shaman",
               spec = "Restoration",
-              realm = "Kazzak",
+              realm = "Blanchard",
               level = 90,
             },
             {
-              name = "Monksea",
+              name = "徦无雙",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Deathwing",
+              level = 90,
+            },
+            {
+              name = "阿诺武僧",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Ravencrest",
+              realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "孤独龙",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "阿布夏会变身",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Al'ar",
               level = 90,
             },
           },
