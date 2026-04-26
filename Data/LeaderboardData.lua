@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1777183205,
+  lastUpdated = 1777204804,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -261,12 +261,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 501.6,
+          score = 502,
           level = 21,
-          time = 1954094,
+          time = 1932773,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-04-18T19:05:37.000Z",
+          completedAt = "2026-04-26T08:13:57.000Z",
           roster = {
             {
               name = "愿闻将军之志",
@@ -276,31 +276,31 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "小雨饱饱",
+              name = "鲜血大王子",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Burning Blade",
+              realm = "Silver Hand",
               level = 90,
             },
             {
-              name = "阿诺武僧",
+              name = "Ikunbrew",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Shadowmourne",
+              realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "孤独龙",
+              name = "Selong",
               class = "Evoker",
               spec = "Augmentation",
               realm = "Isillien",
               level = 90,
             },
             {
-              name = "阿布夏会变身",
+              name = "我嘞个豆阿",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Al'ar",
+              realm = "Frostmourne",
               level = 90,
             },
           },
