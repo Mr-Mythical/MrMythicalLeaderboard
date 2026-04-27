@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1777269609,
+  lastUpdated = 1777291205,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -46,57 +46,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Rhonin",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["magisters-terrace"] = {
-      name = "Magisters' Terrace",
-      runs = {
-        {
-          rank = 1,
-          score = 516,
-          level = 22,
-          time = 1985852,
-          keystoneTime = 2040999,
-          chests = 1,
-          completedAt = "2026-04-26T23:23:28.000Z",
-          roster = {
-            {
-              name = "Fauni",
-              class = "Shaman",
-              spec = "Elemental",
-              realm = "Stormreaver",
-              level = 90,
-            },
-            {
-              name = "Knowmehappy",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Blackhand",
-              level = 90,
-            },
-            {
-              name = "Spingødxx",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Draenor",
-              level = 90,
-            },
-            {
-              name = "Griwygoose",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Speculation",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Tarren Mill",
               level = 90,
             },
           },
