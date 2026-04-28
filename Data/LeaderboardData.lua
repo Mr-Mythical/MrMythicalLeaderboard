@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1777312806,
+  lastUpdated = 1777334407,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,12 +57,63 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 516,
+          score = 517.3,
           level = 22,
-          time = 1985852,
+          time = 1916646,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-04-26T23:23:28.000Z",
+          completedAt = "2026-04-27T23:23:58.000Z",
+          roster = {
+            {
+              name = "Зуджадах",
+              class = "Druid",
+              spec = "Restoration",
+              realm = "Howling Fjord",
+              level = 90,
+            },
+            {
+              name = "Элслэйерх",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Howling Fjord",
+              level = 90,
+            },
+            {
+              name = "Maitaimonk",
+              class = "Monk",
+              spec = "Brewmaster",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Nqhover",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Трикснамету",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Howling Fjord",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
+    ["maisara-caverns"] = {
+      name = "Maisara Caverns",
+      runs = {
+        {
+          rank = 1,
+          score = 516.3,
+          level = 22,
+          time = 1909785,
+          keystoneTime = 1980999,
+          chests = 1,
+          completedAt = "2026-04-27T21:37:50.000Z",
           roster = {
             {
               name = "Fauni",
@@ -97,57 +148,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Tarren Mill",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["maisara-caverns"] = {
-      name = "Maisara Caverns",
-      runs = {
-        {
-          rank = 1,
-          score = 504.3,
-          level = 21,
-          time = 1752181,
-          keystoneTime = 1980999,
-          chests = 1,
-          completedAt = "2026-04-24T19:29:50.000Z",
-          roster = {
-            {
-              name = "Vitalitie",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Area 52",
-              level = 90,
-            },
-            {
-              name = "Procapproved",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Illidan",
-              level = 90,
-            },
-            {
-              name = "Brewbtian",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Illidan",
-              level = 90,
-            },
-            {
-              name = "Chum",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Illidan",
-              level = 90,
-            },
-            {
-              name = "Jabuka",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Illidan",
               level = 90,
             },
           },
