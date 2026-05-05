@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1777917605,
+  lastUpdated = 1777939208,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -159,12 +159,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 518.2,
+          score = 518.8,
           level = 22,
-          time = 1648816,
+          time = 1616978,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-03T19:19:31.000Z",
+          completedAt = "2026-05-04T13:31:50.000Z",
           roster = {
             {
               name = "清雨幽兰",
@@ -174,10 +174,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "末诚灬",
+              name = "繁星夜垂丷",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Al'ar",
+              realm = "Grim Batol",
               level = 90,
             },
             {
@@ -188,10 +188,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "小奈龙龙",
+              name = "外幽龙龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "The Great Sea",
+              realm = "Al'ar",
               level = 90,
             },
             {
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 517.7,
+          score = 518.6,
           level = 22,
-          time = 1673206,
+          time = 1625981,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-02T17:36:25.000Z",
+          completedAt = "2026-05-04T16:46:52.000Z",
           roster = {
             {
-              name = "愿闻将军之志",
+              name = "清雨幽兰",
               class = "Druid",
               spec = "Restoration",
-              realm = "Blanchard",
+              realm = "Burning Blade",
               level = 90,
             },
             {
-              name = "徦无雙",
+              name = "繁星夜垂丷",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Deathwing",
+              realm = "Grim Batol",
               level = 90,
             },
             {
-              name = "阿诺武僧",
+              name = "Zimengmonk",
               class = "Monk",
               spec = "Brewmaster",
-              realm = "Silver Hand",
+              realm = "Rhonin",
               level = 90,
             },
             {
-              name = "孤独龙",
+              name = "外幽龙龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Isillien",
+              realm = "Al'ar",
               level = 90,
             },
             {
-              name = "阿布夏会变身",
+              name = "Supremedh",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Al'ar",
+              realm = "The Great Sea",
               level = 90,
             },
           },
