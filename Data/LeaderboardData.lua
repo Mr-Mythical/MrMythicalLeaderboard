@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778414405,
+  lastUpdated = 1778436005,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 518.8,
-          level = 22,
-          time = 1836033,
+          score = 530.4,
+          level = 23,
+          time = 2021530,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-05-03T12:06:27.000Z",
+          completedAt = "2026-05-10T14:12:19.000Z",
           roster = {
             {
-              name = "Xmdw",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Preacherman",
+              name = "Griwygoose",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Grim Batol",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "变形阿马",
-              class = "Druid",
-              spec = "Restoration",
-              realm = "Burning Blade",
-              level = 90,
-            },
-            {
-              name = "把腿伸过来",
+              name = "Vibezz",
               class = "Monk",
-              spec = "Brewmaster",
-              realm = "Frostmourne",
+              spec = "Mistweaver",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "夜雨小梦",
+              name = "Andymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Waalpen",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Speculation",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Blackmoore",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
