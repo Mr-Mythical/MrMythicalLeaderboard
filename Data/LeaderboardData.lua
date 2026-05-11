@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778436005,
+  lastUpdated = 1778457604,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -210,46 +210,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 518.6,
+          score = 519.6,
           level = 22,
-          time = 1625981,
+          time = 1579243,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-04T16:46:52.000Z",
+          completedAt = "2026-05-10T19:22:25.000Z",
           roster = {
             {
-              name = "繁星夜垂丷",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Grim Batol",
-              level = 90,
-            },
-            {
-              name = "Zimengmonk",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Rhonin",
-              level = 90,
-            },
-            {
-              name = "Supremedh",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "The Great Sea",
-              level = 90,
-            },
-            {
-              name = "外幽龙龙",
+              name = "Griwygoose",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Al'ar",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "清雨幽兰",
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Andymeow",
               class = "Druid",
-              spec = "Restoration",
-              realm = "Burning Blade",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Waalpen",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Speculation",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
@@ -363,20 +363,13 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 517.2,
-          level = 22,
-          time = 1865675,
+          score = 530.1,
+          level = 23,
+          time = 1974021,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-05-09T16:50:30.000Z",
+          completedAt = "2026-05-10T18:11:30.000Z",
           roster = {
-            {
-              name = "Nnoggiedk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Tarren Mill",
-              level = 90,
-            },
             {
               name = "Griwygoose",
               class = "Evoker",
@@ -396,6 +389,13 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Guardian",
               realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Waalpen",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Ragnaros",
               level = 90,
             },
             {
