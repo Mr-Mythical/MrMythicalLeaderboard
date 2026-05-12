@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778587202,
+  lastUpdated = 1778608803,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -159,27 +159,13 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 518.8,
+          score = 518.9,
           level = 22,
-          time = 1616978,
+          time = 1612922,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-04T13:31:50.000Z",
+          completedAt = "2026-05-12T13:03:43.000Z",
           roster = {
-            {
-              name = "繁星夜垂丷",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Grim Batol",
-              level = 90,
-            },
-            {
-              name = "Zimengmonk",
-              class = "Monk",
-              spec = "Brewmaster",
-              realm = "Rhonin",
-              level = 90,
-            },
             {
               name = "Supremedh",
               class = "Demon Hunter",
@@ -188,17 +174,31 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "外幽龙龙",
+              name = "小奈龙龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Al'ar",
+              realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "清雨幽兰",
-              class = "Druid",
-              spec = "Restoration",
+              name = "叶雨清霜",
+              class = "Monk",
+              spec = "Mistweaver",
               realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "Zimengcat",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "Araydknight",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Anzu",
               level = 90,
             },
           },
