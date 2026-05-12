@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778544007,
+  lastUpdated = 1778565606,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -97,6 +97,57 @@ local MrMythicalLeaderboardData = {
               class = "Druid",
               spec = "Guardian",
               realm = "Silver Hand",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
+    ["maisara-caverns"] = {
+      name = "Maisara Caverns",
+      runs = {
+        {
+          rank = 1,
+          score = 519.4,
+          level = 22,
+          time = 1749096,
+          keystoneTime = 1980999,
+          chests = 1,
+          completedAt = "2026-05-11T13:30:54.000Z",
+          roster = {
+            {
+              name = "Hawkev",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Nnoggiedk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Andymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Speculation",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
