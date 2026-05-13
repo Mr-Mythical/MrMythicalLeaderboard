@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778608803,
+  lastUpdated = 1778630402,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 516.7,
+          score = 516.9,
           level = 22,
-          time = 1603900,
+          time = 1594898,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-05-03T15:12:52.000Z",
+          completedAt = "2026-05-12T23:05:50.000Z",
           roster = {
             {
-              name = "Xmdw",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Preacherman",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Grim Batol",
-              level = 90,
-            },
-            {
-              name = "变形阿马",
+              name = "Squishvegan",
               class = "Druid",
-              spec = "Restoration",
-              realm = "Burning Blade",
+              spec = "Guardian",
+              realm = "Area 52",
               level = 90,
             },
             {
-              name = "把腿伸过来",
+              name = "Woxtoxic",
+              class = "Rogue",
+              spec = "Outlaw",
+              realm = "Area 52",
+              level = 90,
+            },
+            {
+              name = "Banshers",
+              class = "Hunter",
+              spec = "Survival",
+              realm = "Stormrage",
+              level = 90,
+            },
+            {
+              name = "Noxiv",
+              class = "Warrior",
+              spec = "Fury",
+              realm = "Zul'jin",
+              level = 90,
+            },
+            {
+              name = "Ortemist",
               class = "Monk",
-              spec = "Brewmaster",
-              realm = "Frostmourne",
-              level = 90,
-            },
-            {
-              name = "夜雨小梦",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Blackmoore",
+              spec = "Mistweaver",
+              realm = "Zul'jin",
               level = 90,
             },
           },
