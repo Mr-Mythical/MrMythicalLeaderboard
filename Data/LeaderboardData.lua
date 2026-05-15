@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778781612,
+  lastUpdated = 1778803202,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 530.1,
+          score = 531.1,
           level = 23,
-          time = 1974021,
+          time = 1923708,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-05-10T18:11:30.000Z",
+          completedAt = "2026-05-14T18:19:02.000Z",
           roster = {
             {
-              name = "Griwygoose",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Vibezz",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Andymeow",
+              name = "不物于物",
               class = "Druid",
               spec = "Guardian",
-              realm = "Tarren Mill",
+              realm = "Silver Hand",
+              level = 80,
+            },
+            {
+              name = "孤独龙",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Isillien",
               level = 90,
             },
             {
-              name = "Waalpen",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Ragnaros",
-              level = 90,
-            },
-            {
-              name = "Speculation",
+              name = "阿布夏会变身",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Tarren Mill",
+              realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "小雨饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Deathwing",
+              level = 90,
+            },
+            {
+              name = "天和山雨雪",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Eldre'Thalas",
               level = 90,
             },
           },
