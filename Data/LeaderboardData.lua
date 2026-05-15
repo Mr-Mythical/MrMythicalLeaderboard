@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1778824807,
+  lastUpdated = 1778846405,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 516.9,
+          score = 517.2,
           level = 22,
-          time = 1594898,
+          time = 1580562,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-05-12T23:05:50.000Z",
+          completedAt = "2026-05-15T11:14:34.000Z",
           roster = {
             {
-              name = "Squishvegan",
+              name = "三星塔塔",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "执念神",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Silver Hand",
+              level = 90,
+            },
+            {
+              name = "愿闻将军之志",
               class = "Druid",
               spec = "Guardian",
-              realm = "Area 52",
+              realm = "Blanchard",
               level = 90,
             },
             {
-              name = "Woxtoxic",
-              class = "Rogue",
-              spec = "Outlaw",
-              realm = "Area 52",
-              level = 90,
-            },
-            {
-              name = "Banshers",
-              class = "Hunter",
-              spec = "Survival",
-              realm = "Stormrage",
-              level = 90,
-            },
-            {
-              name = "Noxiv",
-              class = "Warrior",
-              spec = "Fury",
-              realm = "Zul'jin",
-              level = 90,
-            },
-            {
-              name = "Ortemist",
+              name = "海虎爆破拳丶",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Zul'jin",
+              realm = "Shadowmourne",
+              level = 90,
+            },
+            {
+              name = "月朔宝宝",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Holy Chanter",
               level = 90,
             },
           },
