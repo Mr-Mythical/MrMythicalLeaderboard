@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1779192005,
+  lastUpdated = 1779213605,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -108,12 +108,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 534.1,
-          level = 23,
-          time = 1765747,
+          score = 546.8,
+          level = 24,
+          time = 1885939,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-05-18T22:04:59.000Z",
+          completedAt = "2026-05-19T13:19:07.000Z",
           roster = {
             {
               name = "Andymeow",
@@ -210,12 +210,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 533.6,
+          score = 533.7,
           level = 23,
-          time = 1629125,
+          time = 1625294,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-16T21:41:24.000Z",
+          completedAt = "2026-05-19T15:47:45.000Z",
           roster = {
             {
               name = "Andymeow",
@@ -239,10 +239,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Shirodrache",
+              name = "Ajsiege",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Blackhand",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
