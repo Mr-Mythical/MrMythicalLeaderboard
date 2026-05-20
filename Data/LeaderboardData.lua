@@ -1,17 +1,17 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1779278406,
+  lastUpdated = 1779300004,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
       runs = {
         {
           rank = 1,
-          score = 518.6,
-          level = 22,
-          time = 1681739,
+          score = 530.1,
+          level = 23,
+          time = 1854504,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2026-05-18T21:13:21.000Z",
+          completedAt = "2026-05-20T14:42:35.000Z",
           roster = {
             {
               name = "Andymeow",
@@ -210,12 +210,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 533.7,
+          score = 534.4,
           level = 23,
-          time = 1625294,
+          time = 1588795,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-19T15:47:45.000Z",
+          completedAt = "2026-05-20T16:43:17.000Z",
           roster = {
             {
               name = "Andymeow",
@@ -363,12 +363,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 531.3,
+          score = 532.5,
           level = 23,
-          time = 1910887,
+          time = 1846755,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-05-17T20:58:14.000Z",
+          completedAt = "2026-05-20T15:57:48.000Z",
           roster = {
             {
               name = "Andymeow",
@@ -385,10 +385,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Spingødxx",
+              name = "Vibezz",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Draenor",
+              realm = "Kazzak",
               level = 90,
             },
             {
