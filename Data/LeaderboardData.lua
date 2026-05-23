@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1779537603,
+  lastUpdated = 1779559202,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 533.4,
+          score = 534,
           level = 23,
-          time = 1857328,
+          time = 1825901,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-05-16T16:37:02.000Z",
+          completedAt = "2026-05-23T16:13:38.000Z",
           roster = {
             {
-              name = "Andymeow",
+              name = "Wlthtoday",
               class = "Druid",
               spec = "Guardian",
-              realm = "Tarren Mill",
+              realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "Waalpen",
+              name = "遵义巫妖王",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Ragnaros",
+              realm = "Blanchard",
               level = 90,
             },
             {
-              name = "Vibezz",
+              name = "十两欢",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Kazzak",
+              realm = "Khardros",
               level = 90,
             },
             {
-              name = "Shirodrache",
+              name = "佳灬",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Blackhand",
+              realm = "Rhonin",
               level = 90,
             },
             {
-              name = "Speculation",
+              name = "伍伯丶",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Tarren Mill",
+              realm = "Rhonin",
               level = 90,
             },
           },
@@ -210,12 +210,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 534.4,
-          level = 23,
-          time = 1588795,
+          score = 545.3,
+          level = 24,
+          time = 1786824,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-20T16:43:17.000Z",
+          completedAt = "2026-05-23T15:48:53.000Z",
           roster = {
             {
               name = "Andymeow",
@@ -239,10 +239,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Ajsiege",
+              name = "Griwygoose",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Twisting Nether",
+              realm = "Kazzak",
               level = 90,
             },
             {
