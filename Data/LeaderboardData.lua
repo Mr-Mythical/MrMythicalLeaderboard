@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1779688806,
+  lastUpdated = 1779710405,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 534,
+          score = 534.2,
           level = 23,
-          time = 1825901,
+          time = 1810044,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-05-23T16:13:38.000Z",
+          completedAt = "2026-05-24T19:12:03.000Z",
           roster = {
             {
-              name = "Wlthtoday",
+              name = "解说玩机器",
               class = "Druid",
               spec = "Guardian",
+              realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "末诚灬",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "叶雨清霜",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Burning Blade",
+              level = 90,
+            },
+            {
+              name = "小奈龙龙",
+              class = "Evoker",
+              spec = "Augmentation",
               realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "遵义巫妖王",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Blanchard",
-              level = 90,
-            },
-            {
-              name = "十两欢",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Khardros",
-              level = 90,
-            },
-            {
-              name = "佳灬",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Rhonin",
-              level = 90,
-            },
-            {
-              name = "伍伯丶",
+              name = "Supremedh",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Rhonin",
+              realm = "The Great Sea",
               level = 90,
             },
           },
