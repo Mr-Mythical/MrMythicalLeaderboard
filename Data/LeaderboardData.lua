@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1780142406,
+  lastUpdated = 1780164006,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -108,13 +108,20 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 546.8,
+          score = 547.1,
           level = 24,
-          time = 1885939,
+          time = 1871428,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-05-19T13:19:07.000Z",
+          completedAt = "2026-05-30T16:48:57.000Z",
           roster = {
+            {
+              name = "Griwygoose",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
+              level = 90,
+            },
             {
               name = "Vibezz",
               class = "Monk",
@@ -134,13 +141,6 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Ragnaros",
-              level = 90,
-            },
-            {
-              name = "Ajsiege",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Twisting Nether",
               level = 90,
             },
             {
@@ -210,12 +210,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 545.3,
+          score = 546.5,
           level = 24,
-          time = 1786824,
+          time = 1730842,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-05-23T15:48:53.000Z",
+          completedAt = "2026-05-30T14:16:38.000Z",
           roster = {
             {
               name = "Griwygoose",
