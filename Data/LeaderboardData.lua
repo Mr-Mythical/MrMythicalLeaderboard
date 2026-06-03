@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1780423203,
+  lastUpdated = 1780444802,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 534.5,
-          level = 23,
-          time = 1795266,
+          score = 547.1,
+          level = 24,
+          time = 1928680,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-05-25T13:36:10.000Z",
+          completedAt = "2026-06-02T21:45:32.000Z",
           roster = {
             {
-              name = "丶牙齿发黄了",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Chillwind Point",
-              level = 90,
-            },
-            {
-              name = "孤独龙",
+              name = "Griwygoose",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Isillien",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "阿布夏会变身",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "小雨饱饱",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Deathwing",
-              level = 90,
-            },
-            {
-              name = "天和山雨雪",
+              name = "Vibezz",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Eldre'Thalas",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Andymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Waalpen",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Speculation",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
