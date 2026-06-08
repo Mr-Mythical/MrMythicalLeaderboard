@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1780920006,
+  lastUpdated = 1780941603,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -267,6 +267,57 @@ local MrMythicalLeaderboardData = {
           keystoneTime = 2040999,
           chests = 1,
           completedAt = "2026-05-22T16:05:02.000Z",
+          roster = {
+            {
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Andymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Waalpen",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Ajsiege",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Speculation",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
+    ["skyreach"] = {
+      name = "Skyreach",
+      runs = {
+        {
+          rank = 1,
+          score = 532.6,
+          level = 23,
+          time = 1564553,
+          keystoneTime = 1680999,
+          chests = 1,
+          completedAt = "2026-05-18T22:37:36.000Z",
           roster = {
             {
               name = "Vibezz",
