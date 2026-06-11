@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1781179207,
+  lastUpdated = 1781200809,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 532.7,
+          score = 533,
           level = 23,
-          time = 1892984,
+          time = 1877487,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-05-22T16:05:02.000Z",
+          completedAt = "2026-06-11T11:10:40.000Z",
           roster = {
             {
-              name = "Vibezz",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Kazzak",
+              name = "Shuhdragon",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Blackrock",
               level = 90,
             },
             {
-              name = "Andymeow",
+              name = "Klosterbror",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Crìms",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Draenor",
+              level = 90,
+            },
+            {
+              name = "Naowhjdotb",
               class = "Druid",
               spec = "Guardian",
               realm = "Tarren Mill",
               level = 90,
             },
             {
-              name = "Waalpen",
+              name = "Casualdaddy",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Ragnaros",
-              level = 90,
-            },
-            {
-              name = "Ajsiege",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Speculation",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Tarren Mill",
+              realm = "Kazzak",
               level = 90,
             },
           },
