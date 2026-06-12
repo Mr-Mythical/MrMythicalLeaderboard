@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1781265609,
+  lastUpdated = 1781287206,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,12 +57,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 547.4,
+          score = 547.6,
           level = 24,
-          time = 1912162,
+          time = 1899573,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-06-07T12:54:39.000Z",
+          completedAt = "2026-06-12T15:29:04.000Z",
           roster = {
             {
               name = "Griwygoose",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 533,
+          score = 533.2,
           level = 23,
-          time = 1877487,
+          time = 1868346,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-06-11T11:10:40.000Z",
+          completedAt = "2026-06-12T17:33:56.000Z",
           roster = {
             {
-              name = "Shuhdragon",
+              name = "Cheveubleu",
               class = "Evoker",
               spec = "Augmentation",
+              realm = "Archimonde",
+              level = 90,
+            },
+            {
+              name = "Râyanmcdrood",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Ysondre",
+              level = 90,
+            },
+            {
+              name = "Qldurtms",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Anydhng",
+              class = "Demon Hunter",
+              spec = "Devourer",
               realm = "Blackrock",
               level = 90,
             },
             {
-              name = "Klosterbror",
+              name = "Bzkmistx",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Crìms",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Draenor",
-              level = 90,
-            },
-            {
-              name = "Naowhjdotb",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Casualdaddy",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Kazzak",
+              realm = "Hyjal",
               level = 90,
             },
           },
