@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1782000006,
+  lastUpdated = 1782021603,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -363,46 +363,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 546.6,
+          score = 546.9,
           level = 24,
-          time = 1896364,
+          time = 1883033,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-06-20T21:22:37.000Z",
+          completedAt = "2026-06-20T23:52:02.000Z",
           roster = {
             {
-              name = "Cheveubleu",
+              name = "Specithick",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Archimonde",
+              realm = "Silvermoon",
               level = 90,
             },
             {
-              name = "Râyanmcdrood",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Ysondre",
-              level = 90,
-            },
-            {
-              name = "Qldurtms",
+              name = "Sipdk",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Kazzak",
+              realm = "Silvermoon",
               level = 90,
             },
             {
-              name = "Anydhng",
+              name = "Vividrd",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Pve",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Blackrock",
+              realm = "Stormscale",
               level = 90,
             },
             {
-              name = "Bzkmistx",
+              name = "Jetskimonk",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Hyjal",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
