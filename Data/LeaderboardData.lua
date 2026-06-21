@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1782043203,
+  lastUpdated = 1782064806,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -108,12 +108,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 548.3,
+          score = 548.5,
           level = 24,
-          time = 1806137,
+          time = 1798218,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-06-01T15:39:48.000Z",
+          completedAt = "2026-06-21T17:43:52.000Z",
           roster = {
             {
               name = "Griwygoose",
