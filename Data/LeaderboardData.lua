@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1782129605,
+  lastUpdated = 1782151203,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -28,7 +28,7 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Vividrd",
+              name = "Vividrd-303688723",
               class = "Druid",
               spec = "Guardian",
               realm = "Tarren Mill",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 547.8,
+          score = 548,
           level = 24,
-          time = 1886789,
+          time = 1876923,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-06-21T21:20:18.000Z",
+          completedAt = "2026-06-22T16:17:13.000Z",
           roster = {
             {
-              name = "Drtreantino",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Ragnaros",
-              level = 90,
-            },
-            {
-              name = "Sjelelele",
+              name = "Cheveubleu",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Twisting Nether",
+              realm = "Archimonde",
               level = 90,
             },
             {
-              name = "Roibendeux",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Twisting Nether",
+              name = "Râyanmcdrood",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Ysondre",
               level = 90,
             },
             {
-              name = "Voluxar",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Speedk",
+              name = "Qldurtms",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Twisting Nether",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Anydhng",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Blackrock",
+              level = 90,
+            },
+            {
+              name = "Bzkmistx",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Hyjal",
               level = 90,
             },
           },
@@ -283,7 +283,7 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Vividrd",
+              name = "Vividrd-303688723",
               class = "Druid",
               spec = "Guardian",
               realm = "Tarren Mill",
@@ -385,7 +385,7 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Vividrd",
+              name = "Vividrd-303688723",
               class = "Druid",
               spec = "Guardian",
               realm = "Tarren Mill",
