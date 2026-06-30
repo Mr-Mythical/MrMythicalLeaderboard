@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1782799206,
+  lastUpdated = 1782820807,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -261,46 +261,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 535.3,
-          level = 23,
-          time = 1751317,
+          score = 545.6,
+          level = 24,
+          time = 2005845,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-06-24T16:05:38.000Z",
+          completedAt = "2026-06-30T10:30:59.000Z",
           roster = {
             {
-              name = "Cheveubleu",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Archimonde",
-              level = 90,
-            },
-            {
-              name = "Râyanmcdrood",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Ysondre",
-              level = 90,
-            },
-            {
-              name = "Qldurtms",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Anydhng",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Blackrock",
-              level = 90,
-            },
-            {
-              name = "Bzkmistx",
+              name = "我要睡觉了",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Hyjal",
+              realm = "Rhonin",
+              level = 90,
+            },
+            {
+              name = "小软饱饱",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "The Great Sea",
+              level = 90,
+            },
+            {
+              name = "Supermonoo",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "超级丶小小蔡",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Silver Hand",
+              level = 90,
+            },
+            {
+              name = "微光的执着",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Deathwing",
               level = 90,
             },
           },
