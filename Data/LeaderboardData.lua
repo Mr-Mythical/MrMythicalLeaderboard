@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1782907205,
+  lastUpdated = 1782928805,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 548.3,
-          level = 24,
-          time = 1863877,
+          score = 560.8,
+          level = 25,
+          time = 1996078,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-06-27T13:48:52.000Z",
+          completedAt = "2026-07-01T14:56:19.000Z",
           roster = {
             {
-              name = "Mstwvr",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Eredar",
+              name = "Griwygoose",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "Xanadeath",
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Andymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Waalpen",
               class = "Death Knight",
               spec = "Unholy",
               realm = "Ragnaros",
               level = 90,
             },
             {
-              name = "Namelessxo",
+              name = "Speculation",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Draenor",
-              level = 90,
-            },
-            {
-              name = "Aintnowayy",
-              class = "Evoker",
-              spec = "Augmentation",
               realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Ratoxd",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Argent Dawn",
               level = 90,
             },
           },
