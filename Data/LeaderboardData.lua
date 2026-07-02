@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1782993605,
+  lastUpdated = 1783015204,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 534.1,
+          score = 534.2,
           level = 23,
-          time = 1495237,
+          time = 1492543,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-07-01T17:23:31.000Z",
+          completedAt = "2026-07-02T15:35:44.000Z",
           roster = {
             {
-              name = "小希哥哥",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Scarlet Crusade",
-              level = 90,
-            },
-            {
-              name = "丶牙齿发黄了",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Chillwind Point",
-              level = 90,
-            },
-            {
-              name = "孤独龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Isillien",
-              level = 90,
-            },
-            {
-              name = "阿布夏会变身",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "天和山雨雪",
+              name = "Mstwvr",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Eldre'Thalas",
+              realm = "Eredar",
+              level = 90,
+            },
+            {
+              name = "Xanadeath",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Namelessxo",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Draenor",
+              level = 90,
+            },
+            {
+              name = "Aintnowayy",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Ratoxd",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Argent Dawn",
               level = 90,
             },
           },
