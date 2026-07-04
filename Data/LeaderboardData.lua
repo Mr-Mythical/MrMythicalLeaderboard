@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783101605,
+  lastUpdated = 1783123206,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 534.2,
-          level = 23,
-          time = 1492543,
+          score = 545.2,
+          level = 24,
+          time = 1673594,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-07-02T15:35:44.000Z",
+          completedAt = "2026-07-03T18:03:41.000Z",
           roster = {
             {
-              name = "Mstwvr",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Eredar",
-              level = 90,
-            },
-            {
-              name = "Xanadeath",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Ragnaros",
-              level = 90,
-            },
-            {
-              name = "Namelessxo",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Draenor",
-              level = 90,
-            },
-            {
-              name = "Aintnowayy",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Ratoxd",
+              name = "丶牙齿发黄了",
               class = "Druid",
               spec = "Guardian",
-              realm = "Argent Dawn",
+              realm = "Chillwind Point",
+              level = 90,
+            },
+            {
+              name = "孤独龙",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Isillien",
+              level = 90,
+            },
+            {
+              name = "阿布夏会变身",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Al'ar",
+              level = 90,
+            },
+            {
+              name = "天和山雨雪",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Eldre'Thalas",
+              level = 90,
+            },
+            {
+              name = "小雨煲煲",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Grim Batol",
               level = 90,
             },
           },
