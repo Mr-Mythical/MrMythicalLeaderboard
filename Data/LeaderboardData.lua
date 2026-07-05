@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783252805,
+  lastUpdated = 1783274406,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -261,63 +261,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 546,
+          score = 546.9,
           level = 24,
-          time = 1985418,
+          time = 1939163,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-07-02T10:32:45.000Z",
-          roster = {
-            {
-              name = "李小树",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Rhonin",
-              level = 90,
-            },
-            {
-              name = "末诚灬",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "叶雨清霜",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Burning Blade",
-              level = 90,
-            },
-            {
-              name = "小奈龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "The Great Sea",
-              level = 90,
-            },
-            {
-              name = "Supermonoo",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Isillien",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["skyreach"] = {
-      name = "Skyreach",
-      runs = {
-        {
-          rank = 1,
-          score = 545.2,
-          level = 24,
-          time = 1673594,
-          keystoneTime = 1680999,
-          chests = 1,
-          completedAt = "2026-07-03T18:03:41.000Z",
+          completedAt = "2026-07-05T17:15:18.000Z",
           roster = {
             {
               name = "丶牙齿发黄了",
@@ -352,6 +301,57 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
+    ["skyreach"] = {
+      name = "Skyreach",
+      runs = {
+        {
+          rank = 1,
+          score = 545.7,
+          level = 24,
+          time = 1647773,
+          keystoneTime = 1680999,
+          chests = 1,
+          completedAt = "2026-07-05T16:34:17.000Z",
+          roster = {
+            {
+              name = "裂风酱嗷",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Silver Hand",
+              level = 90,
+            },
+            {
+              name = "Mjtdknight",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Pandaren",
+              level = 90,
+            },
+            {
+              name = "绿绿月光",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Isillien",
+              level = 80,
+            },
+            {
+              name = "黑川茜龙龙",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Silver Hand",
+              level = 90,
+            },
+            {
+              name = "Milkdemon",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Valley of Kings",
               level = 90,
             },
           },
