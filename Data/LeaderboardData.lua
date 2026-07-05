@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783188004,
+  lastUpdated = 1783209606,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -14,10 +14,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-07-02T19:10:04.000Z",
           roster = {
             {
-              name = "Mstwvr",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Eredar",
+              name = "Ratoxd",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Argent Dawn",
               level = 90,
             },
             {
@@ -28,10 +28,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Namelessxo",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Draenor",
+              name = "Mstwvr",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Eredar",
               level = 90,
             },
             {
@@ -42,10 +42,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Ratoxd",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Argent Dawn",
+              name = "Namelessxo",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Draenor",
               level = 90,
             },
           },
@@ -65,20 +65,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-07-01T14:56:19.000Z",
           roster = {
             {
-              name = "Griwygoose",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Vibezz",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
               name = "Andymeow",
               class = "Druid",
               spec = "Guardian",
@@ -90,6 +76,20 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Griwygoose",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
               level = 90,
             },
             {
@@ -116,20 +116,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-06-28T13:52:46.000Z",
           roster = {
             {
-              name = "Griwygoose",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Vibezz",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
               name = "Andymeow",
               class = "Druid",
               spec = "Guardian",
@@ -141,6 +127,20 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Griwygoose",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
               level = 90,
             },
             {
@@ -167,20 +167,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-06-06T17:34:35.000Z",
           roster = {
             {
-              name = "Griwygoose",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Vibezz",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
               name = "Andymeow",
               class = "Druid",
               spec = "Guardian",
@@ -192,6 +178,20 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Griwygoose",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
               level = 90,
             },
             {
@@ -218,20 +218,6 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-06-29T15:23:01.000Z",
           roster = {
             {
-              name = "Griwygoose",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
-              name = "Vibezz",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Kazzak",
-              level = 90,
-            },
-            {
               name = "Andymeow",
               class = "Druid",
               spec = "Guardian",
@@ -243,6 +229,20 @@ local MrMythicalLeaderboardData = {
               class = "Death Knight",
               spec = "Unholy",
               realm = "Ragnaros",
+              level = 90,
+            },
+            {
+              name = "Vibezz",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Kazzak",
+              level = 90,
+            },
+            {
+              name = "Griwygoose",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Kazzak",
               level = 90,
             },
             {
@@ -269,10 +269,10 @@ local MrMythicalLeaderboardData = {
           completedAt = "2026-07-02T10:32:45.000Z",
           roster = {
             {
-              name = "小奈龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "The Great Sea",
+              name = "李小树",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Rhonin",
               level = 90,
             },
             {
@@ -290,17 +290,17 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
+              name = "小奈龙龙",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "The Great Sea",
+              level = 90,
+            },
+            {
               name = "Supermonoo",
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Isillien",
-              level = 90,
-            },
-            {
-              name = "李小树",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Rhonin",
               level = 90,
             },
           },
@@ -327,6 +327,20 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
+              name = "小雨煲煲",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Grim Batol",
+              level = 90,
+            },
+            {
+              name = "天和山雨雪",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Eldre'Thalas",
+              level = 90,
+            },
+            {
               name = "孤独龙",
               class = "Evoker",
               spec = "Augmentation",
@@ -338,20 +352,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Al'ar",
-              level = 90,
-            },
-            {
-              name = "天和山雨雪",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Eldre'Thalas",
-              level = 90,
-            },
-            {
-              name = "小雨煲煲",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Grim Batol",
               level = 90,
             },
           },
@@ -378,9 +378,9 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Sjelelele",
-              class = "Evoker",
-              spec = "Augmentation",
+              name = "Speedk",
+              class = "Death Knight",
+              spec = "Unholy",
               realm = "Twisting Nether",
               level = 90,
             },
@@ -392,17 +392,17 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
               name = "Voluxar",
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Speedk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Twisting Nether",
               level = 90,
             },
           },
