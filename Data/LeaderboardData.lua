@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783490404,
+  lastUpdated = 1783512005,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -250,57 +250,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Tarren Mill",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["seat-of-the-triumvirate"] = {
-      name = "Seat of the Triumvirate",
-      runs = {
-        {
-          rank = 1,
-          score = 547.2,
-          level = 24,
-          time = 1922807,
-          keystoneTime = 2040999,
-          chests = 1,
-          completedAt = "2026-07-07T13:32:29.000Z",
-          roster = {
-            {
-              name = "裂风酱嗷",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "小雨煲煲",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Grim Batol",
-              level = 90,
-            },
-            {
-              name = "绿绿月光",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "黑川茜龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Milkdemon",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Valley of Kings",
               level = 90,
             },
           },
