@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783447204,
+  lastUpdated = 1783468805,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -261,18 +261,18 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 546.9,
+          score = 547.2,
           level = 24,
-          time = 1939163,
+          time = 1922807,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-07-05T17:15:18.000Z",
+          completedAt = "2026-07-07T13:32:29.000Z",
           roster = {
             {
-              name = "丶牙齿发黄了",
+              name = "裂风酱嗷",
               class = "Druid",
               spec = "Guardian",
-              realm = "Chillwind Point",
+              realm = "Silver Hand",
               level = 90,
             },
             {
@@ -283,24 +283,24 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "天和山雨雪",
+              name = "绿绿月光",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Eldre'Thalas",
-              level = 90,
+              realm = "Isillien",
+              level = 80,
             },
             {
-              name = "孤独龙",
+              name = "黑川茜龙龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Isillien",
+              realm = "Silver Hand",
               level = 90,
             },
             {
-              name = "阿布夏会变身",
+              name = "Milkdemon",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Al'ar",
+              realm = "Valley of Kings",
               level = 90,
             },
           },
