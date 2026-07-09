@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783576803,
+  lastUpdated = 1783598402,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 545.7,
+          score = 547.8,
           level = 24,
-          time = 1647773,
+          time = 1553282,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-07-05T16:34:17.000Z",
+          completedAt = "2026-07-09T11:43:02.000Z",
           roster = {
             {
-              name = "裂风酱嗷",
+              name = "李小树",
               class = "Druid",
               spec = "Guardian",
-              realm = "Silver Hand",
+              realm = "Rhonin",
               level = 90,
             },
             {
-              name = "Mjtdknight",
+              name = "末诚灬",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Pandaren",
+              realm = "Al'ar",
               level = 90,
             },
             {
-              name = "绿绿月光",
+              name = "叶雨清霜",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "黑川茜龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Silver Hand",
+              realm = "Burning Blade",
               level = 90,
             },
             {
-              name = "Milkdemon",
+              name = "小奈龙龙",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "The Great Sea",
+              level = 90,
+            },
+            {
+              name = "夜雨小梦",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Valley of Kings",
+              realm = "Blackmoore",
               level = 90,
             },
           },
