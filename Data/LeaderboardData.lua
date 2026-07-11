@@ -1,27 +1,27 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1783749605,
+  lastUpdated = 1783771205,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
       runs = {
         {
           rank = 1,
-          score = 545.9,
+          score = 546.1,
           level = 24,
-          time = 1816063,
+          time = 1807939,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2026-07-10T16:20:17.000Z",
+          completedAt = "2026-07-11T08:52:15.000Z",
           roster = {
             {
-              name = "温拌亚麻",
+              name = "裂风酱嗷",
               class = "Druid",
               spec = "Guardian",
-              realm = "Scarlet Crusade",
+              realm = "Silver Hand",
               level = 90,
             },
             {
-              name = "鲜血大王子",
+              name = "红衣嘉豪",
               class = "Death Knight",
               spec = "Unholy",
               realm = "Silver Hand",
