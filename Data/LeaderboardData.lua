@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1784030404,
+  lastUpdated = 1784052002,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -212,10 +212,10 @@ local MrMythicalLeaderboardData = {
           rank = 1,
           score = 560.1,
           level = 25,
-          time = 1798435,
+          time = 1794645,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-07-13T15:48:12.000Z",
+          completedAt = "2026-07-14T12:31:15.000Z",
           roster = {
             {
               name = "Drtreantino",
@@ -239,10 +239,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Рэйвмейв",
+              name = "Sjelelele",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Howling Fjord",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
