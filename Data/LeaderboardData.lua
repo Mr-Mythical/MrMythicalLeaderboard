@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1784397604,
+  lastUpdated = 1784419202,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 560.8,
+          score = 560.9,
           level = 25,
-          time = 1996078,
+          time = 1992226,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-07-01T14:56:19.000Z",
+          completedAt = "2026-07-18T20:21:25.000Z",
           roster = {
             {
-              name = "Andymeow",
+              name = "Startian",
               class = "Druid",
               spec = "Guardian",
-              realm = "Tarren Mill",
+              realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "Waalpen",
+              name = "Deadtian",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Ragnaros",
+              realm = "The Great Sea",
               level = 90,
             },
             {
-              name = "Vibezz",
+              name = "绿绿月光",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Kazzak",
-              level = 90,
+              realm = "Isillien",
+              level = 80,
             },
             {
-              name = "Griwygoose",
+              name = "风为龙龙",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Kazzak",
+              realm = "Silver Hand",
               level = 90,
             },
             {
-              name = "Speculation",
+              name = "貓貓家的糖糖",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Tarren Mill",
+              realm = "Silver Hand",
               level = 90,
             },
           },
