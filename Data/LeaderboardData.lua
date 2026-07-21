@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1784635203,
+  lastUpdated = 1784656804,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -108,46 +108,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 561.5,
+          score = 562.6,
           level = 25,
-          time = 1900266,
+          time = 1845649,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-07-13T16:34:38.000Z",
+          completedAt = "2026-07-21T14:26:12.000Z",
           roster = {
             {
-              name = "Drtreantino",
+              name = "Vadanxd",
               class = "Druid",
               spec = "Guardian",
-              realm = "Ragnaros",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "Speedk",
+              name = "Butaneanzx",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Twisting Nether",
+              realm = "Archimonde",
               level = 90,
             },
             {
-              name = "Roibendeux",
+              name = "Razhäg",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Twisting Nether",
+              realm = "Draenor",
               level = 90,
             },
             {
-              name = "Рэйвмейв",
+              name = "Zevokerr",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Howling Fjord",
+              realm = "Kazzak",
               level = 90,
             },
             {
-              name = "Voluxar",
+              name = "Freakerino",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Tarren Mill",
+              realm = "Kazzak",
               level = 90,
             },
           },
