@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1785024002,
+  lastUpdated = 1785045603,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -363,12 +363,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 560.4,
+          score = 560.7,
           level = 25,
-          time = 1957499,
+          time = 1946585,
           keystoneTime = 1980999,
           chests = 1,
-          completedAt = "2026-07-24T11:47:03.000Z",
+          completedAt = "2026-07-25T14:51:23.000Z",
           roster = {
             {
               name = "Vadanxd",
@@ -399,10 +399,10 @@ local MrMythicalLeaderboardData = {
               level = 90,
             },
             {
-              name = "Freakerino",
+              name = "Speculation",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Kazzak",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
