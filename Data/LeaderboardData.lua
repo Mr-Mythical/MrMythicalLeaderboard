@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1785240005,
+  lastUpdated = 1785261605,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -159,46 +159,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 562,
+          score = 562.1,
           level = 25,
-          time = 1703150,
+          time = 1698529,
           keystoneTime = 1800999,
           chests = 1,
-          completedAt = "2026-07-19T20:16:23.000Z",
+          completedAt = "2026-07-28T13:53:27.000Z",
           roster = {
             {
-              name = "Vividrd",
+              name = "Vismarck",
               class = "Druid",
               spec = "Guardian",
-              realm = "Sylvanas",
+              realm = "Azshara",
               level = 90,
             },
             {
-              name = "Sipdk",
+              name = "Blahbang",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Silvermoon",
+              realm = "Azshara",
               level = 90,
             },
             {
-              name = "Jetskimonk",
+              name = "양니리",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Tarren Mill",
+              realm = "Azshara",
               level = 90,
             },
             {
-              name = "Specithick",
+              name = "Gingievoker",
               class = "Evoker",
               spec = "Augmentation",
-              realm = "Silvermoon",
+              realm = "Azshara",
               level = 90,
             },
             {
-              name = "Pve",
+              name = "중이병딜딸러",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Stormscale",
+              realm = "Azshara",
               level = 90,
             },
           },
