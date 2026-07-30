@@ -1,57 +1,6 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1785348005,
+  lastUpdated = 1785369613,
   dungeons = {
-    ["algethar-academy"] = {
-      name = "Algeth'ar Academy",
-      runs = {
-        {
-          rank = 1,
-          score = 546.6,
-          level = 24,
-          time = 1781682,
-          keystoneTime = 1860999,
-          chests = 1,
-          completedAt = "2026-07-23T15:35:52.000Z",
-          roster = {
-            {
-              name = "Zacdruid",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Hyjal",
-              level = 90,
-            },
-            {
-              name = "Myzouth",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Burning Legion",
-              level = 90,
-            },
-            {
-              name = "Titiquemonk",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Ysondre",
-              level = 90,
-            },
-            {
-              name = "Nikovoker",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Ysondre",
-              level = 90,
-            },
-            {
-              name = "Nzangellips",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Hyjal",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
     ["magisters-terrace"] = {
       name = "Magisters' Terrace",
       runs = {
@@ -199,57 +148,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Azshara",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["pit-of-saron"] = {
-      name = "Pit of Saron",
-      runs = {
-        {
-          rank = 1,
-          score = 561.3,
-          level = 25,
-          time = 1737776,
-          keystoneTime = 1800999,
-          chests = 1,
-          completedAt = "2026-07-21T15:47:54.000Z",
-          roster = {
-            {
-              name = "裂风酱嗷",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Mjtdknight",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Pandaren",
-              level = 90,
-            },
-            {
-              name = "绿绿月光",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "黑川茜龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Silver Hand",
-              level = 90,
-            },
-            {
-              name = "Milkdemon",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Valley of Kings",
               level = 90,
             },
           },
