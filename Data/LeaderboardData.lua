@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1785520804,
+  lastUpdated = 1785542405,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -57,46 +57,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 562.1,
+          score = 562.7,
           level = 25,
-          time = 1928139,
+          time = 1893912,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-07-29T08:06:32.000Z",
+          completedAt = "2026-07-31T21:00:59.000Z",
           roster = {
             {
-              name = "裂风酱嗷",
+              name = "Drtreantino",
               class = "Druid",
               spec = "Guardian",
-              realm = "Silver Hand",
+              realm = "Ragnaros",
               level = 90,
             },
             {
-              name = "Mjtdknight",
+              name = "Speedk",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Pandaren",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
-              name = "绿绿月光",
+              name = "Roibendeux",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "黑川茜龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Silver Hand",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
-              name = "Milkdemon",
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Voluxar",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Valley of Kings",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
