@@ -1,51 +1,51 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1786039204,
+  lastUpdated = 1786060805,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
       runs = {
         {
           rank = 1,
-          score = 546.9,
+          score = 547,
           level = 24,
-          time = 1764654,
+          time = 1761595,
           keystoneTime = 1860999,
           chests = 1,
-          completedAt = "2026-08-03T15:45:49.000Z",
+          completedAt = "2026-08-06T18:26:08.000Z",
           roster = {
             {
-              name = "裂风酱嗷",
+              name = "Uwukittymeow",
               class = "Druid",
               spec = "Guardian",
-              realm = "Silver Hand",
+              realm = "Tarren Mill",
               level = 90,
             },
             {
-              name = "Mjtdknight",
+              name = "Speedk",
               class = "Death Knight",
               spec = "Unholy",
-              realm = "Pandaren",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
-              name = "绿绿月光",
+              name = "Roibendeux",
               class = "Monk",
               spec = "Mistweaver",
-              realm = "Isillien",
-              level = 80,
-            },
-            {
-              name = "黑川茜龙龙",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Silver Hand",
+              realm = "Twisting Nether",
               level = 90,
             },
             {
-              name = "Milkdemon",
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Voluxar",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Valley of Kings",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
@@ -57,18 +57,18 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 562.7,
+          score = 563.4,
           level = 25,
-          time = 1893912,
+          time = 1857381,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-07-31T21:00:59.000Z",
+          completedAt = "2026-08-06T22:23:37.000Z",
           roster = {
             {
-              name = "Drtreantino",
+              name = "Uwukittymeow",
               class = "Druid",
               spec = "Guardian",
-              realm = "Ragnaros",
+              realm = "Tarren Mill",
               level = 90,
             },
             {
@@ -261,12 +261,12 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 550,
+          score = 550.8,
           level = 24,
-          time = 1769636,
+          time = 1724518,
           keystoneTime = 2040999,
           chests = 1,
-          completedAt = "2026-08-06T14:06:25.000Z",
+          completedAt = "2026-08-06T17:00:36.000Z",
           roster = {
             {
               name = "Uwukittymeow",
