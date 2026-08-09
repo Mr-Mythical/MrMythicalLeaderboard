@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1786212002,
+  lastUpdated = 1786233608,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -312,46 +312,46 @@ local MrMythicalLeaderboardData = {
       runs = {
         {
           rank = 1,
-          score = 548.8,
+          score = 549.7,
           level = 24,
-          time = 1511118,
+          time = 1472070,
           keystoneTime = 1680999,
           chests = 1,
-          completedAt = "2026-08-04T19:35:25.000Z",
+          completedAt = "2026-08-08T18:57:33.000Z",
           roster = {
             {
-              name = "Ratoxd",
+              name = "Uwukittymeow",
               class = "Druid",
               spec = "Guardian",
-              realm = "Argent Dawn",
-              level = 90,
-            },
-            {
-              name = "Xanadeath",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Ragnaros",
-              level = 90,
-            },
-            {
-              name = "Mstwvr",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Eredar",
-              level = 90,
-            },
-            {
-              name = "Drakenyasha",
-              class = "Evoker",
-              spec = "Augmentation",
               realm = "Tarren Mill",
               level = 90,
             },
             {
-              name = "Namelessxo",
+              name = "Speedk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Roibendeux",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Voluxar",
               class = "Demon Hunter",
               spec = "Devourer",
-              realm = "Draenor",
+              realm = "Tarren Mill",
               level = 90,
             },
           },
