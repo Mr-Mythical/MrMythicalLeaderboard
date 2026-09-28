@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1790553626,
+  lastUpdated = 1790575205,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -216,6 +216,57 @@ local MrMythicalLeaderboardData = {
           keystoneTime = 1800999,
           chests = 1,
           completedAt = "2026-08-03T14:25:02.000Z",
+          roster = {
+            {
+              name = "Uwukittymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Speedk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Roibendeux",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Voluxar",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
+    ["seat-of-the-triumvirate"] = {
+      name = "Seat of the Triumvirate",
+      runs = {
+        {
+          rank = 1,
+          score = 550.8,
+          level = 24,
+          time = 1724518,
+          keystoneTime = 2040999,
+          chests = 1,
+          completedAt = "2026-08-06T17:00:36.000Z",
           roster = {
             {
               name = "Uwukittymeow",
