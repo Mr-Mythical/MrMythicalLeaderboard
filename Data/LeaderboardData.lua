@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1792108839,
+  lastUpdated = 1792130469,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -12,57 +12,6 @@ local MrMythicalLeaderboardData = {
           keystoneTime = 1860999,
           chests = 1,
           completedAt = "2026-08-06T18:26:08.000Z",
-          roster = {
-            {
-              name = "Uwukittymeow",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Speedk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Roibendeux",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Sjelelele",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Voluxar",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["magisters-terrace"] = {
-      name = "Magisters' Terrace",
-      runs = {
-        {
-          rank = 1,
-          score = 563.4,
-          level = 25,
-          time = 1857381,
-          keystoneTime = 2040999,
-          chests = 1,
-          completedAt = "2026-08-06T22:23:37.000Z",
           roster = {
             {
               name = "Uwukittymeow",
@@ -148,57 +97,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Hyjal",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["nexuspoint-xenas"] = {
-      name = "Nexus-Point Xenas",
-      runs = {
-        {
-          rank = 1,
-          score = 564,
-          level = 25,
-          time = 1605877,
-          keystoneTime = 1800999,
-          chests = 1,
-          completedAt = "2026-08-09T15:12:04.000Z",
-          roster = {
-            {
-              name = "Uwukittymeow",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Tarren Mill",
-              level = 90,
-            },
-            {
-              name = "Speedk",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Roibendeux",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Sjelelele",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Twisting Nether",
-              level = 90,
-            },
-            {
-              name = "Voluxar",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Tarren Mill",
               level = 90,
             },
           },
