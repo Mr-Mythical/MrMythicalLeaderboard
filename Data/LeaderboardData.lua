@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1792800024,
+  lastUpdated = 1792821664,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -352,57 +352,6 @@ local MrMythicalLeaderboardData = {
               class = "Demon Hunter",
               spec = "Devourer",
               realm = "Tarren Mill",
-              level = 90,
-            },
-          },
-        },
-      },
-    },
-    ["windrunner-spire"] = {
-      name = "Windrunner Spire",
-      runs = {
-        {
-          rank = 1,
-          score = 560.8,
-          level = 25,
-          time = 1938502,
-          keystoneTime = 1980999,
-          chests = 1,
-          completedAt = "2026-08-01T12:56:55.000Z",
-          roster = {
-            {
-              name = "Vismarck",
-              class = "Druid",
-              spec = "Guardian",
-              realm = "Azshara",
-              level = 90,
-            },
-            {
-              name = "Blahbang",
-              class = "Death Knight",
-              spec = "Unholy",
-              realm = "Azshara",
-              level = 90,
-            },
-            {
-              name = "양니리",
-              class = "Monk",
-              spec = "Mistweaver",
-              realm = "Azshara",
-              level = 90,
-            },
-            {
-              name = "Gingievoker",
-              class = "Evoker",
-              spec = "Augmentation",
-              realm = "Azshara",
-              level = 90,
-            },
-            {
-              name = "중이병딜딸러",
-              class = "Demon Hunter",
-              spec = "Devourer",
-              realm = "Azshara",
               level = 90,
             },
           },
