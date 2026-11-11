@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1794355315,
+  lastUpdated = 1794376806,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
@@ -205,6 +205,57 @@ local MrMythicalLeaderboardData = {
         },
       },
     },
+    ["pit-of-saron"] = {
+      name = "Pit of Saron",
+      runs = {
+        {
+          rank = 1,
+          score = 562.9,
+          level = 25,
+          time = 1662440,
+          keystoneTime = 1800999,
+          chests = 1,
+          completedAt = "2026-08-03T14:25:02.000Z",
+          roster = {
+            {
+              name = "Uwukittymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Speedk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Roibendeux",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Voluxar",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
     ["seat-of-the-triumvirate"] = {
       name = "Seat of the Triumvirate",
       runs = {
@@ -216,6 +267,57 @@ local MrMythicalLeaderboardData = {
           keystoneTime = 2040999,
           chests = 1,
           completedAt = "2026-08-06T17:00:36.000Z",
+          roster = {
+            {
+              name = "Uwukittymeow",
+              class = "Druid",
+              spec = "Guardian",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+            {
+              name = "Speedk",
+              class = "Death Knight",
+              spec = "Unholy",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Roibendeux",
+              class = "Monk",
+              spec = "Mistweaver",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Sjelelele",
+              class = "Evoker",
+              spec = "Augmentation",
+              realm = "Twisting Nether",
+              level = 90,
+            },
+            {
+              name = "Voluxar",
+              class = "Demon Hunter",
+              spec = "Devourer",
+              realm = "Tarren Mill",
+              level = 90,
+            },
+          },
+        },
+      },
+    },
+    ["skyreach"] = {
+      name = "Skyreach",
+      runs = {
+        {
+          rank = 1,
+          score = 549.6,
+          level = 24,
+          time = 1472070,
+          keystoneTime = 1680999,
+          chests = 1,
+          completedAt = "2026-08-08T18:57:33.000Z",
           roster = {
             {
               name = "Uwukittymeow",
