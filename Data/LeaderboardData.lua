@@ -1,5 +1,5 @@
 local MrMythicalLeaderboardData = {
-  lastUpdated = 1794376806,
+  lastUpdated = 1794398405,
   dungeons = {
     ["algethar-academy"] = {
       name = "Algeth'ar Academy",
